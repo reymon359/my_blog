@@ -1,6 +1,6 @@
 baseurl                 = "https://example.com/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Rmon Morcillo Blog"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
@@ -31,9 +31,9 @@ disableLanguages        = [""]
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "A place to express myself and write about anything."
     # Sets the meta tag author
-    author              = "HTML5UP and Hugo"
+    author              = "Ramon Morcillo"
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
