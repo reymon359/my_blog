@@ -71,7 +71,7 @@ disableLanguages        = [""]
       alt                 = "Ramón Morcillo"
 
   [params.sidebar]
-    about               = "test"
+    about               = "Ramon Morcillo is a Software Engineer who likes to develop web stuff."
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
