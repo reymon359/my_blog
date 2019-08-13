@@ -188,42 +188,42 @@ disableLanguages        = [""]
       identifier        = "far fa-envelope"
       weight            = 6
 
-  # [Languages.fr]
-  #   languageCode        = "fr"
-  #   LanguageName        = "Français"
-  #   title               = "Hugo Future Imperfect Slim in fr"
-  #   description         = "Un thème de HTML5 UP, porté par Julio Pescador. Slimmed et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo. "
-  #   weight              = 2
+  [Languages.fr]
+    languageCode        = "fr"
+    LanguageName        = "Français"
+    title               = "Hugo Future Imperfect Slim in fr"
+    description         = "Un thème de HTML5 UP, porté par Julio Pescador. Slimmed et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo. "
+    weight              = 2
 
-  #   [[Languages.fr.menu.main]]
-  #     name              = "Accueil"
-  #     url               = "/"
-  #     identifier        = "fas fa-home"
-  #     weight            = 1
+    [[Languages.fr.menu.main]]
+      name              = "Accueil"
+      url               = "/"
+      identifier        = "fas fa-home"
+      weight            = 1
 
-  #   [[Languages.fr.menu.main]]
-  #     name              = "About"
-  #     url               = "/about/"
-  #     identifier        = "far fa-id-card"
-  #     weight            = 2
+    [[Languages.fr.menu.main]]
+      name              = "About"
+      url               = "/about/"
+      identifier        = "far fa-id-card"
+      weight            = 2
 
-  #   [[Languages.fr.menu.main]]
-  #     name              = "Blog"
-  #     url               = "/blog/"
-  #     identifier        = "far fa-newspaper"
-  #     weight            = 3
+    [[Languages.fr.menu.main]]
+      name              = "Blog"
+      url               = "/blog/"
+      identifier        = "far fa-newspaper"
+      weight            = 3
 
-  #   [[Languages.fr.menu.main]]
-  #     name              = "Catégories"
-  #     url               = "/categories/"
-  #     identifier        = "fas fa-sitemap"
-  #     weight            = 5
+    [[Languages.fr.menu.main]]
+      name              = "Catégories"
+      url               = "/categories/"
+      identifier        = "fas fa-sitemap"
+      weight            = 5
 
-  #   [[Languages.fr.menu.main]]
-  #     name              = "Contact"
-  #     url               = "/contact/"
-  #     identifier        = "far fa-envelope"
-  #     weight            = 6
+    [[Languages.fr.menu.main]]
+      name              = "Contact"
+      url               = "/contact/"
+      identifier        = "far fa-envelope"
+      weight            = 6
 
   # [Languages.pl]
   #   languageCode        = "pl"
