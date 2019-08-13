@@ -1,6 +1,6 @@
 baseurl                 = "https://example.com/"
 DefaultContentLanguage  = "en"
-title                   = "Ramon Morcillo Blog"
+title                   = "Ramon Morcillo"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
@@ -57,7 +57,7 @@ disableLanguages        = [""]
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Ramon Morcillo"
-    paragraph             = "Full Stack Engineer, always trying <a href='https://ramonmorcillo.com/projects.html' target='_blank'>new things</a>."
+    paragraph             = "Software Engineer | 🖤web <br> Always doing <a href='https://ramonmorcillo.com/projects.html' target='_blank'>new things</a>."
     rssIntro              = false
     socialIntro           = true
 
@@ -154,7 +154,8 @@ disableLanguages        = [""]
   [Languages.es]
     languageCode        = "es"
     LanguageName        = "Español"
-    title               = "Ramon Morcillo en español"
+    title               = "Ramon Morcillo"
+    paragraph           = "ES Full Stack Engineer, always trying <a href='https://ramonmorcillo.com/projects.html' target='_blank'>new things</a>."
     description         = "Un sitio donde expresarme y escribir sorbe cualquier tema."
     weight              = 2
 
@@ -187,43 +188,49 @@ disableLanguages        = [""]
       url               = "/contact/"
       identifier        = "far fa-envelope"
       weight            = 6
+      
+    [[Languages.es.menu.main]]
+      name              = "Página Principal"
+      url               = "https://ramonmorcillo.com"
+      identifier        = "fas fa-atom"
+      weight            = 7
 
-  [Languages.fr]
-    languageCode        = "fr"
-    LanguageName        = "Français"
-    title               = "Hugo Future Imperfect Slim in fr"
-    description         = "Un thème de HTML5 UP, porté par Julio Pescador. Slimmed et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo. "
-    weight              = 2
+  # [Languages.fr]
+  #   languageCode        = "fr"
+  #   LanguageName        = "Français"
+  #   title               = "Hugo Future Imperfect Slim in fr"
+  #   description         = "Un thème de HTML5 UP, porté par Julio Pescador. Slimmed et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo. "
+  #   weight              = 2
 
-    [[Languages.fr.menu.main]]
-      name              = "Accueil"
-      url               = "/"
-      identifier        = "fas fa-home"
-      weight            = 1
+  #   [[Languages.fr.menu.main]]
+  #     name              = "Accueil"
+  #     url               = "/"
+  #     identifier        = "fas fa-home"
+  #     weight            = 1
 
-    [[Languages.fr.menu.main]]
-      name              = "About"
-      url               = "/about/"
-      identifier        = "far fa-id-card"
-      weight            = 2
+  #   [[Languages.fr.menu.main]]
+  #     name              = "About"
+  #     url               = "/about/"
+  #     identifier        = "far fa-id-card"
+  #     weight            = 2
 
-    [[Languages.fr.menu.main]]
-      name              = "Blog"
-      url               = "/blog/"
-      identifier        = "far fa-newspaper"
-      weight            = 3
+  #   [[Languages.fr.menu.main]]
+  #     name              = "Blog"
+  #     url               = "/blog/"
+  #     identifier        = "far fa-newspaper"
+  #     weight            = 3
 
-    [[Languages.fr.menu.main]]
-      name              = "Catégories"
-      url               = "/categories/"
-      identifier        = "fas fa-sitemap"
-      weight            = 5
+  #   [[Languages.fr.menu.main]]
+  #     name              = "Catégories"
+  #     url               = "/categories/"
+  #     identifier        = "fas fa-sitemap"
+  #     weight            = 5
 
-    [[Languages.fr.menu.main]]
-      name              = "Contact"
-      url               = "/contact/"
-      identifier        = "far fa-envelope"
-      weight            = 6
+  #   [[Languages.fr.menu.main]]
+  #     name              = "Contact"
+  #     url               = "/contact/"
+  #     identifier        = "far fa-envelope"
+  #     weight            = 6
 
   # [Languages.pl]
   #   languageCode        = "pl"
