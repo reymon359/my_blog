@@ -1,9 +1,10 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About Me"
+date = "2019-08-13"
 +++
-
-Hugo is a static site engine written in Go.
+ <!-- ![Ramon Morcillo](/img/about/yo.jpg) -->
+ {{< figure src="/img/about/yo.jpg" title="Ramon Morcillo" width="50%" >}}
+I am a Full Stack Multimedia Software Engineer by the University of Alicante. I consider myself a technology enthusiast, very active and willing to learn and create new things. I am always open to new challenges and opportunities.
 
 
 It makes use of a variety of open source projects including:
