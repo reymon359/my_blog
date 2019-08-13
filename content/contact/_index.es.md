@@ -2,11 +2,11 @@
 title = "Contact"
 type = "contact"
 netlify = false
-emailservice = "formspree.io/example@email.com"
-contactname = "Votre nom"
-contactemail = "Votre adresse mail"
-contactsubject = "Sujet"
-contactmessage = "Votre message"
-contactlang = "fr"
+emailservice = "formspree.io/ramonmorcillodev@gmail.com"
+contactname = "Ramon Morcillo"
+contactemail = "ramonmorcillodev@gmail.com"
+contactsubject = "Hi"
+contactmessage = "Hi"
+contactlang = "es"
 contactanswertime = 24
 +++
