@@ -1,5 +1,5 @@
 +++
-title = "Contact"
+title = "Contacto"
 type = "contact"
 netlify = false
 emailservice = "formspree.io/ramonmorcillodev@gmail.com"
