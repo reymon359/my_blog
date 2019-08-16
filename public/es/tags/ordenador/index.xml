@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ordenador on Ramon Morcillo</title>
+    <link>https://example.com/es/tags/ordenador/</link>
+    <description>Recent content in ordenador on Ramon Morcillo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/es/tags/ordenador/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Antivirus gratis</title>
+      <link>https://example.com/es/blog/antivirus/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/es/blog/antivirus/</guid>
+      <description>Instalar y renovar ESET NOD32 gratis Después de que mucha gente me lo pidiera, en este documento voy a explicar como instalar y renovar de forma gratuita el antivirus ESET NOD32 en Windows, el cual es posiblemente el mejor del mercado. Si estás interesado en comprarlo actualmente el precio de la versión básica de este antivirus es de 30 euros en este enlace. La versión que instalaremos nosotros será la completa.</description>
+    </item>
+    
+  </channel>
+</rss>

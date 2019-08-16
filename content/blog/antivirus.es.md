@@ -3,16 +3,16 @@ author = "Ramón Morcillo"
 categories = ["tecnología"]
 tags = ["antivirus", "ordenador", "seguridad"]
 date = "2019-08-16"
-description = "Como instalar y renovar el antivirus ESETNOD32 de forma gratuita."
+description = "Como instalar y renovar el antivirus ESET NOD32 de forma gratuita."
 featured = "2019/antivirus.jpg"
-featuredalt = "ESETNOD32"
+featuredalt = "ESET NOD32"
 featuredpath = ""
 linktitle = ""
 title = "Antivirus gratis"
 type = "post"
 draft = "false"
 +++
-## Instalar y renovar ESETNOD32 gratis
+## Instalar y renovar ESET NOD32 gratis
 
 Después de que mucha gente me lo pidiera, en este documento voy a explicar como instalar y renovar de forma **gratuita** el antivirus [ESET NOD32](https://www.eset.com/es/hogar/nod32-antivirus-windows) en **Windows**, el cual es posiblemente el **mejor del mercado**. Si estás interesado en comprarlo actualmente el precio de la versión básica de este antivirus es de 30 euros en [este enlace](https://www.eset.com/de/home/antivirus/). La versión que instalaremos nosotros será la completa. Si ya lo tienes instalado y está a punto de caducar o ya ha caducado y quieres renovarlo entonces baja hasta **Renovar**.
 
