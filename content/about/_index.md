@@ -2,13 +2,12 @@
 title = "About Me"
 date = "2019-08-13"
 +++
- <!-- ![Ramon Morcillo](/img/about/yo.jpg#center) -->
  <!-- ![your_img](/img/your_img.png#center)
 ![your_img](/img/your_img.png#floatleft)
 ![your_img](/img/your_img.png#floatright) -->
- <img align="center" src="/img/about/yo.jpg#center" alt="Ramon Morcillo" width="50%"  />
+ <img align="center" style="text-align:center" src="/img/about/yo.jpg#center" alt="Ramon Morcillo" width="50%"  />
 
- <!-- {{< figure src="/img/about/yo.jpg" align="center" title="Ramon Morcillo" width="50%"   >}} -->
+ {{< figure src="/img/about/yo.jpg"  title="Ramon Morcillo" width="50%"   >}}
 I am a Full Stack Multimedia Software Engineer by the University of Alicante. I consider myself a technology enthusiast, very active and willing to learn and create new things. I am always open to new challenges and opportunities.
 
 
