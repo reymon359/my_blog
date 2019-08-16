@@ -20,8 +20,8 @@ Después de que mucha gente me lo pidiera, en este documento voy a explicar como
 
 Antes de comenzar con la descarga e instalación debemos desinstalar cualquier antivirus que tengamos actualmente ya que **no es bueno tener más de un antivirus** instalado porque pueden **interferir entre ellos** y **bloquear funcionalidades** el uno del otro.
 
-¿Cómo sé si tengo algún antivirus instalado ya? Bueno si sabes
-
+¿Cómo sé si tengo algún antivirus instalado ya? Para 
+https://answers.microsoft.com/es-es/windows/forum/windows_7-windows_install/como-puedo-saber-si-mi-equipo-tiene-algun/1a53fefd-8982-4eb9-b5a2-9d2b421f0099?auth=1
 
 ## Descarga
 
@@ -29,11 +29,7 @@ Para empezar nos descargamos el instalador desde [la página de descarga oficial
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Antivirus-gratis0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Antivirus-gratis0.png "image_tooltip")
-
+{{< figure src="https://lh3.googleusercontent.com/XH-7CYEpl9q5Q5UQrxAXRzSs7Kwo5GO0WUYyEJpNqdV7LUJcCPriohQ8oXHAgplwQ_3z40r9DQCgX_in6dVC-18xTrZRbEIT5bIwOY16d3B8_oD05G3t8fnKbHsdmo7hSvtyxFs_HjKVLiNRkRSH9LKBWfTeH3zwdq6_j0Daxx6wdjtNrxjWoCs9wIq2Xv23bz1PJPH8w-CvJOzGxTPKUzmlfELp56Hir5tjYATRC5vxRe0lw-7ofvIoZIMg_J0gDj8QLQzfibZxdq7fDbdQvIvtkXUwCzQyeSiVV29Z_PVzXkNMHXIAj6mm7sHwBY9Kjc5a9dMwXpvmVZQo2h--yH58klBqSzISTL8Uyteko-Y17aUDfrK6RPWpMtqdfwKveCr5V2vxpJo0OML09IPhFHuMxvWsnqqoGgZ4r2jXHemdskBKeB1H-tv9-LOoDx59yUIeSZ3apocwoAdGq1YcHRgUiMxPhrC7xgSPmN3t_ruTGIMlezMveAVCb-wDw0H0cXdrmCC9Zara_8M5f2Lw11O4UCkp4i43ej7ZQLy-nLuIFNvvp0UIuQinGp4fbU_vyulB1np81JBOdzoGadi18-eUeBt3WjABUsj8Nxhf1egzZhDA-rjZ2qbaZchoA4UVhHEFDqAnGlMhMgDcNkrMIP71VGI0f0RA1kmAS0-77Y5Y2N-3rDcpuQZUURnPn2SnrjGFZWzjkqoMlIj6SotCBUVeuw=w1600-h758-no" title="Página de descarga" url="https://descargas.eset.es/eset-internet-security" >}}
 
 
 ## Instalación
