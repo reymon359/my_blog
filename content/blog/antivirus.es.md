@@ -4,12 +4,13 @@ categories = ["tecnología"]
 tags = ["antivirus", "ordenador", "seguridad"]
 date = "2019-08-16"
 description = "Como instalar y renovar el antivirus ESETNOD32 de forma gratuita."
-featured = "2019/antivirus/featured.jpg"
+featured = "2019/antivirus.jpg"
 featuredalt = "ESETNOD32"
 featuredpath = ""
 linktitle = ""
 title = "Antivirus gratis"
 type = "post"
+draft = "false"
 +++
 ## Instalar y renovar ESETNOD32 gratis
 
