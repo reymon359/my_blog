@@ -3,136 +3,136 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/tags/antivirus/</loc>
+    <loc>https://blog.ramonmorcillo.com/tags/antivirus/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/antivirus/"
+                href="https://blog.ramonmorcillo.com/es/tags/antivirus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/antivirus/"
+                href="https://blog.ramonmorcillo.com/tags/antivirus/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/blog/</loc>
+    <loc>https://blog.ramonmorcillo.com/blog/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/blog/"
+                href="https://blog.ramonmorcillo.com/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/"
+                href="https://blog.ramonmorcillo.com/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://blog.ramonmorcillo.com/categories/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/categories/"
+                href="https://blog.ramonmorcillo.com/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://blog.ramonmorcillo.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/computer/</loc>
+    <loc>https://blog.ramonmorcillo.com/tags/computer/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/antivirus/</loc>
+    <loc>https://blog.ramonmorcillo.com/blog/antivirus/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/blog/antivirus/"
+                href="https://blog.ramonmorcillo.com/es/blog/antivirus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/antivirus/"
+                href="https://blog.ramonmorcillo.com/blog/antivirus/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://blog.ramonmorcillo.com/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/"
+                href="https://blog.ramonmorcillo.com/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://blog.ramonmorcillo.com/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/security/</loc>
+    <loc>https://blog.ramonmorcillo.com/tags/security/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://blog.ramonmorcillo.com/tags/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/"
+                href="https://blog.ramonmorcillo.com/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://blog.ramonmorcillo.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/categories/technology/</loc>
+    <loc>https://blog.ramonmorcillo.com/categories/technology/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://blog.ramonmorcillo.com/about/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/about/"
+                href="https://blog.ramonmorcillo.com/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://blog.ramonmorcillo.com/about/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://blog.ramonmorcillo.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/contact/"
+                href="https://blog.ramonmorcillo.com/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/contact/"
+                href="https://blog.ramonmorcillo.com/contact/"
                 />
   </url>
   

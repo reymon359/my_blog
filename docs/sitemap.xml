@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://example.com/en/sitemap.xml</loc>
+	   	<loc>https://blog.ramonmorcillo.com/en/sitemap.xml</loc>
 		
 	   	<lastmod>2019-08-16T00:00:00+00:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://example.com/es/sitemap.xml</loc>
+	   	<loc>https://blog.ramonmorcillo.com/es/sitemap.xml</loc>
 		
 	   	<lastmod>2019-08-16T00:00:00+00:00</lastmod>
 		

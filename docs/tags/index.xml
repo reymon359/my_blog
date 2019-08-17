@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ramon Morcillo</title>
-    <link>https://example.com/tags/</link>
+    <link>https://blog.ramonmorcillo.com/tags/</link>
     <description>Recent content in Tags on Ramon Morcillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ramonmorcillo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>antivirus</title>
-      <link>https://example.com/tags/antivirus/</link>
+      <link>https://blog.ramonmorcillo.com/tags/antivirus/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/antivirus/</guid>
+      <guid>https://blog.ramonmorcillo.com/tags/antivirus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>computer</title>
-      <link>https://example.com/tags/computer/</link>
+      <link>https://blog.ramonmorcillo.com/tags/computer/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/computer/</guid>
+      <guid>https://blog.ramonmorcillo.com/tags/computer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>security</title>
-      <link>https://example.com/tags/security/</link>
+      <link>https://blog.ramonmorcillo.com/tags/security/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/security/</guid>
+      <guid>https://blog.ramonmorcillo.com/tags/security/</guid>
       <description></description>
     </item>
     

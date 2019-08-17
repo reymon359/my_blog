@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ramon Morcillo</title>
-    <link>https://example.com/</link>
+    <link>https://blog.ramonmorcillo.com/</link>
     <description>Recent content on Ramon Morcillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ramonmorcillo.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Install and renew ESETNOD32 free</title>
-      <link>https://example.com/blog/antivirus/</link>
+      <link>https://blog.ramonmorcillo.com/blog/antivirus/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/antivirus/</guid>
+      <guid>https://blog.ramonmorcillo.com/blog/antivirus/</guid>
       <description>hi</description>
     </item>
     
