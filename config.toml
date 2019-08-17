@@ -1,5 +1,5 @@
 baseurl                 = "https://blog.ramonmorcillo.com/"
-DefaultContentLanguage  = "en"
+DefaultContentLanguage  = "es"
 title                   = "Ramon Morcillo"
 theme                   = "hugo-future-imperfect-slim-theme"
 preserveTaxonomyNames   = true
