@@ -5,7 +5,7 @@
     <link>https://blog.ramonmorcillo.com/tags/</link>
     <description>Recent content in Tags on Ramon Morcillo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>es</language>
     <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.ramonmorcillo.com/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -21,20 +21,20 @@
     </item>
     
     <item>
-      <title>computer</title>
-      <link>https://blog.ramonmorcillo.com/tags/computer/</link>
+      <title>ordenador</title>
+      <link>https://blog.ramonmorcillo.com/tags/ordenador/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ramonmorcillo.com/tags/computer/</guid>
+      <guid>https://blog.ramonmorcillo.com/tags/ordenador/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>security</title>
-      <link>https://blog.ramonmorcillo.com/tags/security/</link>
+      <title>seguridad</title>
+      <link>https://blog.ramonmorcillo.com/tags/seguridad/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ramonmorcillo.com/tags/security/</guid>
+      <guid>https://blog.ramonmorcillo.com/tags/seguridad/</guid>
       <description></description>
     </item>
     

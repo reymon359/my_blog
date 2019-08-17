@@ -3,137 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.ramonmorcillo.com/es/tags/antivirus/</loc>
+    <loc>https://blog.ramonmorcillo.com/tags/antivirus/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ramonmorcillo.com/blog/antivirus/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ramonmorcillo.com/blog/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ramonmorcillo.com/categories/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.ramonmorcillo.com/tags/antivirus/"
+                href="https://blog.ramonmorcillo.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://blog.ramonmorcillo.com/es/tags/antivirus/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.ramonmorcillo.com/es/blog/antivirus/</loc>
-    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.ramonmorcillo.com/blog/antivirus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://blog.ramonmorcillo.com/es/blog/antivirus/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.ramonmorcillo.com/es/blog/</loc>
-    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.ramonmorcillo.com/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://blog.ramonmorcillo.com/es/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://blog.ramonmorcillo.com/es/categories/</loc>
-    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://blog.ramonmorcillo.com/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://blog.ramonmorcillo.com/es/categories/"
-                />
   </url>
   
   <url>
-    <loc>https://blog.ramonmorcillo.com/es/tags/ordenador/</loc>
+    <loc>https://blog.ramonmorcillo.com/tags/ordenador/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ramonmorcillo.com/es/</loc>
+    <loc>https://blog.ramonmorcillo.com/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://blog.ramonmorcillo.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="https://blog.ramonmorcillo.com/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://blog.ramonmorcillo.com/es/"
-                />
   </url>
   
   <url>
-    <loc>https://blog.ramonmorcillo.com/es/tags/seguridad/</loc>
+    <loc>https://blog.ramonmorcillo.com/tags/seguridad/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ramonmorcillo.com/es/tags/</loc>
+    <loc>https://blog.ramonmorcillo.com/tags/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://blog.ramonmorcillo.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
                 href="https://blog.ramonmorcillo.com/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://blog.ramonmorcillo.com/es/tags/"
-                />
   </url>
   
   <url>
-    <loc>https://blog.ramonmorcillo.com/es/categories/tecnolog%C3%ADa/</loc>
+    <loc>https://blog.ramonmorcillo.com/categories/tecnolog%C3%ADa/</loc>
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ramonmorcillo.com/es/about/</loc>
+    <loc>https://blog.ramonmorcillo.com/about/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.ramonmorcillo.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://blog.ramonmorcillo.com/es/about/"
-                />
   </url>
   
   <url>
-    <loc>https://blog.ramonmorcillo.com/es/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.ramonmorcillo.com/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://blog.ramonmorcillo.com/es/contact/"
-                />
+    <loc>https://blog.ramonmorcillo.com/contact/</loc>
   </url>
   
 </urlset>
