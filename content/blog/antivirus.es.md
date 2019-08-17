@@ -14,8 +14,7 @@ draft = "false"
 +++
 ## Instalar y renovar ESET NOD32 gratis
 
-Después de que mucha gente me lo pidiera, en este documento voy a explicar como instalar y renovar de forma **gratuita** el antivirus [ESET NOD32](https://www.eset.com/es/hogar/nod32-antivirus-windows) en **Windows**, el cual es posiblemente el **mejor del mercado**. Si estás interesado en comprarlo actualmente el precio de la versión básica de este antivirus es de 30 euros en [este enlace](https://www.eset.com/de/home/antivirus/). La versión que instalaremos nosotros será la completa.
- <!-- Si ya lo tienes instalado y está a punto de caducar o ya ha caducado y quieres renovarlo debes seguir los mismos pasos. -->
+Después de que mucha gente me lo pidiera, en este documento voy a explicar como instalar y renovar de forma **gratuita** el antivirus [ESET NOD32](https://www.eset.com/es/hogar/nod32-antivirus-windows) en **Windows**, el cual es posiblemente el **mejor del mercado**. Si estás interesado en comprarlo actualmente el precio de la versión básica de este antivirus es de 30 euros en [este enlace](https://www.eset.com/de/home/antivirus/). La versión que instalaremos nosotros será la completa. Si ya lo tienes instalado y está a punto de caducar o ya ha caducado y quieres renovarlo debes seguir los mismos pasos.
 
 ## Descarga
 
@@ -61,7 +60,7 @@ En la siguiente ventana pulsamos **Acepto** y comenzará la siguiente descarga.
 
 {{< figure src="https://lh3.googleusercontent.com/4cM52_qbEDg6RHL5fL7Ujw45qsHQhsyFSvHXnVcqKfmO9CjRuOZg_5DSs_QDe3WVRsP10roGhpEvVut6u1fCLvoTiBYlDteIFXsCPvsc6xuCzRKV2X2jC8Acel8ung0uqDfezeiULpuu4tMTSPqW9xOg_vw2VYRPa8cTDpF7kccrn67HyoKyRn-wflG8EPUNwOd_1Y9cbUtdV1ARzjmzvnPxBZb-DFLGDYoYODWZ-W6nJPmBk_qx_f7LAjiLw5iio8_xJ7ndNq8tvMZpDLYhXPK55EGKxVGi8EV6W7T7ZuXFlprH5uC-G2vLyn1yV5GHGF0UM7dTIYt-ezkVOUH0QdemvmIf4fz5_fOBYTZuoxEHPb9xoYIRN5z249ZA2MM9XF58_3jvnW_1o8HdFc3gG5rKiCOWKheDB5l7rH-AGq9BUA1dLWzJDmK2CYvtSGMt2YLG_Vb4DX5VLfdllbun_tOeQtFFAQY8akA6UD3YwTEO_hsM0y2BjJHkpZh-3RquW35eElGcJmtUkRM7gsu2NjSQlcFPZJdvqosiwXNjwnqfeyyBrlOv176E9tTR6YvLzTiqwbLeqoAbNrZktoo-chciCXNiPO6l1s04ptA3exDj0VO0b4R4PT3RNLgcHuH7fIKOiaus7xRQjtbPHRYNTRmuqrsVtPLwno0oatn-WAvSfO5MVb4WFQoEW-tDhSyEoLAeqC3-d0ARvAqwYnuFj34tWQ=w802-h512-no">}}
 
-Ahora viene la ventana de **opción de activación** en la que deberemos elegir la opción **Licencia de prueba gratuita**.
+Ahora viene la ventana de **opción de activación**, como no tenemos ninguna clave ni hemos adquirido una licencia elegimos la opción **Licencia de prueba gratuita**. 
 
 {{< figure src="https://lh3.googleusercontent.com/n4pVF2fN9KFmoP-Hw52-QClOruvgDAdrq3oPvLwIlzebzLZWUqUyPJ2ogUC6A_CO7d7u8z7XOIUgwrji_WJbkC4BkroR7cPvElusDM69ZgVx4_Egp1Lxg7x-fqKTVa0E3UbHrcD6UFyAh_B5zw2A97fBoNOuu2NSnaPPWLxhD8OPu9ieVgv4CNa76U4IFzRMEKiXB_edandriQDQSSnZPEeVQHU_dCfIX7IDY9bNuC0zn1Ye4M6LaWTTdjGghO0QvZ2hPKhX30MD2Az4DnYSbAmOhOKdCdvFYnO_ohP3D779dQrDt9QLEln0w0YpJF0MjWmv0_yOa8JPSW0pvL5kie1-YxSwnzrB9B7BcJlXJDGf7vW5ldZP2E5Y1JTrb0mix_98M45YbEADL6hayXB1bBbweWWzic3aJn8UFJGZluGcbp1h9TDAY3chDQQQJ79LgEuFv7dOTYI1jObG3-wOE25ifxtTQWhMYYSttN0iFEssu-snwBic2Y_gyxnWm4UZt_b3zzikjD6rm7yHOqbJ9zsGYOQqSR6zprBAtK8OG9d2ieuUWQOqiupoyClflHp41ARoqBFwFdJHojLqOGWIb5k4cihjz1RoBzHbYSD1HJVM8DEj5rC3QO3s7vgB55RcO2R8w3Fl8SbQITrTWI_gSaH2KxN4nCBq1TMxHewIvGD31gxJgXU4Zu-_HaXQnLB3wXayG3pNHWDluHRtKGQFsEocng=w798-h512-no">}}
 
@@ -85,6 +84,12 @@ Luego nos preguntará si queremos participar en el programa de mejora de la expe
 
 Una vez finalizada la instalación nos deberá aparecer una ventana con el título de **Instalación correcta**,hacemos click en **Hecho**.
 
+{{< figure src="https://lh3.googleusercontent.com/nP-P6qvgJ95vX4WJKn2-cjeAyd1pl8st8754arIo46NkJIA3BQpKcM6gfnnFbkg6s7h0xoy1pbUPi0Zs65oXtGg0PLsn2nzdKJisttJbKdergEV1Pj--TomqIGiJiyK5bROVUvAYvzhVp2g0hvM1ot09dp-qe8s1jmCplFhzyZ8i96p34qLQv8wDIB3EQ0LFgUuSukmz9RJCD2A_7NjmAat2TWT92F-H3hnCdGv02Nk-04qSaQVsKSNzymkbqVCeXQfIMwmOqI72zL7cIlld4btbBrYQAGyq56j65QxUCVNKhJcinYSQ0WBMldyOTd_dDkwgiF2cRuAYrmZoPsqaou2Xamn17pjrjI-BANbpqzlrS2ontA8TRvKcst9TnyieUrr_1t9tVRhpZnvxBW_rwkPBIWD8hML_8aIk_2UBKngO4N3tyRJI6cMju68BKG3rQamlJDMGTG4fsiPfnTeUwEcDz1i5wSc6D6rJztXY4s5842DSV4XfYzgX6dURAaEEUrY55xQVqIU-kaiNU06e4DkhjVojci3Qlo0AC1IvM6vxMuWd2v1xVg9G2rA6qL2h5EU7Jl2AAJ18GD2lHZRkD0yaIE2ztc0EvgKdmMUxXC2wcWo77nfdSX98IcJMaVp46MixOXsFBus0UsYH5i44VAjh5c21Kl4S0TplrZzkc3v4DDLDxOkBjhWjORpT9VkU3CTOtwDcw6Cggi-IUG7CKtFqrQ=w796-h510-no">}}
 
+**Enhorabuena!🎉🎉** Ya hemos instalado el antivirus, ahora nos aparecerá una ventana por si queremos configurar las opciones de **control parental** y **antirrobo**. Como podemos configurarlas más tarde si las necesitamos, por ahora cerramos la ventana.
+
+{{< figure src="https://lh3.googleusercontent.com/hoORzfcr3tS7J7j3roJUYlJ2a7pSSmoQgUvSUfI0aBxiHjTOzO0H-YufzREhHtUzCWINC4g6iriGAZbYxgsLZdlkE42frz_ssUE3oNrEQwfsMZAqXwuHw7l1ippSypCqNUunKB5UcokAq6Qgk6sCwU2omT6PCj7jFTGSQxaBdBRNZ87fwkEXQsaMrp-NSQAzzBkPdipG55uiRVbC9pixvtJqiU9EjGkeBPPvwStjx-sFo6v91iPhYjS2PWBSogSaWnXmExaZhtfapLMkKvpMqCQ2bGU0xqX-iDYRCmYed0hJLBmLwxyvaHCXuJsKVR9Y-mEWZ2xPJlf6A69BBYKqoBEDwC6hmQcV8jU3Bp4jUvrus3FklBSbx1N3h2W-g4w5EwhEAP1ByaXLJXADXKCvhDw8-oC9NYm0rgXa2-_y6V9bkYfUcYBUFnl4oq0qK9VgHmOJIMG15-b2IeJY5w1KNJyzKKLNxWDZjcORSA6LW2aVVlrKUYvy0JSDMAs1aTSFszTcigKnEHni29Rcmw1SNKKo6elep_0SwfHbCJdcpPw4WInf4R-E7GsHNL8yNVyxzHzuWnSQJrSqRKhDTp8yizHL4DfDQMzfFicGcSGcHHJaIakFUmFQLnRbUIdh76Hivd2Bl2mQBEfRFtZWieF-URFPnRcUr3JI2PKi-ltLuf20snvo5TZGzLXDLhBpWt90L8Su1gwehZ7dcXkuDmmPgIFthg=w784-h493-no">}}
+
+Y esta sería la 
 
 ## Renovar
