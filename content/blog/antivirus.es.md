@@ -18,6 +18,7 @@ Con la intención de **ayudar y enseñar** a aquella gente que necesita un antiv
 
 ## Índice
 
+
 - [Descarga](#descarga)
 - [Preparar el equipo](#preparar-el-equipo)
 - [Instalación](#instalaci%c3%b3n)
@@ -36,18 +37,21 @@ Para empezar nos descargaremos el instalador desde [la página de descarga ofici
 
 Antes de comenzar con la instalación debemos desinstalar cualquier antivirus que tengamos actualmente ya que **no es bueno tener más de un antivirus** instalado porque pueden **interferir entre ellos** y **bloquear funcionalidades** el uno del otro.
 
-¿Cómo sé si tengo algún antivirus instalado ya? Para ver si tenemos algún antivirus instalado hacemos click en Inicio (el boton de la esquina inferior izquierda) y buscamos **protección antivirus y contra amenazas**. Una vez accedamos, lo primero que nos aparecerá es el nombre del antivirus que tenemos actualmente (en caso de tener alguno). En mi caso ESET Security.
+¿Cómo sé si tengo algún antivirus instalado ya? Para ver si tenemos algún antivirus instalado hacemos click en Inicio (el boton de la esquina inferior izquierda) y buscamos **protección antivirus y contra amenazas**. Una vez accedamos, lo primero que nos aparecerá es el nombre del antivirus que tenemos actualmente (en caso de tener alguno). En mi caso aparece *ESET Security* porque es el que tengo instalado actualmente.
+
 {{< figure src="https://lh3.googleusercontent.com/1cTYUXw1AsH4-CcBKWrAe70YVTmuzVc57lVewwnUj_c78xOI7k-r6C88FYQUO3EbKsAoVhNFKUdj1N4loIxADauLEPIyYCgLPDFAI8J7tY0X4ktU6K3fbbiFD1Fh0qO6-WPSp50O20dZagDJYfJuutp-Qg5LausbqSC8I_QjxEyIh68oU0K4jBzg0u47AwxPjeUR3zJoDr0lOf-iqUhKuz2iJ_6gXr7fTdTAXlF7ZbmOTrKsanviZ3vVlk0O-HPiDaR9rNfIj080P53cqZx7b1KJw7UlVkxVSOjRObQuPdymSMKef3XwreC2c9IST6IrY3upomKeTYz-DJDX-YVnZAyjtwmrfH1KuUk-mxdiAk8IBEuZtBtgh_rolN2YvUfxszf1xHDfBtIhoZrDchrFJvsGI8MwJdcUJICOHh27BxWUSY8ZnDAhzT0If8-Em2c-MCoJGUy9UABj-y-k4yRtGm3LWAAP-wZDTyHscGoRf_rJHaOz3_vz5vP8EydlexH_IKRwS4s0Qk2CpfXm8MRAS5Fkw9WwgG7yWhWpXXxZIl3bSYHfuctrrnPyywGCM1RE6_FOdpvqaoIq53hsvOur56dOkb0LltfvlZn-Y3mo9mgXPXXJZqKT9P7cCXEkmF1hUV-05D1_QdkdM272VWTyzJ3u2aI1CFEPS2krWmEP0noZtdbWdU42yl3Pbq49K6pOdC4WemHR1aA8z7qgO-5Jny2LZA=w950-h843-no"   >}}
 
-El siguiente paso será **desinstalar el antivirus** en caso de que tuviéramos alguno. Para ello volvemos a hacer click en windows y buscamos **Panel de Control** y accedemos. Dentro del Panel de control seleccionamos **Programas** y luego **Programas y características**. Aquí podemos ver todos los programas instalados en nuestro ordenador, buscamos el antivirus y lo desinstalamos. 
+En caso de que no tuviéramos un nativirus instalado o tuvieramos el **Windows defender** (el antivirus por defecto de Windows) podemos ir directamente a la [Instalación](#instalaci%c3%b3n). 
+Si por el contrario nos aparece algún antivirus vamos a **desinstalarlo** Para ello volvemos a hacer click en windows, buscamos **Panel de Control** y accedemos. Dentro del Panel de control seleccionamos **Programas** y luego **Programas y características**. Aquí podemos ver todos los programas instalados en nuestro ordenador, buscamos el antivirus, en mi caso busco *ESET Security* que era el nombre que me aparecía anteriormente (a veces no tiene el mismo nombre), hago click en él y sigo los pasos para desinstalarlo.
 
 {{< figure src="https://lh3.googleusercontent.com/NhH7wg-hPLjxVLj2N_3olB3QYblo6eUF4vHZU3x3Fn_cqCulgfIm-rcS7gG82oVSgEbiWuBy6B59kTvv7h5Rd7H3FLlREjouO2Nclw9isVB_n_uJ9ke4qS2t-SaFRqRnOnchfmBaLzRBLKE8nMoGey1W6_ryBiV23iT0QEmutZif0zE3l8Iq-0DmKXC2clkxapOrkX2Gm1FmWAJu_WLqjtke_YkIJADdtOGGvX5sKNBy3KoU2p7OGhdyX7N4iK_hPQf2fg2tiofH2HQem2n0e3BhBKlbZv3IM5Zmh9-qc2uo4tG14LiTK34ItOQB-56uPsQvZTLDPjzsBBZGRlCrU6kqx3nYjdShLofMnpGrL3CuoLlkGgoASPvmpDH7M7FSXorDXr7obZUStFJn1GrX42wzwvKa7x476pztG4s2oeB4s8TKuaUWaY91Da0yzvUz0LdNRfo9Ca98yaQirDDfGOcYBSR1Ctwec8iuU-797FytNhyFzIJxuwV8opb59TmOUthbeennrVXkx855GFIiLhYyQBzOaOJDfxQkOrjcWJ1r7_UbE0DWd9kmADMsoUf8kPw1Nd-457RRPdbwiw07kbJYjyoiNkO545UziEy9glXSTsxn_V4Vv4bVAAbx55umfZO_RIAn5-RCEDrKJIIkGTZD44QUlQQbz1pImslgLdW9OUrkjUhRXACVzUzJT0x7RXTa82654G0j95srVZbOViievA=w853-h843-no" >}}
 
 
 ## Instalación
 
-Ahora que ya no tenemos ningún antivirus es cuando hacemos click en el archivo **eis_live** que nos hemos [descargado](#descarga) previamente. Basicamente hacemos click en los aceptar y siguientes que vayan apareciendo. De todos modos por si hay alguna duda he añadido unas capturas con todos los pasos. 
-Nada más darle nos saldrá una ventana de bienvenida, hacemos click en **Siguiente**.
+Ahora que ya no tenemos ningún antivirus es cuando hacemos click en el archivo **eis_live** que nos hemos [descargado](#descarga) previamente. Aunque el proceso de instalación no es complejo si que hay que tomaralgunas decisiones a lo largo de este, por eso he añadido unas capturas con todos los pasos por si hay alguna duda. 
+
+Trás hacer doble click nos saldrá una ventana de bienvenida, hacemos click en **Siguiente**.
 
 {{< figure src="https://lh3.googleusercontent.com/XoHpJO1FlbvNpsmND05BB_jZJ4QnDAvwfz16LcxwZqWLH0evMXoq78DHDnS9FcLn0_TqwthUT8bBHf1CBStxM1z1eHnYfOQeZLebJt3vUcEAydqNxVFv2dZDN60Fa9DNUz_p3t0iq5DvKADZapM1jyv8YEr_cFlDrND_IuwWzvMMLTZXCwpfDACNwC5L0rMGlcmjxQXVcaqnZskM-YrvDBALR6KGZjc8KNTl9fFME7wQEvPzM7IH_NhABQDffh8MDtu2YdU0RqM-pxDdnPndSXp3RuYpv-YdsJwMW9-PUDPnPKNQp8acN-Hcupye-gzahkAzL_aAf05Qnz7r0vsnTdVPrzM-QVFj787k7YLbKMbKdmaA0t7NCCVv_pI7435grbZ3dUwLZpJJQ11MpPvzg2Q6Ye3nfSjJhQRG-B4lQkjaCU2lav82tnkRVwhzRwHhF7b8Na7j2ELnmurERgJWqaO0h8I6363Xs7D9D7y1xXnyRhSzLfVJdHc18W810-9KBr3uWYtPC1aB435sEet0Lh2cWaA0_oA-pO4TkMlMMhydiBHnMFk73nwaL03sqpyxk_ZQclDOTMPisDTb00EqKClm7SzsrpDzNzrkE61P2UfjxjT3wGZV4kjEaGQjfH3q2MC2BPDai32ozT8EoHdCYbxb5NzR0gGFQtwYBjWgsXHxy8m1YqCdJm1mER9qXVhNLYPFFVQnYU9ORJgaSBvEGEfQ0A=w860-h649-no" >}}
 
@@ -79,7 +83,7 @@ Nos apararecerá una ventana con el título **Se instalará ESET Internet Securi
 
 {{< figure src="https://lh3.googleusercontent.com/qmzsFt6ZEDAHMqPU2tbBPpTxKIiK24aibnhdbvs61rLQUMKWPDj6AQWCynmo5OY5VBssavKFzw0tRDfEV021JLD51pz9DF1l3E_v3B7Ldx_WFfDuB_zWErmBzYsU7kd-sXHG2GrH_Ly7PvtmmU88Ugrli1mJ2EcpFX0zwxGoLOaOCbpy6hd0RruyEye8n2BFEmnL8vGg1nYeWc_W_XCXTEqo6viR-GEdYsJwAsPlXDynRIFXHgbuwPq9OVJeh8gVvJmEjq6NHJ5YrzoKteIM-vmWipaPuOMJgDQxs9Fzmt94SXoMi_3QcKwDvsoaUwjPS-W-NWU8YwPCgVvtNTGjSQwiJC0OLGeyJ9LDbmkAIp01FO07NctBAN8t1TvCtDk5pG8INfzCFGlIHWSaKrZl9gwLzJ0s6exCG-yBTx8d6vvZcHJC2lRW2GDf0l2bf879dOOVGJBmFPgC8T-kHSZDiEXaMDRbAX0NkyBDqG7HljkxQ-aDMt8jIRmahekB0s-bhToIhoD_j9ektCC-v0lcePYf4xKxo-JQYfrju9njrC66fHCW_kdyl3xcXqVrtC0H0uHSSMiix5MMbJ8G5LFuwwCVv9SIz1GWBsb2lnuwsulKO-R9Vhzk9MBSABsujH9mFFTMWPYASP-aE702x1ikxI1NoBFiQC8lE5-q3lh_49dOcbLm4l-Siiog_BGbG4IQGX8cuQGVWKlQMFpyQpa1sqp9MQ=w798-h512-no">}}
 
-Ahora nos encontraremos varias opciones. La primera es si queremos instalar ESET LiveGrid, en esta opción marcamos la casilla de **Desactivar el sistema de respuesta ESET LiveGrid**. Y en la segunda opción elegimos la primera casilla que pone **Activar la detección de aplicaciones potencialmente no deseadas** y le damos click a **Continuar**.
+Ahora nos encontraremos varias opciones. La primera es si queremos instalar ESET LiveGrid, en esta opción marcamos la casilla de **Desactivar el sistema de respuesta ESET LiveGrid**. En la segunda opción elegimos la primera casilla que pone **Activar la detección de aplicaciones potencialmente no deseadas** y le damos click a **Continuar**.
 
 {{< figure src="https://lh3.googleusercontent.com/AoJPTJ9due5586fCHQnYBO3ItsDROWzhGCDEnqUYkqRw55XoWuJn9hHCIIvZNwY_qYU4Nct1UKNDgrf0hJDixpYcRhXVd_rEHP8YQIQ32VP__j2kwRuFS82du4WQESKV8JBB9vFXrDE6rtxsrH9WzihbSMlhIoAs2auyWtdWT8WJpm9XkdpfpvuTZ_Qs0wighhKHNNLwpCM5wz6qbccBJPZxhoWtJwfGrqYy7pOCp5Pd8d1v0GTBmbR6LxZOuYMrGtV9dipFJui7gdcoUEvnZzAG3JL88jEMLxxjcM2RZPU45j2Dik2xkFAwgpwUZRlZeN8xXgZl_6t0edUyNXyZpPiG5coU42-sx-9gob3JBR0joRKkUyiubX6pIz9FQE5X5qPiLD3ITmgT3FBouL57YEulhRNBTPU6n1gLwkSQsX8HbpU6-gphJV-Gp-MFyjbUWFgimm3xsrCcB89Jart_JB0fZLifdhSUAgFTBejm_sSnAqB9j7ebEOWoU9JKlumoGJ8Rvc1nE9oHi3k-0xa9HCyP2FxlJaUH-VGTfk7XD8TyUfpZ-N8uaCf7pRj8VyNWPm_s_VgcPkYugAiO0_s5bUhV4_tb7kqx5JZTbVSuXC6kW7zL7Qg0S2PhgXVOvkSiQVY-yZRyaezI2_aqZJ8Pd6vNUot56gwqWoReAlKWmlXhWAzyhqdbMIqmnU4a7tZf4Bo3iGIum2YJUhStp5rgokaL7g=w796-h506-no">}}
 
@@ -93,13 +97,15 @@ Una vez finalizada la instalación nos deberá aparecer una ventana con el títu
 
 {{< figure src="https://lh3.googleusercontent.com/nP-P6qvgJ95vX4WJKn2-cjeAyd1pl8st8754arIo46NkJIA3BQpKcM6gfnnFbkg6s7h0xoy1pbUPi0Zs65oXtGg0PLsn2nzdKJisttJbKdergEV1Pj--TomqIGiJiyK5bROVUvAYvzhVp2g0hvM1ot09dp-qe8s1jmCplFhzyZ8i96p34qLQv8wDIB3EQ0LFgUuSukmz9RJCD2A_7NjmAat2TWT92F-H3hnCdGv02Nk-04qSaQVsKSNzymkbqVCeXQfIMwmOqI72zL7cIlld4btbBrYQAGyq56j65QxUCVNKhJcinYSQ0WBMldyOTd_dDkwgiF2cRuAYrmZoPsqaou2Xamn17pjrjI-BANbpqzlrS2ontA8TRvKcst9TnyieUrr_1t9tVRhpZnvxBW_rwkPBIWD8hML_8aIk_2UBKngO4N3tyRJI6cMju68BKG3rQamlJDMGTG4fsiPfnTeUwEcDz1i5wSc6D6rJztXY4s5842DSV4XfYzgX6dURAaEEUrY55xQVqIU-kaiNU06e4DkhjVojci3Qlo0AC1IvM6vxMuWd2v1xVg9G2rA6qL2h5EU7Jl2AAJ18GD2lHZRkD0yaIE2ztc0EvgKdmMUxXC2wcWo77nfdSX98IcJMaVp46MixOXsFBus0UsYH5i44VAjh5c21Kl4S0TplrZzkc3v4DDLDxOkBjhWjORpT9VkU3CTOtwDcw6Cggi-IUG7CKtFqrQ=w796-h510-no">}}
 
-**Enhorabuena!🎉🎉** Ya hemos instalado el antivirus, ahora nos aparecerá una ventana por si queremos configurar las opciones de **control parental** y **antirrobo**. Como podemos configurarlas más tarde si las necesitamos, por ahora cerramos la ventana.
+**Enhorabuena!🎉🎉** Ya hemos instalado el antivirus, ahora nos aparecerá una ventana por si queremos configurar las opciones de **control parental** y **antirrobo**. Como podemos configurarlas más adelante si las necesitamos, por ahora cerramos la ventana.
 
 {{< figure src="https://lh3.googleusercontent.com/hoORzfcr3tS7J7j3roJUYlJ2a7pSSmoQgUvSUfI0aBxiHjTOzO0H-YufzREhHtUzCWINC4g6iriGAZbYxgsLZdlkE42frz_ssUE3oNrEQwfsMZAqXwuHw7l1ippSypCqNUunKB5UcokAq6Qgk6sCwU2omT6PCj7jFTGSQxaBdBRNZ87fwkEXQsaMrp-NSQAzzBkPdipG55uiRVbC9pixvtJqiU9EjGkeBPPvwStjx-sFo6v91iPhYjS2PWBSogSaWnXmExaZhtfapLMkKvpMqCQ2bGU0xqX-iDYRCmYed0hJLBmLwxyvaHCXuJsKVR9Y-mEWZ2xPJlf6A69BBYKqoBEDwC6hmQcV8jU3Bp4jUvrus3FklBSbx1N3h2W-g4w5EwhEAP1ByaXLJXADXKCvhDw8-oC9NYm0rgXa2-_y6V9bkYfUcYBUFnl4oq0qK9VgHmOJIMG15-b2IeJY5w1KNJyzKKLNxWDZjcORSA6LW2aVVlrKUYvy0JSDMAs1aTSFszTcigKnEHni29Rcmw1SNKKo6elep_0SwfHbCJdcpPw4WInf4R-E7GsHNL8yNVyxzHzuWnSQJrSqRKhDTp8yizHL4DfDQMzfFicGcSGcHHJaIakFUmFQLnRbUIdh76Hivd2Bl2mQBEfRFtZWieF-URFPnRcUr3JI2PKi-ltLuf20snvo5TZGzLXDLhBpWt90L8Su1gwehZ7dcXkuDmmPgIFthg=w784-h493-no">}}
 
 ## Realizar un análisis
 
-Y esta sería la interfaz principal del antivirus. Al instalarlo nos realizará un **análisis del ordenador** para comprobar que no hay ninguna amenaza, para ver el estado del análisis o **realizar un análisis** nosotros mismos hacemos click en donde pone **Análisis del ordenador**.
+Se nos abrirá la interfaz principal del antivirus. Al instalarlo nos realizará un **análisis del ordenador** para comprobar que no hay ninguna amenaza. Para ver el estado del análisis o **realizar un análisis** nosotros mismos hacemos click en donde pone **Análisis del ordenador**.
 
 {{< figure src="https://lh3.googleusercontent.com/UmEDDLmylsHHOxmH1A_Bx-asqgnfOXjfvlO76ld52Pkr_Xpf23y7i0z21S7eglEyzS5jIlUjdFjRegH3ZaDTXjWiwyo_2tC73iq1GlhgVDQi6scDv8EH4odoAs9TfaXbBQiJUY0Gh1CXDjj5GfM92cVYHD5GtRP7pOOjImXzdBNDb2_Py3cCS-jod5CnKiEoTVMEDYs6W39tFzdA9hq5I6XQ35EC16-d4GjzL2jGE57NhdyWomQFRaeK_nyj0fQq49Vj0NfI4pNcLsJqqOUxSv-7b1olubDo8BlnJBDjjlH2DX_KM2-QmJypEBhHBJlEf7L8KTu7DjuMoycTxaU9ggXq8j1E4TmcudmP8j5H7vNwcd_8zCo-eF268fOnyRxLDl9q1_lNzp8Z-wuVlgOkCb0Y4eQbCqZ5gpwvbaw__BGzmthk4a0JOom0aSDZXPju8EJ_qa6vlOsYagJNBM6x6KSKcG6Js0sFE_CAe5UUzCZA8qIoXZ-QxQRxfVTsi6t8ixfWR7AKYmTlexExVMhbHwHTq9YA0gVpcms3CNfrwmbmVVSa5pDZOUHm3O8qCEn7hkxKdhF_bqV0pugj-XUbaqUHTiDgdn9TKMRDGU-_K-DtWqeWT2-tT-saN7hL6v5fH9LfW6rTGd0v2mn_S9gcWvvWFG8hUdwp9u9qzmud_PJ79F7fstb8DxpmJaBc-x6MxVV5B3ctOxyTUgtVqoWA4cL3tQ=w898-h660-no">}}
 
+
+Y eso es todo, si tienes alguna duda o no te ha quedado claro algun paso coméntalo o [mándame un correo](/contact) y estaré encantado de ayudarte😄.
