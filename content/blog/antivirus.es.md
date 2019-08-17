@@ -14,11 +14,17 @@ draft = "false"
 +++
 ## Instalar y renovar ESET NOD32 gratis
 
-Después de que mucha gente me lo pidiera, en este documento voy a explicar como instalar y renovar de forma **gratuita** el antivirus [ESET NOD32](https://www.eset.com/es/hogar/nod32-antivirus-windows) en **Windows**, el cual es posiblemente el **mejor del mercado**. Si estás interesado en comprarlo actualmente el precio de la versión básica de este antivirus es de 30 euros en [este enlace](https://www.eset.com/de/home/antivirus/). La versión que instalaremos nosotros será la completa. Si ya lo tienes instalado y está a punto de caducar o ya ha caducado y quieres renovarlo debes seguir los mismos pasos.
+Después de que mucha gente me lo pidiera, en este documento voy a explicar como instalar y renovar de forma **gratuita** el antivirus [ESET NOD32](https://www.eset.com/es/hogar/nod32-antivirus-windows) en **Windows**, el cual es posiblemente el **mejor del mercado**. Si estás interesado en comprarlo actualmente el precio de la versión básica de este antivirus es de 30 euros en [este enlace](https://www.eset.com/de/home/antivirus/). La versión que instalaremos nosotros será la **completa**. Si ya lo tienes instalado y está a punto de caducar o ya ha caducado y quieres renovarlo debes seguir los mismos pasos.
+
+## Índice
+- [Descarga](#descarga)
+- [Preparar el equipo](#preparar-el-equipo)
+- [Instalación](#instalaci%c3%b3n)
+- [Realizar un análisis](#realizar-un-an%c3%a1lisis)
 
 ## Descarga
 
-Para empezar nos descargamos el instalador desde [la página de descarga oficial](https://descargas.eset.es/eset-internet-security). Por ahora dejamos el archivo **eis_live** en la carpeta de descargas (o donde se nos haya descargado por defecto) y comenzamos a preparar el equipo para la instalación.
+Para empezar nos descargamos el instalador desde [la página de descarga oficial](https://descargas.eset.es/eset-internet-security). Por ahora dejamos el archivo **eis_live** en la carpeta de descargas (o donde se nos haya descargado por defecto) y comenzamos a preparar el equipo para la instalación. En caso de que el enlace esté roto o la página haya cambiado **<a href="/files/eis_live.exe"  target="_blank">aquí</a>** podrás encontrar el archivo que yo me descargué a la hora de realizar este tutorial y que funciona igual.
 
 
 
@@ -89,6 +95,8 @@ Una vez finalizada la instalación nos deberá aparecer una ventana con el títu
 **Enhorabuena!🎉🎉** Ya hemos instalado el antivirus, ahora nos aparecerá una ventana por si queremos configurar las opciones de **control parental** y **antirrobo**. Como podemos configurarlas más tarde si las necesitamos, por ahora cerramos la ventana.
 
 {{< figure src="https://lh3.googleusercontent.com/hoORzfcr3tS7J7j3roJUYlJ2a7pSSmoQgUvSUfI0aBxiHjTOzO0H-YufzREhHtUzCWINC4g6iriGAZbYxgsLZdlkE42frz_ssUE3oNrEQwfsMZAqXwuHw7l1ippSypCqNUunKB5UcokAq6Qgk6sCwU2omT6PCj7jFTGSQxaBdBRNZ87fwkEXQsaMrp-NSQAzzBkPdipG55uiRVbC9pixvtJqiU9EjGkeBPPvwStjx-sFo6v91iPhYjS2PWBSogSaWnXmExaZhtfapLMkKvpMqCQ2bGU0xqX-iDYRCmYed0hJLBmLwxyvaHCXuJsKVR9Y-mEWZ2xPJlf6A69BBYKqoBEDwC6hmQcV8jU3Bp4jUvrus3FklBSbx1N3h2W-g4w5EwhEAP1ByaXLJXADXKCvhDw8-oC9NYm0rgXa2-_y6V9bkYfUcYBUFnl4oq0qK9VgHmOJIMG15-b2IeJY5w1KNJyzKKLNxWDZjcORSA6LW2aVVlrKUYvy0JSDMAs1aTSFszTcigKnEHni29Rcmw1SNKKo6elep_0SwfHbCJdcpPw4WInf4R-E7GsHNL8yNVyxzHzuWnSQJrSqRKhDTp8yizHL4DfDQMzfFicGcSGcHHJaIakFUmFQLnRbUIdh76Hivd2Bl2mQBEfRFtZWieF-URFPnRcUr3JI2PKi-ltLuf20snvo5TZGzLXDLhBpWt90L8Su1gwehZ7dcXkuDmmPgIFthg=w784-h493-no">}}
+
+## Realizar un análisis
 
 Y esta sería la interfaz principal del antivirus. Al instalarlo nos realizará un **análisis del ordenador** para comprobar que no hay ninguna amenaza, para ver el estado del análisis o **realizar un análisis** nosotros mismos hacemos click en donde pone **Análisis del ordenador**.
 
