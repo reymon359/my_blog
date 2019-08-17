@@ -14,7 +14,7 @@ draft = "false"
 +++
 ## Instalar y renovar ESET NOD32 gratis
 
-Con la intención de **ayudar y enseñar** a aquella gente que necesita un antivirus de calidad, en este documento voy a explicar como instalar y renovar de forma **gratuita** el antivirus [ESET NOD32](https://www.eset.com/es/hogar/nod32-antivirus-windows) en **Windows**, el cual se encuentra entre los **mejores del mercado**. Si estás interesado en comprarlo actualmente el precio de la versión básica de este antivirus es de 30 euros en [este enlace](https://www.eset.com/de/home/antivirus/). La versión que instalaremos nosotros será la **completa**. Si ya lo tienes instalado y está a punto de caducar o ya ha caducado y quieres renovarlo debes seguir los mismos pasos.
+Con la intención de **ayudar y enseñar** a aquella gente que necesita un antivirus de calidad, en este documento voy a explicar como instalar y renovar de forma **gratuita** el antivirus [ESET NOD32](https://www.eset.com/es/hogar/nod32-antivirus-windows) en **Windows**, el cual se encuentra entre los **mejores del mercado**. Si estás interesado en comprarlo actualmente el precio de la versión **básica** de este antivirus es de 30 euros en [este enlace](https://www.eset.com/de/home/antivirus/). La versión que instalaremos nosotros será la **completa**. Si ya lo tienes instalado y está a punto de caducar o ya ha caducado y quieres renovarlo debes seguir los mismos pasos.
 
 ## Índice
 
@@ -25,7 +25,7 @@ Con la intención de **ayudar y enseñar** a aquella gente que necesita un antiv
 
 ## Descarga
 
-Para empezar nos descargamos el instalador desde [la página de descarga oficial](https://descargas.eset.es/eset-internet-security). Por ahora dejamos el archivo **eis_live** en la carpeta de descargas (o donde se nos haya descargado por defecto) y comenzamos a preparar el equipo para la instalación. En caso de que el enlace esté roto o la página haya cambiado **<a href="/files/eis_live.exe"  target="_blank">aquí</a>** podrás encontrar el archivo que yo me descargué a la hora de realizar este tutorial y que funciona igual.
+Para empezar nos descargaremos el instalador desde [la página de descarga oficial](https://descargas.eset.es/eset-internet-security). Una vez descargado dejamos el archivo **eis_live** en la carpeta de descargas (o donde se nos haya descargado por defecto) y comenzamos a preparar el equipo para la instalación. En caso de que el enlace esté roto o la página haya cambiado **<a href="/files/eis_live.exe"  target="_blank">aquí</a>** podrás encontrar el archivo que yo me descargué a la hora de realizar este tutorial y que funciona igual.
 
 
 
@@ -36,7 +36,7 @@ Para empezar nos descargamos el instalador desde [la página de descarga oficial
 
 Antes de comenzar con la instalación debemos desinstalar cualquier antivirus que tengamos actualmente ya que **no es bueno tener más de un antivirus** instalado porque pueden **interferir entre ellos** y **bloquear funcionalidades** el uno del otro.
 
-¿Cómo sé si tengo algún antivirus instalado ya? Para ver si tenemos algún antivirus instalado hacemos click en Inicio (el boton de la esquina inferior izquierda) y buscamos **protección antivirus y contra amenazas**. Una vez accedamos, lo primero que nos aparecerá es el nombre del antivirus que tenemos actualmente, en caso de tener alguno. En mi caso ESET Security.
+¿Cómo sé si tengo algún antivirus instalado ya? Para ver si tenemos algún antivirus instalado hacemos click en Inicio (el boton de la esquina inferior izquierda) y buscamos **protección antivirus y contra amenazas**. Una vez accedamos, lo primero que nos aparecerá es el nombre del antivirus que tenemos actualmente (en caso de tener alguno). En mi caso ESET Security.
 {{< figure src="https://lh3.googleusercontent.com/1cTYUXw1AsH4-CcBKWrAe70YVTmuzVc57lVewwnUj_c78xOI7k-r6C88FYQUO3EbKsAoVhNFKUdj1N4loIxADauLEPIyYCgLPDFAI8J7tY0X4ktU6K3fbbiFD1Fh0qO6-WPSp50O20dZagDJYfJuutp-Qg5LausbqSC8I_QjxEyIh68oU0K4jBzg0u47AwxPjeUR3zJoDr0lOf-iqUhKuz2iJ_6gXr7fTdTAXlF7ZbmOTrKsanviZ3vVlk0O-HPiDaR9rNfIj080P53cqZx7b1KJw7UlVkxVSOjRObQuPdymSMKef3XwreC2c9IST6IrY3upomKeTYz-DJDX-YVnZAyjtwmrfH1KuUk-mxdiAk8IBEuZtBtgh_rolN2YvUfxszf1xHDfBtIhoZrDchrFJvsGI8MwJdcUJICOHh27BxWUSY8ZnDAhzT0If8-Em2c-MCoJGUy9UABj-y-k4yRtGm3LWAAP-wZDTyHscGoRf_rJHaOz3_vz5vP8EydlexH_IKRwS4s0Qk2CpfXm8MRAS5Fkw9WwgG7yWhWpXXxZIl3bSYHfuctrrnPyywGCM1RE6_FOdpvqaoIq53hsvOur56dOkb0LltfvlZn-Y3mo9mgXPXXJZqKT9P7cCXEkmF1hUV-05D1_QdkdM272VWTyzJ3u2aI1CFEPS2krWmEP0noZtdbWdU42yl3Pbq49K6pOdC4WemHR1aA8z7qgO-5Jny2LZA=w950-h843-no"   >}}
 
 El siguiente paso será **desinstalar el antivirus** en caso de que tuviéramos alguno. Para ello volvemos a hacer click en windows y buscamos **Panel de Control** y accedemos. Dentro del Panel de control seleccionamos **Programas** y luego **Programas y características**. Aquí podemos ver todos los programas instalados en nuestro ordenador, buscamos el antivirus y lo desinstalamos. 
