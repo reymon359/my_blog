@@ -100,6 +100,7 @@ disableLanguages        = [""]
   #   branch              = "master"
     # From the tutorial https://yasoob.me/posts/running_staticman_on_static_hugo_blog_with_nested_comments/
     [params.staticman]
+        staticman = true
         endpoint = "https://staticman359.herokuapp.com/v2/entry"
         username = "reymon359"
         repository = "my_blog"
