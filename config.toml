@@ -87,23 +87,23 @@ disableLanguages        = [""]
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
   # prefer to use. See Staticman.yml for additional settings.
-  [params.staticman]
-    # Sets Statiman to be active
-    # If using GitHub, go to https://github.com/apps/staticman-net
-    # If using GitLab, just add the GitLab bot, NO need to hit `/connect/v3/...`
-    staticman           = true
-    # Sets the location for Staticman to connect to
-    api                 = "https://staticman359.herokuapp.com"  # without trailing slash
-    gitProvider         = "github"  # either "github" or "gitlab"
-    username            = "reymon359bot"
-    repo                = "staticman"
-    branch              = "master"
+  # [params.staticman]
+  #   # Sets Statiman to be active
+  #   # If using GitHub, go to https://github.com/apps/staticman-net
+  #   # If using GitLab, just add the GitLab bot, NO need to hit `/connect/v3/...`
+  #   staticman           = true
+  #   # Sets the location for Staticman to connect to
+  #   api                 = "https://staticman359.herokuapp.com"  # without trailing slash
+  #   gitProvider         = "github"  # either "github" or "gitlab"
+  #   username            = "reymon359bot"
+  #   repo                = "staticman"
+  #   branch              = "master"
     # From the tutorial https://yasoob.me/posts/running_staticman_on_static_hugo_blog_with_nested_comments/
-    # [params.staticman]
-    #     endpoint = "https://staticman359.herokuapp.com/v2/entry"
-    #     username = "reymon359"
-    #     repository = "my_blog"
-    #     branch = "master"
+    [params.staticman]
+        endpoint = "https://staticman359.herokuapp.com/v2/entry"
+        username = "reymon359"
+        repository = "my_blog"
+        branch = "master"
     
     [params.staticman.recaptcha]
       # Both keys must be present to enable recaptcha
