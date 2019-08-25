@@ -93,16 +93,16 @@ disableLanguages        = [""]
     # If using GitLab, just add the GitLab bot, NO need to hit `/connect/v3/...`
     staticman           = true
     # Sets the location for Staticman to connect to
-    api                 = "https://staticman359.herokuapp.com/v2/entry"  # without trailing slash
+    api                 = "https://staticman359.herokuapp.com"  # without trailing slash
     gitProvider         = "github"  # either "github" or "gitlab"
-    username            = "reymon359"
-    repo                = "https://github.com/reymon359/my_blog"
-    branch              = ""
+    username            = "reymon359bot"
+    repo                = "staticman"
+    branch              = "master"
     # From the tutorial https://yasoob.me/posts/running_staticman_on_static_hugo_blog_with_nested_comments/
     # [params.staticman]
-    #     endpoint = "https://app_name.herokuapp.com/v2/entry"
-    #     username = "your_username"
-    #     repository = "your_blog_repo"
+    #     endpoint = "https://staticman359.herokuapp.com/v2/entry"
+    #     username = "reymon359"
+    #     repository = "my_blog"
     #     branch = "master"
     
     [params.staticman.recaptcha]
