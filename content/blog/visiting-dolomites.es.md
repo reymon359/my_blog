@@ -24,8 +24,19 @@ Empecemos por situarnos, los Dolomitas es una cadena montañosa que **forma part
 Estuvimos un total de 5 dias.
 
 ### Primer día
-Cogimos el coche y fumos a trento
+Salimos de Alicante sobre las 11:00 de la mañana y llegamos a **Milán** (Aeropuerto de Malpensa) sobre las **13:00**. Al llegar recogimos el coche que previamente habiamos alquilado para movernos durante el viaje. Aunque la mayoría de los pueblos y ciudades están bien comunicadas mediante tren y bus, decidemos **alquilar un coche** por tener la opción de visitar sitios a los que los autobuses no llegaban y por la **libertad** que supone.
 
+Alquilamos el coche en **[Autoeurope](https://www.autoeurope.es/)**, una web que ya había usado previamente y que me había dado buenos resultados. Basicamente es un comparador de precios y compañías de alquiler de coches en la que trás seleccionar los días y el punto de recogida y devolución te muestra una tabla con los diferentes modelos de coches, precios y valoraciones de cada compañía. En nuestro caso alquilamos un **Golf** para los **5 días** por unos **120 euros**.
+
+Una vez con el coche nos dirigimos hacia **Trento** por la autopista. Si tienes pensado conducir por Italia debes saber que los límites de velocidad son:
+
+* **130 km/h** en las autopistas.
+* **110 km/h** en los caminos principales.
+* **90 km/h** en los caminos secundarios
+* **50 km/h** en areas urbanas.
+
+
+  
 ### Segundo día
 Compramos cosas en el mercadillo de trento y luego fuimos al lgo y despues a Canazei
 
