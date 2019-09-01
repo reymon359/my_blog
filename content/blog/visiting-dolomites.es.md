@@ -15,7 +15,9 @@ draft = "false"
 
 ## ¿Qué son los Dolomitas?.
 
-Empecemos por situarnos, los Dolomitas es una cadena montañosa que **forma parte de los Alpes**. Está situada en el **norte de Italia** en las provincias de Belluno, Bolzano, Trento, Udine y Pordenone. Aunque tiene muchas montañas que superan los 3000 m. la más alta es la **Marmolada** con **3.342 m**. Por último añadir que fueron declaradas **Patrimonio de la Humanidad** por la **UNESCO** en el año **2009**. 
+Cuando le decía a la gente que me iba o había estado en los Dolomitas **no tenían ni idea** de lo que eran, lo cierto es que **ni yo mismo lo sabía** hasta que, hace un par de años, mi madre mencionó que le gustaría visitarlos. 
+
+En resumen los Dolomitas es una cadena montañosa que **forma parte de los Alpes**. Está situada en el **norte de Italia** en las provincias de Belluno, Bolzano, Trento, Udine y Pordenone. Aunque tiene muchas montañas que superan los 3000 m. la más alta es la **Marmolada** con **3.342 m**. Por último añadir que fueron declaradas **Patrimonio de la Humanidad** por la **UNESCO** en el año **2009**. 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="FrtS9KPeZX30OEmnliUkxSyjzXiDpAIAY9JrEaeXwdvEQiKUry7xrf2qWy17dlKdRa1GpvQ4GBW1GEdOZO99pDehohJs5gPXJpzCiCopRAx3-HQws_k7azrXk-KbJzWjDsy-QwsM2NyJxaJnCeFfoE4nqz15qpKwDU9M0Sd9CjRf5V8-t2xaAuu1ChLIHK_18T9EdamM3UygxoPdlV-9nnw6CDl-NPDEyrOB157N1kJsdYwxeHPRT62bO9JQxIyWhuEdxYDnlDw0vtx683oBGZMu4ImdNE6-kCKrfeXDAVN1worm4EdoPPMnwoWlAV1EFTnfPT6wW8WLwH4dwUPaSZVU1dc6HmThve7J-7YoKDu6WKKyS3N3TDgPI_Wjqbk9pfDXoQGRfAbJdzubxASetpTcnh86VNHfcRMiFw152mmg2pcdVRzmyBs2o-7bFEx_XJd2fPSBTrX7yhlzknW5vgVaBY7SOR6SLnans6GwEpdmIDQ3V39-ef48wh_Tut_WGABJf3CiuZj7JT2P7QC7-MIM_cRAIF6edh9TPxMcfOE5bnV-LR22tzcsqcgkEKyibzCUMkZQcC7fwAdzfaWdSc3NiCp8PGKfOZbWDrcWUTMl6MyedJLB2YDr2PyJenHTEyArrgiZAgxV38NcGFX1Mpo1NHTb9xIczS0Qfu2zxoUludsYzgpIuDU=w959-h720-no" caption="Dibujo de los dolomitas" gallery="Galería Dolomitas" >}}
 
 [Ver el dibujo a fondo](https://photos.google.com/share/AF1QipPZH-j8AA-QANuV4jkiqw1rbJvqPrbgM76eXKn9EKb_Meu2mdHtyyuDtBff2BlWgg/photo/AF1QipPL_NpIKBGqeN5YGL9shc74JEhRzpzYgyrX2f_d?key=d0VLY2NYRHIwVl9LQV90Wlo0Nm9kNEwwRGNzSk53)
@@ -23,7 +25,7 @@ Empecemos por situarnos, los Dolomitas es una cadena montañosa que **forma part
 ## Nuestra Ruta.
 Estuvimos un total de 5 dias.
 
-### Primer día
+### Trento - 27 de Agosto de 2019
 Salimos de Alicante sobre las 11:00 de la mañana y llegamos a **Milán** (Aeropuerto de Malpensa) sobre las **13:00**. Al llegar recogimos el coche que previamente habiamos alquilado para movernos durante el viaje. Aunque la mayoría de los pueblos y ciudades están bien comunicadas mediante tren y bus, decidemos **alquilar un coche** por tener la opción de visitar sitios a los que los autobuses no llegaban y por la **libertad** que supone.
 
 Alquilamos el coche en **[Autoeurope](https://www.autoeurope.es/)**, una web que ya había usado previamente y que me había dado buenos resultados. Basicamente es un comparador de precios y compañías de alquiler de coches en la que trás seleccionar los días y el punto de recogida y devolución te muestra una tabla con los diferentes modelos de coches, precios y valoraciones de cada compañía. En nuestro caso alquilamos un **Golf** para los **5 días** por unos **120 euros**.
@@ -43,10 +45,26 @@ Después de dejar las maletas bajamos al centro de Trento y aparcamos en uno de 
 
 El centro de la ciudad no era muy grande pero estaba lleno de vida y tenía muchas plazas con encanto, sobre todo la principal, la *Piazza Duomo*.
 
-{{< figure src="https://lh3.googleusercontent.com/DAqnTqVkvnLb4jvy6qeyLQlzmIXJXnleoX2sg_3vUlez0aEPoMlZ2fgxg6m4gMoMklpAL_EG5OX5j88lMe_wWcV_2UzERQMqzM6CfdnM3eOuYnonE9dZ6wsbzl8L4fnHaJh3FGavkLdBeOeKqflxEXCwgeEos52UOrYoI5z4Tnihdc2aa2vEUcH4YjIM24uFlwCGEmz9LvYvEVTsi_PJ1THyYFDPfg9Btqxmr2d9gcRqzh-slTNH8cIQYOPyn3NuDHKE4Yhbq1BUpF96zO8cMdn-7JnmKP4sK-My8JxmLe73JPJqRWumel_M6M0iw_D_4NoQlTF9uxtQ-5J7gCDU0MQn7f2WL5HVrSUjRQm6IBpn5T9ksIPcohm_-7TsZ7vAskodi_8YWJ-hl98ZEY93NW5k_YVee6UJT-Zzhgnam7aBUZx8S6NUFHpMN2z0HJ0B3NIee_Uh6cofdd7eXSIRdC-e_Kvhrw8kn-Zgh8LJBBSXgUVKc9LZLeI-fkh-2dOqSzHYSbcdo5KYA01hpzaEVex_6mlyS9HPboa32wWbsPtq2SStAYWbagm7mq-ZB1mnv0h_HlyO8OaUEPUuzcg5loVJVfFPBoy6J2c1X7Yd4adLHOuJMOBvdjieIrVYJStRthPow4cyp5KEUTTn96kNe4Gab3eiGkrtO7CAD12i2hwttHErXo5fpaVcxnvi-DoY84I6uR97ORvSuJhX3vsR6tJF-x9-s8EzWRpCeZ0pKJdWsp2o=w1123-h842-no" caption="*Piazza Duomo*"  >}}
-
+{{< fancybox path="https://lh3.googleusercontent.com/" file="DAqnTqVkvnLb4jvy6qeyLQlzmIXJXnleoX2sg_3vUlez0aEPoMlZ2fgxg6m4gMoMklpAL_EG5OX5j88lMe_wWcV_2UzERQMqzM6CfdnM3eOuYnonE9dZ6wsbzl8L4fnHaJh3FGavkLdBeOeKqflxEXCwgeEos52UOrYoI5z4Tnihdc2aa2vEUcH4YjIM24uFlwCGEmz9LvYvEVTsi_PJ1THyYFDPfg9Btqxmr2d9gcRqzh-slTNH8cIQYOPyn3NuDHKE4Yhbq1BUpF96zO8cMdn-7JnmKP4sK-My8JxmLe73JPJqRWumel_M6M0iw_D_4NoQlTF9uxtQ-5J7gCDU0MQn7f2WL5HVrSUjRQm6IBpn5T9ksIPcohm_-7TsZ7vAskodi_8YWJ-hl98ZEY93NW5k_YVee6UJT-Zzhgnam7aBUZx8S6NUFHpMN2z0HJ0B3NIee_Uh6cofdd7eXSIRdC-e_Kvhrw8kn-Zgh8LJBBSXgUVKc9LZLeI-fkh-2dOqSzHYSbcdo5KYA01hpzaEVex_6mlyS9HPboa32wWbsPtq2SStAYWbagm7mq-ZB1mnv0h_HlyO8OaUEPUuzcg5loVJVfFPBoy6J2c1X7Yd4adLHOuJMOBvdjieIrVYJStRthPow4cyp5KEUTTn96kNe4Gab3eiGkrtO7CAD12i2hwttHErXo5fpaVcxnvi-DoY84I6uR97ORvSuJhX3vsR6tJF-x9-s8EzWRpCeZ0pKJdWsp2o=w1123-h842-no" caption="Piazza Duomo" gallery="Galería Dolomitas" >}}
   
 ### Segundo día
+
+EL segundo día dimos una última vuelta por Trento por la mañana y compramos algunos productos de la gastronomía local en el *[Mercato Giornaliero](https://goo.gl/maps/mN917WdRzk1FuETP9)*. Cogimos varios tipos de quesos y embutidos de la zona como el *Speck*.
+
+> El speck es un **jamón** con un distintivo sabor a **enebro** originario de la región histórica del **Tirol**, que se cura con sal y se ahúma. [Fuente: Wikipedia](https://es.wikipedia.org/wiki/Speck)
+
+
+
+{{< fancybox path="https://lh3.googleusercontent.com/" file="zob4HGm61zEyHUyPrXcuBdy7nDfpKz9bcH5SQfxcAOiglPVsVvWOhyyXpL8X_zcfsuHBTOpxHk_yyzExEU9uKWeLM7KZXYORNy1qaj-RTVu3IRSiJyCHRVJ7kckY6eBiFNHvcC4eDQZAb--KgAtuY8Fdafz_IMpxXJzxNJjA3JM0myMk9aIEWlUblxteFcl8vUYCEKTnXitmUHHgv_SyulLqMbTtIRTK7z5nezQPfAAakhuJAyrVAqZp7gm0JruADFsBvBwjUIZIJLcBN9oC3kjn-GEuRZF6Kn57vf6FfLFCBBbeyCErW0seDI5dGb4cHL23yKqSvR_J933gr5m9ZPz0nBUxw69-6mqiafNEovCL7PwX2joxzpKD0yu_sqccOSl_NxWgZ7PR0ypYXkVECEzx749ZQogCqPpVsPhWal5qo3-3zkMwEgplWN4yDdg4t-bSXhQ_cqyTuNLPUiKyYJwHsSy9NpFqZnChp1Rcmq45nA7q4qGgpsJSJyzmHk1WJlPshdLbT4BTLagVnX7A54DhM-_o0tdGWKqyYrYdFQub2U2TcZfWl9-NTRvZyt42n8S0d-bUeYHIXJvOyLOzuerVnCis3r66xEDq8xppyIYDkO2AmFfuu5dxNhnWoXnrPMl4qeh92InziOa2A1jKQe3r1v4mUnCtk2CCpBqPv9BmW5QEgnVWc14eTshpTvBsv-BoMYz57OWuNC5S_LhnUPdzOStHA-9M1fSNPtA6fXrwlsVV=w1123-h842-no" caption="Mercato Giornaliero" gallery="Galería Dolomitas" >}}
+
+Nuestro siguiente objetivo era el *[Lago di Carezza](https://goo.gl/maps/ZiktEE5wbXXhT9Cf8)*. Aunque el camino más rapido era llegar hasta **Bolzano** y luego desviarnos, decidimos ir por otra ruta un poco más larga, pasando por Pozza di Fassa, ya que el camino de Bolzano lo tomariamos el último día.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d353153.69068352063!2d11.103147546985761!3d46.24996521522647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x478276cac9ce9ddb%3A0x27c6a299139ff547!2sTrento%2C%20Province%20of%20Trento%2C%20Italy!3m2!1d46.074779299999996!2d11.1217486!4m5!1s0x477869237b61dcd9%3A0x99d972828b60eebd!2sPozza%20di%20Fassa!3m2!1d46.4306894!2d11.6857172!4m5!1s0x47786fe8e28162b7%3A0xdb332cfdd84fb462!2sKarersee%2C%2039056%20Welschnofen%2C%20South%20Tyrol%2C%20Italy!3m2!1d46.4092273!2d11.5750645!5e0!3m2!1sen!2ses!4v1567372376335!5m2!1sen!2ses" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+Esperabamos encontrar el lago en un mitad de un **entorno natural** pero cuando llegamos tuvimos que aparcar en el parking (de pago) habilitado **para turistas** y atravesar unas tiendas de comida y de souvenirs para, a traves de un tunel, llegar al lago.
+
+
+
 
 Compramos cosas en el mercadillo de trento y luego fuimos al lgo y despues a Canazei
 
