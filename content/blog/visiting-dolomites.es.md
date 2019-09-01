@@ -35,9 +35,20 @@ Una vez con el coche nos dirigimos hacia **Trento** por la autopista. Si tienes 
 * **90 km/h** en los caminos secundarios
 * **50 km/h** en areas urbanas.
 
+Cuando llegamos a Trento nos dirigimos al hotel el cual estabaa unos 10 minutos en coche del centro, en la ladera de una montaña. 
+
+
+{{< figure src="https://lh3.googleusercontent.com/GfCStMFqiSzUrJJkpOyH-QXdAmhJ3LepM53RBuIjwUJv_sHTUOu2QPz80d9Cnk4vqzeHkpLBaUfqwhRYCvp54eE9-0asQtZHc2vIJNyrOhIUGojSrZ-SujZkIJwObwGRL7E9ZKNE2ix0xSpRuQ9QpzPga66oEmOKkMPqJmEO2gI3oPZF1cmK-120RELmL2V3oM98-uMT0IGo-kMIgSzZSjHJAqc8YSeOOKX83Lat62rHNLNTA2ogEDg4iaoqIWmOBgVJjv9uLxh8zpm0nutV-oBg2I7LRljSz6vx_JOaK4MJuK3rBcGufqWdsxojLctaozY8SCOZ9H8IZ13THoLhrarfEXz29dZF8_4CTH6ndstvpkuR1SGUxza87Lr70EA6K0z1_w3nFX7ggbOoVvmO3BS-dgY0L2-vUSCtNRYupP-qUAv-HsCPpC9c8my6rFz7wCcz4iw74spti5lRyZMo-XimxusbQK0uoekC5ralTDCmMrfYePtURzUMAcA4yf07FVKWF-qmEMyR3qWMF4KSnxpnqc9iXXhzEO_vpdchtaTQuwl-cqGHEWT6HUTPQvRh46ZsIj8KPvIoD5GeB9dZL-kP5V4nP8VX2vmKsQHfVt5b0-IDVp_A7UaH6f440qdwegeuGfaeDMhJhfd_vSrkHEGfbcvp1khohYxgEhyV2o0penedNWIWEJU=w1921-h695-no" caption="Vistas desde la habitación"  >}}
+
+Después de dejar las maletas bajamos al centro de Trento y aparcamos en uno de los **muchos parkings públicos** (gratuitos a partir de las 8) y nos dimos una vuelta. 
+
+El centro de la ciudad no era muy grande pero estaba lleno de vida y tenía muchas plazas con encanto, sobre todo la principal, la *Piazza Duomo*.
+
+{{< figure src="https://lh3.googleusercontent.com/DAqnTqVkvnLb4jvy6qeyLQlzmIXJXnleoX2sg_3vUlez0aEPoMlZ2fgxg6m4gMoMklpAL_EG5OX5j88lMe_wWcV_2UzERQMqzM6CfdnM3eOuYnonE9dZ6wsbzl8L4fnHaJh3FGavkLdBeOeKqflxEXCwgeEos52UOrYoI5z4Tnihdc2aa2vEUcH4YjIM24uFlwCGEmz9LvYvEVTsi_PJ1THyYFDPfg9Btqxmr2d9gcRqzh-slTNH8cIQYOPyn3NuDHKE4Yhbq1BUpF96zO8cMdn-7JnmKP4sK-My8JxmLe73JPJqRWumel_M6M0iw_D_4NoQlTF9uxtQ-5J7gCDU0MQn7f2WL5HVrSUjRQm6IBpn5T9ksIPcohm_-7TsZ7vAskodi_8YWJ-hl98ZEY93NW5k_YVee6UJT-Zzhgnam7aBUZx8S6NUFHpMN2z0HJ0B3NIee_Uh6cofdd7eXSIRdC-e_Kvhrw8kn-Zgh8LJBBSXgUVKc9LZLeI-fkh-2dOqSzHYSbcdo5KYA01hpzaEVex_6mlyS9HPboa32wWbsPtq2SStAYWbagm7mq-ZB1mnv0h_HlyO8OaUEPUuzcg5loVJVfFPBoy6J2c1X7Yd4adLHOuJMOBvdjieIrVYJStRthPow4cyp5KEUTTn96kNe4Gab3eiGkrtO7CAD12i2hwttHErXo5fpaVcxnvi-DoY84I6uR97ORvSuJhX3vsR6tJF-x9-s8EzWRpCeZ0pKJdWsp2o=w1123-h842-no" caption="*Piazza Duomo*"  >}}
 
   
 ### Segundo día
+
 Compramos cosas en el mercadillo de trento y luego fuimos al lgo y despues a Canazei
 
 ### Tercer día
