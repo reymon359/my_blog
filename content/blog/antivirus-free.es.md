@@ -8,7 +8,7 @@ featured = "2019/antivirus.jpg"
 featuredalt = "ESET INTERNET SECURITY"
 featuredpath = ""
 linktitle = ""
-title = "Protege tu ordenador gratis"
+title = "Como proteger tu ordenador"
 type = "post"
 draft = "false"
 +++
