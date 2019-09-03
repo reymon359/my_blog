@@ -25,7 +25,7 @@ En resumen los Dolomitas es una cadena montañosa que **forma parte de los Alpes
 ## Nuestra Ruta.
 Estuvimos un total de 5 dias.
 
-### Trento - 27 de Agosto de 2019
+### Primer día: Trento
 Salimos de Alicante sobre las 11:00 de la mañana y llegamos a **Milán** (Aeropuerto de Malpensa) sobre las **13:00**. Al llegar recogimos el coche que previamente habiamos alquilado para movernos durante el viaje. Aunque la mayoría de los pueblos y ciudades están bien comunicadas mediante tren y bus, decidemos **alquilar un coche** por tener la opción de visitar sitios a los que los autobuses no llegaban y por la **libertad** que supone.
 
 Alquilamos el coche en **[Autoeurope](https://www.autoeurope.es/)**, una web que ya había usado previamente y que me había dado buenos resultados. Basicamente es un comparador de precios y compañías de alquiler de coches en la que trás seleccionar los días y el punto de recogida y devolución te muestra una tabla con los diferentes modelos de coches, precios y valoraciones de cada compañía. En nuestro caso alquilamos un **Golf** para los **5 días** por unos **120 euros**.
@@ -47,7 +47,7 @@ El centro de la ciudad no era muy grande pero estaba lleno de vida y tenía much
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="DAqnTqVkvnLb4jvy6qeyLQlzmIXJXnleoX2sg_3vUlez0aEPoMlZ2fgxg6m4gMoMklpAL_EG5OX5j88lMe_wWcV_2UzERQMqzM6CfdnM3eOuYnonE9dZ6wsbzl8L4fnHaJh3FGavkLdBeOeKqflxEXCwgeEos52UOrYoI5z4Tnihdc2aa2vEUcH4YjIM24uFlwCGEmz9LvYvEVTsi_PJ1THyYFDPfg9Btqxmr2d9gcRqzh-slTNH8cIQYOPyn3NuDHKE4Yhbq1BUpF96zO8cMdn-7JnmKP4sK-My8JxmLe73JPJqRWumel_M6M0iw_D_4NoQlTF9uxtQ-5J7gCDU0MQn7f2WL5HVrSUjRQm6IBpn5T9ksIPcohm_-7TsZ7vAskodi_8YWJ-hl98ZEY93NW5k_YVee6UJT-Zzhgnam7aBUZx8S6NUFHpMN2z0HJ0B3NIee_Uh6cofdd7eXSIRdC-e_Kvhrw8kn-Zgh8LJBBSXgUVKc9LZLeI-fkh-2dOqSzHYSbcdo5KYA01hpzaEVex_6mlyS9HPboa32wWbsPtq2SStAYWbagm7mq-ZB1mnv0h_HlyO8OaUEPUuzcg5loVJVfFPBoy6J2c1X7Yd4adLHOuJMOBvdjieIrVYJStRthPow4cyp5KEUTTn96kNe4Gab3eiGkrtO7CAD12i2hwttHErXo5fpaVcxnvi-DoY84I6uR97ORvSuJhX3vsR6tJF-x9-s8EzWRpCeZ0pKJdWsp2o=w1123-h842-no" caption="Piazza Duomo" gallery="Galería Dolomitas" >}}
   
-### Segundo día
+### Segundo día: Lago di Carezza
 
 EL segundo día dimos una última vuelta por Trento por la mañana y compramos algunos productos de la gastronomía local en el *[Mercato Giornaliero](https://goo.gl/maps/mN917WdRzk1FuETP9)*. Cogimos varios tipos de quesos y embutidos de la zona como el *Speck*.
 
@@ -58,8 +58,9 @@ EL segundo día dimos una última vuelta por Trento por la mañana y compramos a
 {{< fancybox path="https://lh3.googleusercontent.com/" file="zob4HGm61zEyHUyPrXcuBdy7nDfpKz9bcH5SQfxcAOiglPVsVvWOhyyXpL8X_zcfsuHBTOpxHk_yyzExEU9uKWeLM7KZXYORNy1qaj-RTVu3IRSiJyCHRVJ7kckY6eBiFNHvcC4eDQZAb--KgAtuY8Fdafz_IMpxXJzxNJjA3JM0myMk9aIEWlUblxteFcl8vUYCEKTnXitmUHHgv_SyulLqMbTtIRTK7z5nezQPfAAakhuJAyrVAqZp7gm0JruADFsBvBwjUIZIJLcBN9oC3kjn-GEuRZF6Kn57vf6FfLFCBBbeyCErW0seDI5dGb4cHL23yKqSvR_J933gr5m9ZPz0nBUxw69-6mqiafNEovCL7PwX2joxzpKD0yu_sqccOSl_NxWgZ7PR0ypYXkVECEzx749ZQogCqPpVsPhWal5qo3-3zkMwEgplWN4yDdg4t-bSXhQ_cqyTuNLPUiKyYJwHsSy9NpFqZnChp1Rcmq45nA7q4qGgpsJSJyzmHk1WJlPshdLbT4BTLagVnX7A54DhM-_o0tdGWKqyYrYdFQub2U2TcZfWl9-NTRvZyt42n8S0d-bUeYHIXJvOyLOzuerVnCis3r66xEDq8xppyIYDkO2AmFfuu5dxNhnWoXnrPMl4qeh92InziOa2A1jKQe3r1v4mUnCtk2CCpBqPv9BmW5QEgnVWc14eTshpTvBsv-BoMYz57OWuNC5S_LhnUPdzOStHA-9M1fSNPtA6fXrwlsVV=w1123-h842-no" caption="Mercato Giornaliero" gallery="Galería Dolomitas" >}}
 
 Nuestro siguiente objetivo era el *[Lago di Carezza](https://goo.gl/maps/ZiktEE5wbXXhT9Cf8)*. Aunque el camino más rapido era llegar hasta **Bolzano** y luego desviarnos, decidimos ir por otra ruta un poco más larga, pasando por Pozza di Fassa, ya que el camino de Bolzano lo tomariamos el último día.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d353153.69068352063!2d11.103147546985761!3d46.24996521522647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x478276cac9ce9ddb%3A0x27c6a299139ff547!2sTrento%2C%20Province%20of%20Trento%2C%20Italy!3m2!1d46.074779299999996!2d11.1217486!4m5!1s0x477869237b61dcd9%3A0x99d972828b60eebd!2sPozza%20di%20Fassa!3m2!1d46.4306894!2d11.6857172!4m5!1s0x47786fe8e28162b7%3A0xdb332cfdd84fb462!2sKarersee%2C%2039056%20Welschnofen%2C%20South%20Tyrol%2C%20Italy!3m2!1d46.4092273!2d11.5750645!5e0!3m2!1sen!2ses!4v1567372376335!5m2!1sen!2ses" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<div style="text-align:center">
+<iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d353153.69068352063!2d11.103147546985761!3d46.24996521522647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x478276cac9ce9ddb%3A0x27c6a299139ff547!2sTrento%2C%20Province%20of%20Trento%2C%20Italy!3m2!1d46.074779299999996!2d11.1217486!4m5!1s0x477869237b61dcd9%3A0x99d972828b60eebd!2sPozza%20di%20Fassa!3m2!1d46.4306894!2d11.6857172!4m5!1s0x47786fe8e28162b7%3A0xdb332cfdd84fb462!2sKarersee%2C%2039056%20Welschnofen%2C%20South%20Tyrol%2C%20Italy!3m2!1d46.4092273!2d11.5750645!5e0!3m2!1sen!2ses!4v1567372376335!5m2!1sen!2ses" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" ></iframe>
+</div>
 
 El lago era precioso, las **tonalidades azul-verdosas del agua** es lo que mas llama la atención. Si tienes idea de acercarte a la orilla debes saber que el lago esta **vallado en un perímetro alrededor**. Lo cual, aunque no te permite acercarte mucho o bañarte si que previene de que la gente arroje basura o destruya la zona alrededor del mismo.
 
@@ -73,8 +74,13 @@ Más tarde despues de comer llegamos a **Canazei** donde nos hospedariamos en un
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="WkkfDZxVHfaTQzebIIMmJHhbRoldee-nEVD6CvbII5WwBgCz2ghQob00zwgKP-sN8X8_f7rT98G7iI5vnHozjsYS-KBTbv-RCKH-wlx8IeyyUa-sbAzr-0oCs7nQgSKdpchKiiz6Ky_hyc-ovH7PbdTRpXCpi38bVf7CgU56Qw2zbw82x_nUfGeOj3_ANgD_0mS_5Y5GjG5t6CzLkVNA-z-XLhO25qff-vacwFXVLPWJZ9RzKWMh5Wxqqvgq_aIWfipFgqM9M42ql2H-6_6jDIginFTdP5-pGxGxAqhWojNV47_2iK_QYq0ujfAz3bKopz0flKFnSopxlzYZxCoCg2AlsJ1emv_IaxyQ4gZB0DoyfyFdlCGXenXNmR3LV1J95W1-eXGUBmW921cD17vT9mlHpey49KFhlgqOvrXC0E2S-tzL7-T4nSRveiXSo6YPr3walq7ExOVs1ngOop78lm8jCRkzIzAS4a6F3UD0MYZ_at1tJvKCBVcCdvyKE4uPauCFaTNjKIzPzF8nz0pU3tqYMBofnCxdftpMAsalbelBgxxaM2HnK7Z0R62X2bUX4CrqUBNS3nUxZiBlGh6KwSe8JR6VmKnezHDibOe2Q2w2TLVPyOXg8YE5yxK_secGlruREVPAzExlQHoTUTuduRl-2XT-FdERKR5OklnlnqdKRObGa7O71hExmOuKLer3Us4LyGgWGx5Xuu5hj8GOWzdcgz0ZtSRY5vuyrupnPmUOJPlT=w1123-h842-no" caption="La Marmolada (derecha) y otros picos vistos desde Canazei" gallery="Galería Dolomitas" >}}
 
-### Tercer día
-Compramos cosas en el mercadillo de trento y luego fuimos al lago y despues a Canazei
+### Tercer día: Cortina d'Ampezzo
+
+El tercer día decidimos ir a **Cortina d'Ampezzo** aparte de por ver la ciudad en si, por la **ruta atravesando los dolomitas** con unas vistas espectaculares.
+
+
+
+
 
 ### Cuarto día
 Fuímos acortina d'ampezo
