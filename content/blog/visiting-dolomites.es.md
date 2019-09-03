@@ -76,8 +76,11 @@ Más tarde despues de comer llegamos a **Canazei** donde nos hospedariamos en un
 
 ### Tercer día: Cortina d'Ampezzo
 
-El tercer día decidimos ir a **Cortina d'Ampezzo** aparte de por ver la ciudad en si, por la **ruta atravesando los dolomitas** con unas vistas espectaculares.
+El tercer día decidimos ir a **Cortina d'Ampezzo** aparte de por ver la ciudad en si, por la **ruta atravesando los dolomitas** con unas **vistas espectaculares**. Con tal de ver el máximo fuimos y volvimos por distintos caminos. A la ida fuimos por la ruta que pasa por el  **Passo Pordoi** y a la vuelta tomamos la ruta por el **Paso di Giau**. Ambos recorridos duraban en torno a 1h y 30 min. cada uno.
 
+<div style="text-align:center">
+<iframe src="https://www.google.com/maps/embed?pb=!1m44!1m12!1m3!1d87912.80256197359!2d11.885745942173774!3d46.48286366915306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m29!3e0!4m5!1s0x47786a694ab62bc3%3A0xcb8e3fb552a4e7e4!2sCanazei%2C%20Province%20of%20Trento%2C%20Italy!3m2!1d46.4767783!2d11.770364899999999!4m5!1s0x47784034607e7663%3A0x81157a992b3a2fc!2sPasso%20Pordoi!3m2!1d46.487834!2d11.8140476!4m5!1s0x47783435d247033f%3A0xdd3c30437b92e42b!2s32043%20Cortina%20d&#39;Ampezzo%2C%20Province%20of%20Belluno%2C%20Italy!3m2!1d46.5404711!2d12.1356524!4m3!3m2!1d46.4830945!2d12.05416!4m5!1s0x47786a694ab62bc3%3A0xcb8e3fb552a4e7e4!2sCanazei%2C%20Province%20of%20Trento%2C%20Italy!3m2!1d46.4767783!2d11.770364899999999!5e0!3m2!1sen!2ses!4v1567547513219!5m2!1sen!2ses" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+</div>
 
 
 
