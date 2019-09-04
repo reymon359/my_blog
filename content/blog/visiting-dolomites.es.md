@@ -86,14 +86,21 @@ A la ida fuimos por la ruta que pasa por el  **Passo Pordoi** y a la vuelta toma
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="vPKRc8UTc2chQpuA-sLOoe4P3I_iDkxcrI3U8KCNaw909bwjKq-yrv2c3IGLsuvGRJ48lPanB7Y6O2kUSNWY7aXDo0W4uMPHQ8_VHB2oGuhdFIq8MCzlVrtklMFm8YYaqll3ky3yaUjcTPhoHbgwTSJ3CtJlhmrGAdW21QEe2BT38Cx43QjrqLOdnXRjVdzhwapk3nG22K55c5be5sMn_nr7PiiE3LiF9aaUxDNiYQcbF4tJXcj0lNLP3cCZWUaITg_UFBiEiEiYDfrxgwEXU0Do3QQVrpcB6wzM-b--KlJHRIyohS53jkNbE9vZb8C5jBQABOtgoKXI2xl1A38lX3XbBKBQb4Hl3KarT14D2vPvOZe4prdl6PvLZ0ezIFD509SNZYy8R7VX_CuDgCV1D_0Dpxj-9IRy8lCi8Ll4MkgTKXi_MXMBV5Y8viUZhJiXQSezyDmIjdjx1CWiWQ5gTsveEmPfRV2hUduS1e59f7MR78sc4RI_lawKHeyApHhfMaGwwCzdamtFGcY_8g70fzxb_g5b06Ab8ABy5D83ifsvW58BoQPuSolWB0YEqiGv5t4Eyj0ec2vx1HILHfi-n0A0pERcbZTplSpv1KQ4Zq9H3lbNbohRf4BCgWs9cTHNjkncP5ZG5DgcTZu6KVehhutPEqtO3E8TxyeZ3TdiBvULkHpzJXx6xWEdMelW1cKnpX8CsKMyz-b4JnrKSmVKIY_zzajfCTXy36XRO4VX_RaZOTMU=w1797-h843-no" caption="Vistas desde el Passo Pordoi" gallery="Galería Dolomitas" >}}
 
-Si decides alquilar un coche debes saber que la gran mayoría de **las carreteras de los Dolomitas están bien asfaltadas y caben dos coches** aunque no están delimitadas por una línea continua en el medio.
+Si decides alquilar un coche para disfrutar de las vistas te tranquilizará saber que la gran mayoría de **las carreteras de los Dolomitas están bien asfaltadas y caben dos coches** aunque no están delimitadas por una línea continua en el medio.
 
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="mLzZrDGwoSJ_UOf3_Fjvpv-QG69bl3EQf8zpyWQAF5Mi52B2pPM9_l0JAheeAB9iSIsmUY_jWtMvGTApcpE1Pkw4WC84UMTopPq-kQEFHBYSIOZL0rAaicHmJk0MPKPFQIdbtI0HaIAG6vfeq-Ebl0a-X5mgi3D9mcdSeof1x3X2YAA0_4u7O-yWU1SGJNCwKRBa9JBKlPf2lQ-4Nms7C4mlf_HLRW4_na9Woj09aOxWHzNfrFKQNBoRLiQcZbm1JlJ01oB92jpY0x18PR0JsHNrXvOaI8b90w19vHWngAGY4iXGeBHBGVoNjtNKSmjSJGWs6QCeBeVAPYP6zorOoZhcjncS8jC8dVHugxSn80q-i1gx58gIDTQv_wNY5r_ENRM_jB4H3KXTGUf6FPtT-DuuEurV9UPBiDO2MBTqYoGDGAdgtSFE3oSHMIYWczJ-r4vyLHeKwO1MMZc-EoleEyO5TYggMrtMtYe0vlXOZg4AVj0_8GKqcgMSnNeBuipzrfzJm3jvHtBcul68lSQsT1RNqcEBXRqvm7MO3Y2k6dWishdMV5SfNyMasQhKssOefG8gbdNb6zqSHkB_DMt-UzftBT5GuI4M91BkKJZgfPDw0BidzZ3u0Jo33UACwTo6Tu8yrUAR7hA6ajJw-heyv3HSSw8QeTAOdeS-VTqcr8Mk4hCwLYaBCGsenbJIrfQGTCZ2lglngvbjKcnKLX4gvEqoWGvdzKtSDqY9OfQrXX5Ts59-=w1921-h455-no" caption="Vistas desde el Passo Falzarego" gallery="Galería Dolomitas" >}}
-### Cuarto día
-Fuímos acortina d'ampezo
 
-### Quinto día
+Cortina d'Ampezzo es más grande que Canazei, es un complejo de deportes de invierno conocido por sus pistas de esquí, paisajes, alojamientos, tiendas. Es muy frecuentada por el jet-set internacional.
+
+
+{{< fancybox path="https://lh3.googleusercontent.com/" file="imFt7xh2L4G5N9orhBPELfITGWfnMT6E6-b40RhKsnPxWafV7ZnB7Ql3ynVlEdcbhRVLTqhdMFpMGlMcDjzVqfJnogbi3MtLQQ8hI8aeleqhueKvUim7rK8WKe_kLs7k_3ZUm_jrxSJhCuUqv5yeOnme9A6-cJE6XVZ806jyLD29n2W5d9UGwtCOSf3azaWWuJ6pQH8TqP4xwiQsd165yH8ZrcxxYKQUIOJEgXXdNfuY-4ntIXOBud57OJVsKIZxv3fk4uN-TJZldNhJ7L69RsBu0_ieTyYbfD_b52OSdmvIpIc2OuUum2J-epwxtU9UbjI7w187KOZpUUFQdsgouJ9WjZyI72AxD_cXKJLPW4h5RdofhBeOHfhkgAwqYM8_6sWvBe4MO00pHtTnV-FICNbkEOdxX1jGq3GPWN_WsHbE_HUpoeI30l_8pri7UkZ5qCfXGyiGVthFIuc9DQaZTOvwcNhOsf40Kky7EMUlj5s2atf-qx2WQVImhK-KaFm4jWFXiPkJyiodndpFQlPyLNUNcd8ScUN6j1biMRBfa5DhEcd14ZhGZAcle1q8v-79W6l7FH6u0Vvrq20rszLFPz6C9XtQpXRePGiRiH4LTpRqh4wsvqv1h19RNYXmq2gzUpAWU0sBbZa0fLu__9iqaBg5vf1LuaOpRf1Uq4AeTpBx51xg0UJfXa7KPgi0-LgGvkYW2ivaukFleGl5ZKcY4_mzrBPHtFyN8d4tBj-FxUkghfIG=s830-no" caption="Cortina d'Ampezzo" gallery="Galería Dolomitas" >}}
+
+En el camino de vuelta pasamos bordeando el **Lago Fedaia** desde donde se podía observar el **Glaciar de la Marmolada**.
+
+
+
+### Cuarto día
 Bolzano y lago de Garda
 
 ## Vida en los dolomitas
