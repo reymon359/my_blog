@@ -76,15 +76,20 @@ Más tarde despues de comer llegamos a **Canazei** donde nos hospedariamos en un
 
 ### Tercer día: Cortina d'Ampezzo
 
-El tercer día decidimos ir a **Cortina d'Ampezzo** aparte de por ver la ciudad en si, por la **ruta atravesando los dolomitas** con unas **vistas espectaculares**. Con tal de ver el máximo fuimos y volvimos por distintos caminos. A la ida fuimos por la ruta que pasa por el  **Passo Pordoi** y a la vuelta tomamos la ruta por el **Paso di Giau**. Ambos recorridos duraban en torno a 1h y 30 min. cada uno.
+El tercer día decidimos ir a **Cortina d'Ampezzo** aparte de por ver la ciudad en si, por la **ruta atravesando los dolomitas** con unas **vistas espectaculares**. Con tal de ver el máximo fuimos y volvimos por distintos caminos. 
 
 <div style="text-align:center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m44!1m12!1m3!1d87912.80256197359!2d11.885745942173774!3d46.48286366915306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m29!3e0!4m5!1s0x47786a694ab62bc3%3A0xcb8e3fb552a4e7e4!2sCanazei%2C%20Province%20of%20Trento%2C%20Italy!3m2!1d46.4767783!2d11.770364899999999!4m5!1s0x47784034607e7663%3A0x81157a992b3a2fc!2sPasso%20Pordoi!3m2!1d46.487834!2d11.8140476!4m5!1s0x47783435d247033f%3A0xdd3c30437b92e42b!2s32043%20Cortina%20d&#39;Ampezzo%2C%20Province%20of%20Belluno%2C%20Italy!3m2!1d46.5404711!2d12.1356524!4m3!3m2!1d46.4830945!2d12.05416!4m5!1s0x47786a694ab62bc3%3A0xcb8e3fb552a4e7e4!2sCanazei%2C%20Province%20of%20Trento%2C%20Italy!3m2!1d46.4767783!2d11.770364899999999!5e0!3m2!1sen!2ses!4v1567547513219!5m2!1sen!2ses" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </div>
 
+A la ida fuimos por la ruta que pasa por el  **Passo Pordoi** y a la vuelta tomamos la ruta por el **Passo di Giau**. Ambos recorridos duraban en torno a 1h y 30 min. cada uno.
+
+{{< fancybox path="https://lh3.googleusercontent.com/" file="vPKRc8UTc2chQpuA-sLOoe4P3I_iDkxcrI3U8KCNaw909bwjKq-yrv2c3IGLsuvGRJ48lPanB7Y6O2kUSNWY7aXDo0W4uMPHQ8_VHB2oGuhdFIq8MCzlVrtklMFm8YYaqll3ky3yaUjcTPhoHbgwTSJ3CtJlhmrGAdW21QEe2BT38Cx43QjrqLOdnXRjVdzhwapk3nG22K55c5be5sMn_nr7PiiE3LiF9aaUxDNiYQcbF4tJXcj0lNLP3cCZWUaITg_UFBiEiEiYDfrxgwEXU0Do3QQVrpcB6wzM-b--KlJHRIyohS53jkNbE9vZb8C5jBQABOtgoKXI2xl1A38lX3XbBKBQb4Hl3KarT14D2vPvOZe4prdl6PvLZ0ezIFD509SNZYy8R7VX_CuDgCV1D_0Dpxj-9IRy8lCi8Ll4MkgTKXi_MXMBV5Y8viUZhJiXQSezyDmIjdjx1CWiWQ5gTsveEmPfRV2hUduS1e59f7MR78sc4RI_lawKHeyApHhfMaGwwCzdamtFGcY_8g70fzxb_g5b06Ab8ABy5D83ifsvW58BoQPuSolWB0YEqiGv5t4Eyj0ec2vx1HILHfi-n0A0pERcbZTplSpv1KQ4Zq9H3lbNbohRf4BCgWs9cTHNjkncP5ZG5DgcTZu6KVehhutPEqtO3E8TxyeZ3TdiBvULkHpzJXx6xWEdMelW1cKnpX8CsKMyz-b4JnrKSmVKIY_zzajfCTXy36XRO4VX_RaZOTMU=w1797-h843-no" caption="Vistas desde el Passo Pordoi" gallery="Galería Dolomitas" >}}
+
+Si decides alquilar un coche debes saber que la gran mayoría de **las carreteras de los Dolomitas están bien asfaltadas y caben dos coches** aunque no están delimitadas por una línea continua en el medio.
 
 
-
+{{< fancybox path="https://lh3.googleusercontent.com/" file="mLzZrDGwoSJ_UOf3_Fjvpv-QG69bl3EQf8zpyWQAF5Mi52B2pPM9_l0JAheeAB9iSIsmUY_jWtMvGTApcpE1Pkw4WC84UMTopPq-kQEFHBYSIOZL0rAaicHmJk0MPKPFQIdbtI0HaIAG6vfeq-Ebl0a-X5mgi3D9mcdSeof1x3X2YAA0_4u7O-yWU1SGJNCwKRBa9JBKlPf2lQ-4Nms7C4mlf_HLRW4_na9Woj09aOxWHzNfrFKQNBoRLiQcZbm1JlJ01oB92jpY0x18PR0JsHNrXvOaI8b90w19vHWngAGY4iXGeBHBGVoNjtNKSmjSJGWs6QCeBeVAPYP6zorOoZhcjncS8jC8dVHugxSn80q-i1gx58gIDTQv_wNY5r_ENRM_jB4H3KXTGUf6FPtT-DuuEurV9UPBiDO2MBTqYoGDGAdgtSFE3oSHMIYWczJ-r4vyLHeKwO1MMZc-EoleEyO5TYggMrtMtYe0vlXOZg4AVj0_8GKqcgMSnNeBuipzrfzJm3jvHtBcul68lSQsT1RNqcEBXRqvm7MO3Y2k6dWishdMV5SfNyMasQhKssOefG8gbdNb6zqSHkB_DMt-UzftBT5GuI4M91BkKJZgfPDw0BidzZ3u0Jo33UACwTo6Tu8yrUAR7hA6ajJw-heyv3HSSw8QeTAOdeS-VTqcr8Mk4hCwLYaBCGsenbJIrfQGTCZ2lglngvbjKcnKLX4gvEqoWGvdzKtSDqY9OfQrXX5Ts59-=w1921-h455-no" caption="Vistas desde el Passo Falzarego" gallery="Galería Dolomitas" >}}
 ### Cuarto día
 Fuímos acortina d'ampezo
 
