@@ -1,7 +1,7 @@
 +++
 author = "Ramón Morcillo"
 categories = ["viajar"]
-tags = ["viaje", "italia", "montaña"]
+tags = ["Viaje", "Italia", "Montaña"]
 date = "2019-08-29"
 description = "Viaje a traves de los Dolomitas, los Alpes italianos."
 featured = "2019/dolomitas.jpg"
@@ -118,6 +118,5 @@ Ambas, *Riva del Garda* y *Peschiera del Garda* son ciudades cuya **principal ac
 
 ## Conclusión
 
-Después de haber estado en otras ciudades y zonas más populares del país años atrás este viaje me ha descubierto **una Italia muy diferente** a lo que estaba acostumbrado que no me esperaba para nada. Los Dolomitas es una zona increíble que si tienes oportunidad de ir no deberías perdertela, eso si, **si puedes permitirte alquilar un coche para recorrerla no lo dudes** puesto que de no hacerlo seguramente te pierdas parte de los paisajes arriba descritos.
-
+Después de haber estado en otras ciudades y zonas más populares del país años atrás este viaje me ha descubierto **una Italia muy diferente** a lo que estaba acostumbrado que no me esperaba para nada. Los Dolomitas es una zona increíble que si tienes oportunidad de ir no deberías perdertela, eso si, **si puedes permitirte alquilar un coche para recorrerla no lo dudes** puesto que de no hacerlo seguramente te pierdas parte de los paisajes arriba descritos. Si tienes alguna pregunta no dudes en escribir un comentario o [contactarme](/es/contact).
 
