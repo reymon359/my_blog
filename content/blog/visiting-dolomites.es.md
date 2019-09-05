@@ -116,9 +116,8 @@ Ambas, *Riva del Garda* y *Peschiera del Garda* son ciudades cuya **principal ac
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="9K_4BRUJgQWtkHIqVvaUsEbYLgXH8reXekq21AAtRrFFhN1vR4kqj14jsNypbhWCwo9-Yv-Z3IW35EvJOEJ1JFUmp6xSTWoZ3I2nV-RyyMXYXaEYvzNemLF-nX05g5-s67ndHMM1MWc8YImAaT-KGaSid6tybaZO7kww-0wWY3-BPCpFo6w9ikykDV_JeXRLiUCS5S81-XS4eO9O5CHhcFEpLzvrAf-LbF-6MsXEiVF5tpeaSQOt0aCGsA5OgOefETpJ8MBwxf8rjrUSkYfHoa2VkwQh6-yPxASoDx4DyYZjgto-VZ4BxDY-QnfcU1DvJNuLTRqufo9xYCBmzmPX6-nikESbN8hOrLpW1YUWznaeW5EqW9E_KFfAjPfPOgmkAoaVEcwihJP_vz8ntxr_v3NE421ab1rcyLOKQdsbUb5mulXCkj4HI1CiOuVGaRb9T4RZ9cA5dEiSLGfTfeoYNGA6Hfidem4GG5g1mhh_jehau9GUu-67rfzDoEypS18Brf-8s15DyQe5QIYjYaNmBlKeIIPHNSpoyg2tzvNl7-sNIr1ypkK8b10jVtmMbWCJzHgMLF8pMCag7vuO_OMrho2YkLJwUmB1XQbzNTtTpZOGeBqndeeYefPGVwJLPiOZBFiweTJyR294oafdoNLcScnaJldSs3zzfVoJP0YDhTAI5FEdjvcGv4IuYpa1tTXWbVjnSxxqBMEObqur6VPH7F6nrTM6MUjruSIT-N1EVcakDdsw=w1905-h842-no" caption="Vista del Lago di Garda desde Peschiera di Garda" gallery="Galería Dolomitas" >}}
 
-
-
 ## Conclusión
-Consejos sobre coger el coche para verlo bien y tal.
 
-http://www.hikenow.net/dolomites/where-are-dolomites-italy.html
+Después de haber estado en otras ciudades y zonas más populares del país años atrás este viaje me ha descubierto **una Italia muy diferente** a lo que estaba acostumbrado que no me esperaba para nada. Los Dolomitas es una zona increíble que si tienes oportunidad de ir no deberías perdertela, eso si, **si puedes permitirte alquilar un coche para recorrerla no lo dudes** puesto que de no hacerlo seguramente te pierdas parte de los paisajes arriba descritos.
+
+
