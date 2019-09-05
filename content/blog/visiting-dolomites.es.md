@@ -112,25 +112,13 @@ Despues de Bolzano y camino del Aeropuerto de Milan, paramos en un par de pueblo
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="Ue7ocO2aP8xIrxo-ilAmTuyP2q6DwScZo0M6ml-yY0uvHNfauSFAdc9ff7ZFH7wwupkYw-VWkK17RNFZlGdniXXl8fOZMC9_M_malnzLGiicprK8H3yD-zvjfQ8bFlktnfrIvQbnhmsllK8YVPKasE1HDxquKwXvpee9KHhYZrOO8ZgRD49cX2dRZHJMU-DCnw69qah4EkwqtLSR3WP-8ATZMo8ofSk_BbeVNm81BY-LqpVyR2V9Zh0WdSuIrtskZXFX6wBAMAE4wapBw96FcvNLWBSSy18ExEruKwia4VRbSBE3Y1ofa4QRSQ4nFEox2FWDoYKJEFFqcDnjZ_enuwKPJ9oTfnJ1fM2aaBpSATX-NDeYKHOfPCSWRyNucdsKCqs2d8aSBZ9mL-jPE2m9T8JM4-MiBBrqeYDbSGmlIKQW03cGQl7EIdd0Be_ps4bUAwkVTlBCUNd_zh6pkAHkL1AKgcLPP-Ni7tHK-NWWMhVtYtj-7nRgMi96YyfDiGy37MVtcJGf3Yoh5glGMqF_WAJ72c93Tzy0rBS0IJutT4nExVxMn_873BX2-mlOk_LZf26NRTp16XzeCKEaYKGHwxwWomI62FqUZcxvoWm-UDhJ-lnSwumu8rYjG86rVJ28Ll7njrMruJXmn47LVbZvmdOPahuKgVScPblsvKgCE1tmBZa46WK-i4m_ZVua8ux_7TipawIFoEAZ2BiCW9gd7tuCpLLGf5uMMbT89wwd0xbF78hv=w1921-h781-no" caption="Vista del Lago di Garda desde Riva di Garda" gallery="Galería Dolomitas" >}}
 
-Ambas, ***Riva del Garda*** y ***Peschiera del Garda*** son ciudades cuya principal actividad es el Turismo. En Peschiera del Garda era mas notable que en Riva dada la gran cantidad de restaurantes y tiendas de turistas a la orilla del lago.
+Ambas, *Riva del Garda* y *Peschiera del Garda* son ciudades cuya **principal actividad es el Turismo**. En Peschiera del Garda era mas notable que en Riva dada la gran cantidad de restaurantes y tiendas de turistas a la orilla del lago.
+
+{{< fancybox path="https://lh3.googleusercontent.com/" file="9K_4BRUJgQWtkHIqVvaUsEbYLgXH8reXekq21AAtRrFFhN1vR4kqj14jsNypbhWCwo9-Yv-Z3IW35EvJOEJ1JFUmp6xSTWoZ3I2nV-RyyMXYXaEYvzNemLF-nX05g5-s67ndHMM1MWc8YImAaT-KGaSid6tybaZO7kww-0wWY3-BPCpFo6w9ikykDV_JeXRLiUCS5S81-XS4eO9O5CHhcFEpLzvrAf-LbF-6MsXEiVF5tpeaSQOt0aCGsA5OgOefETpJ8MBwxf8rjrUSkYfHoa2VkwQh6-yPxASoDx4DyYZjgto-VZ4BxDY-QnfcU1DvJNuLTRqufo9xYCBmzmPX6-nikESbN8hOrLpW1YUWznaeW5EqW9E_KFfAjPfPOgmkAoaVEcwihJP_vz8ntxr_v3NE421ab1rcyLOKQdsbUb5mulXCkj4HI1CiOuVGaRb9T4RZ9cA5dEiSLGfTfeoYNGA6Hfidem4GG5g1mhh_jehau9GUu-67rfzDoEypS18Brf-8s15DyQe5QIYjYaNmBlKeIIPHNSpoyg2tzvNl7-sNIr1ypkK8b10jVtmMbWCJzHgMLF8pMCag7vuO_OMrho2YkLJwUmB1XQbzNTtTpZOGeBqndeeYefPGVwJLPiOZBFiweTJyR294oafdoNLcScnaJldSs3zzfVoJP0YDhTAI5FEdjvcGv4IuYpa1tTXWbVjnSxxqBMEObqur6VPH7F6nrTM6MUjruSIT-N1EVcakDdsw=w1905-h842-no" caption="Vista del Lago di Garda desde Peschiera di Garda" gallery="Galería Dolomitas" >}}
 
 
 
-
-
-## Vida en los dolomitas
-LA vida en los dolomitas eski y gente de montaña
-
-## Alojamientos
-Hablar sobre los alojamientos
-
-## Gastronomía
-Hablar sobre la comida
-
-## Precios
-Hablar sobre los precios del viaje en general
-
-## Consejos
+## Conclusión
 Consejos sobre coger el coche para verlo bien y tal.
 
 http://www.hikenow.net/dolomites/where-are-dolomites-italy.html
