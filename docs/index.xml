@@ -5,19 +5,29 @@
     <link>https://blog.ramonmorcillo.com/</link>
     <description>Recent content on Ramon Morcillo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.ramonmorcillo.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Protege tu ordenador gratis</title>
+      <title>Visiting the Dolomites</title>
+      <link>https://blog.ramonmorcillo.com/blog/visiting-dolomites/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/blog/visiting-dolomites/</guid>
+      <description>What are the Dolomites? When I told people that I was leaving or had been in the Dolomites they had no idea what they were, the truth is that I didn&amp;rsquo;t even know it until, a couple of years ago, my mother mentioned that she would like to visit them.
+In short, the Dolomites is a mountain range that is part of the Alps. It is located in northern Italy in the provinces of Belluno, Bolzano, Trento, Udine and Pordenone.</description>
+    </item>
+    
+    <item>
+      <title>How to protect your computer</title>
       <link>https://blog.ramonmorcillo.com/blog/antivirus-free/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://blog.ramonmorcillo.com/blog/antivirus-free/</guid>
-      <description>Instalar y renovar ESET INTERNET SECURITY gratis Con la intención de ayudar y enseñar a instalar a aquella gente que necesita un antivirus de calidad, en este documento voy a explicar como instalar y renovar de forma gratuita el antivirus ESET INTERNET SECURITY en Windows, el cual se encuentra entre los mejores del mercado. Si estás interesado en comprarlo actualmente el precio de la versión básica de este antivirus es de 30 euros en este enlace.</description>
+      <description>Install and renew ESET INTERNET SECURITY free With the intention of helping and teaching to install those people who need a quality antivirus, in this document I will explain how to install and renew for free the ESET INTERNET SECURITY antivirus in Windows, which is among the best in the market. If you are interested in buying it at the moment the price of the basic version of this antivirus is 30 euros in this link.</description>
     </item>
     
   </channel>

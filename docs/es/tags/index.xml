@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ramon Morcillo</title>
+    <link>https://blog.ramonmorcillo.com/es/tags/</link>
+    <description>Recent content in Tags on Ramon Morcillo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.ramonmorcillo.com/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Italia</title>
+      <link>https://blog.ramonmorcillo.com/es/tags/italia/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/es/tags/italia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Montaña</title>
+      <link>https://blog.ramonmorcillo.com/es/tags/monta%C3%B1a/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/es/tags/monta%C3%B1a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viaje</title>
+      <link>https://blog.ramonmorcillo.com/es/tags/viaje/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/es/tags/viaje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antivirus</title>
+      <link>https://blog.ramonmorcillo.com/es/tags/antivirus/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/es/tags/antivirus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ciberseguridad</title>
+      <link>https://blog.ramonmorcillo.com/es/tags/ciberseguridad/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/es/tags/ciberseguridad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ordenador</title>
+      <link>https://blog.ramonmorcillo.com/es/tags/ordenador/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/es/tags/ordenador/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

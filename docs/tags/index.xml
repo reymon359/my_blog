@@ -5,14 +5,41 @@
     <link>https://blog.ramonmorcillo.com/tags/</link>
     <description>Recent content in Tags on Ramon Morcillo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.ramonmorcillo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>antivirus</title>
+      <title>Italy</title>
+      <link>https://blog.ramonmorcillo.com/tags/italy/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/tags/italy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountain</title>
+      <link>https://blog.ramonmorcillo.com/tags/mountain/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/tags/mountain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trip</title>
+      <link>https://blog.ramonmorcillo.com/tags/trip/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/tags/trip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antivirus</title>
       <link>https://blog.ramonmorcillo.com/tags/antivirus/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -21,20 +48,20 @@
     </item>
     
     <item>
-      <title>ordenador</title>
-      <link>https://blog.ramonmorcillo.com/tags/ordenador/</link>
+      <title>Computer</title>
+      <link>https://blog.ramonmorcillo.com/tags/computer/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ramonmorcillo.com/tags/ordenador/</guid>
+      <guid>https://blog.ramonmorcillo.com/tags/computer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>seguridad</title>
-      <link>https://blog.ramonmorcillo.com/tags/seguridad/</link>
+      <title>Cybersecurity</title>
+      <link>https://blog.ramonmorcillo.com/tags/cybersecurity/</link>
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ramonmorcillo.com/tags/seguridad/</guid>
+      <guid>https://blog.ramonmorcillo.com/tags/cybersecurity/</guid>
       <description></description>
     </item>
     
