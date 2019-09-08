@@ -21,7 +21,7 @@ In short, the Dolomites is a mountain range that is **part of the Alps**. It is 
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="FrtS9KPeZX30OEmnliUkxSyjzXiDpAIAY9JrEaeXwdvEQiKUry7xrf2qWy17dlKdRa1GpvQ4GBW1GEdOZO99pDehohJs5gPXJpzCiCopRAx3-HQws_k7azrXk-KbJzWjDsy-QwsM2NyJxaJnCeFfoE4nqz15qpKwDU9M0Sd9CjRf5V8-t2xaAuu1ChLIHK_18T9EdamM3UygxoPdlV-9nnw6CDl-NPDEyrOB157N1kJsdYwxeHPRT62bO9JQxIyWhuEdxYDnlDw0vtx683oBGZMu4ImdNE6-kCKrfeXDAVN1worm4EdoPPMnwoWlAV1EFTnfPT6wW8WLwH4dwUPaSZVU1dc6HmThve7J-7YoKDu6WKKyS3N3TDgPI_Wjqbk9pfDXoQGRfAbJdzubxASetpTcnh86VNHfcRMiFw152mmg2pcdVRzmyBs2o-7bFEx_XJd2fPSBTrX7yhlzknW5vgVaBY7SOR6SLnans6GwEpdmIDQ3V39-ef48wh_Tut_WGABJf3CiuZj7JT2P7QC7-MIM_cRAIF6edh9TPxMcfOE5bnV-LR22tzcsqcgkEKyibzCUMkZQcC7fwAdzfaWdSc3NiCp8PGKfOZbWDrcWUTMl6MyedJLB2YDr2PyJenHTEyArrgiZAgxV38NcGFX1Mpo1NHTb9xIczS0Qfu2zxoUludsYzgpIuDU=w959-h720-no" caption="Dibujo de los dolomitas" gallery="Galería Dolomitas" >}}
 
-[Ver el dibujo a fondo](https://photos.google.com/share/AF1QipPZH-j8AA-QANuV4jkiqw1rbJvqPrbgM76eXKn9EKb_Meu2mdHtyyuDtBff2BlWgg/photo/AF1QipPL_NpIKBGqeN5YGL9shc74JEhRzpzYgyrX2f_d?key=d0VLY2NYRHIwVl9LQV90Wlo0Nm9kNEwwRGNzSk53)
+[See the drawing in depth](https://photos.google.com/share/AF1QipPZH-j8AA-QANuV4jkiqw1rbJvqPrbgM76eXKn9EKb_Meu2mdHtyyuDtBff2BlWgg/photo/AF1QipPL_NpIKBGqeN5YGL9shc74JEhRzpzYgyrX2f_d?key=d0VLY2NYRHIwVl9LQV90Wlo0Nm9kNEwwRGNzSk53)
 
 ## Nuestra Ruta
 

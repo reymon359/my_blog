@@ -17,8 +17,6 @@ draft = "false"
 Con la intención de **ayudar y enseñar** a instalar a aquella gente que necesita un antivirus de calidad, en este documento voy a explicar como instalar y renovar de forma **gratuita** el antivirus ESET INTERNET SECURITY en **Windows**, el cual se encuentra entre los **mejores del mercado**. Si estás interesado en comprarlo actualmente el precio de la versión **básica** de este antivirus es de 30 euros en [este enlace](https://www.eset.com/de/home/antivirus/). La versión que instalaremos nosotros será la **completa**. Si ya lo tienes instalado y está a punto de caducar o ya ha caducado y quieres renovarlo debes seguir los mismos pasos.
 ## Índice
 
-- [Instalar y renovar ESET INTERNET SECURITY gratis](#instalar-y-renovar-eset-internet-security-gratis)
-- [Índice](#%c3%8dndice)
 - [Descarga](#descarga)
 - [Preparar el equipo](#preparar-el-equipo)
 - [Instalación](#instalaci%c3%b3n)

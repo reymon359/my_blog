@@ -17,8 +17,6 @@ draft = "false"
 With the intention of **helping and teaching** to install those people who need a quality antivirus, in this document I will explain how to install and renew **for free** the ESET INTERNET SECURITY antivirus in **Windows**, which is **among the best in the market**. If you are interested in buying it at the moment the price of the **basic** version of this antivirus is 30 euros in [this link](https://www.eset.com/de/home/antivirus/). The version that we will install will be the **complete** one. If you already have it installed and it is about to expire or has already expired and you want to renew it you must follow the same steps.
 
 ## Table of Contents
-- [Install and renew ESET INTERNET SECURITY free](#install-and-renew-eset-internet-security-free)
-- [Table of Contents](#table-of-contents)
 - [Download](#download)
 - [Prepare the equipment](#prepare-the-equipment)
 - [Installation](#installation)
