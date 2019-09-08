@@ -14,23 +14,21 @@ draft = "false"
 +++
 ## Install and renew ESET INTERNET SECURITY free
 
-Con la intención de **ayudar y enseñar** a instalar a aquella gente que necesita un antivirus de calidad, en este documento voy a explicar como instalar y renovar de forma **gratuita** el antivirus ESET INTERNET SECURITY en **Windows**, el cual se encuentra entre los **mejores del mercado**. Si estás interesado en comprarlo actualmente el precio de la versión **básica** de este antivirus es de 30 euros en [este enlace](https://www.eset.com/de/home/antivirus/). La versión que instalaremos nosotros será la **completa**. Si ya lo tienes instalado y está a punto de caducar o ya ha caducado y quieres renovarlo debes seguir los mismos pasos.
-## Índice
+With the intention of **helping and teaching** to install those people who need a quality antivirus, in this document I will explain how to install and renew **for free** the ESET INTERNET SECURITY antivirus in **Windows**, which is **among the best in the market**. If you are interested in buying it at the moment the price of the **basic** version of this antivirus is 30 euros in [this link](https://www.eset.com/de/home/antivirus/). The version that we will install will be the **complete** one. If you already have it installed and it is about to expire or has already expired and you want to renew it you must follow the same steps.
 
+## Table of Contents
 - [Install and renew ESET INTERNET SECURITY free](#install-and-renew-eset-internet-security-free)
-- [Índice](#%c3%8dndice)
-- [Descarga](#descarga)
+- [Table of Contents](#table-of-contents)
+- [Download](#download)
 - [Preparar el equipo](#preparar-el-equipo)
 - [Instalación](#instalaci%c3%b3n)
 - [Realizar un análisis](#realizar-un-an%c3%a1lisis)
 
-## Descarga
+## Download
 
-Para empezar nos descargaremos el instalador desde [la página de descarga oficial](https://descargas.eset.es/eset-internet-security). Una vez descargado dejamos el archivo **eis_live** en la carpeta de descargas (o donde se nos haya descargado por defecto) y comenzamos a preparar el equipo para la instalación. En caso de que el enlace esté roto o la página haya cambiado **<a href="/files/eis_live.exe"  target="_blank">aquí</a>** podrás encontrar el archivo que yo me descargué a la hora de realizar este tutorial y que funciona igual.
+To start we will download the installer from the [official download page](https://descargas.eset.es/eset-internet-security). Once downloaded, we leave the **eis_live** file in the download folder (or where it has been downloaded by default) and start preparing the equipment for installation. In case the link is broken or the page has changed **<a href="/files/eis_live.exe"  target="_blank">here</a>** you can find the file that I downloaded when performing this tutorial and it works the same way.
 
-
-
-{{< fancybox path="https://lh3.googleusercontent.com/" file="XH-7CYEpl9q5Q5UQrxAXRzSs7Kwo5GO0WUYyEJpNqdV7LUJcCPriohQ8oXHAgplwQ_3z40r9DQCgX_in6dVC-18xTrZRbEIT5bIwOY16d3B8_oD05G3t8fnKbHsdmo7hSvtyxFs_HjKVLiNRkRSH9LKBWfTeH3zwdq6_j0Daxx6wdjtNrxjWoCs9wIq2Xv23bz1PJPH8w-CvJOzGxTPKUzmlfELp56Hir5tjYATRC5vxRe0lw-7ofvIoZIMg_J0gDj8QLQzfibZxdq7fDbdQvIvtkXUwCzQyeSiVV29Z_PVzXkNMHXIAj6mm7sHwBY9Kjc5a9dMwXpvmVZQo2h--yH58klBqSzISTL8Uyteko-Y17aUDfrK6RPWpMtqdfwKveCr5V2vxpJo0OML09IPhFHuMxvWsnqqoGgZ4r2jXHemdskBKeB1H-tv9-LOoDx59yUIeSZ3apocwoAdGq1YcHRgUiMxPhrC7xgSPmN3t_ruTGIMlezMveAVCb-wDw0H0cXdrmCC9Zara_8M5f2Lw11O4UCkp4i43ej7ZQLy-nLuIFNvvp0UIuQinGp4fbU_vyulB1np81JBOdzoGadi18-eUeBt3WjABUsj8Nxhf1egzZhDA-rjZ2qbaZchoA4UVhHEFDqAnGlMhMgDcNkrMIP71VGI0f0RA1kmAS0-77Y5Y2N-3rDcpuQZUURnPn2SnrjGFZWzjkqoMlIj6SotCBUVeuw=w1600-h758-no" caption="Página de descarga" gallery="Galería Antivirus gratis">}}
+{{< fancybox path="https://lh3.googleusercontent.com/" file="XH-7CYEpl9q5Q5UQrxAXRzSs7Kwo5GO0WUYyEJpNqdV7LUJcCPriohQ8oXHAgplwQ_3z40r9DQCgX_in6dVC-18xTrZRbEIT5bIwOY16d3B8_oD05G3t8fnKbHsdmo7hSvtyxFs_HjKVLiNRkRSH9LKBWfTeH3zwdq6_j0Daxx6wdjtNrxjWoCs9wIq2Xv23bz1PJPH8w-CvJOzGxTPKUzmlfELp56Hir5tjYATRC5vxRe0lw-7ofvIoZIMg_J0gDj8QLQzfibZxdq7fDbdQvIvtkXUwCzQyeSiVV29Z_PVzXkNMHXIAj6mm7sHwBY9Kjc5a9dMwXpvmVZQo2h--yH58klBqSzISTL8Uyteko-Y17aUDfrK6RPWpMtqdfwKveCr5V2vxpJo0OML09IPhFHuMxvWsnqqoGgZ4r2jXHemdskBKeB1H-tv9-LOoDx59yUIeSZ3apocwoAdGq1YcHRgUiMxPhrC7xgSPmN3t_ruTGIMlezMveAVCb-wDw0H0cXdrmCC9Zara_8M5f2Lw11O4UCkp4i43ej7ZQLy-nLuIFNvvp0UIuQinGp4fbU_vyulB1np81JBOdzoGadi18-eUeBt3WjABUsj8Nxhf1egzZhDA-rjZ2qbaZchoA4UVhHEFDqAnGlMhMgDcNkrMIP71VGI0f0RA1kmAS0-77Y5Y2N-3rDcpuQZUURnPn2SnrjGFZWzjkqoMlIj6SotCBUVeuw=w1600-h758-no" caption="Download page" gallery="Free Antivirus Gallery">}}
 
 
 ## Preparar el equipo
