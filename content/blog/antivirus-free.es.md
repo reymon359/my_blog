@@ -1,7 +1,7 @@
 +++
 author = "Ramón Morcillo"
 categories = ["tecnología"]
-tags = ["antivirus", "ordenador", "seguridad"]
+tags = ["Antivirus", "Ordenador", "Ciberseguridad"]
 date = "2019-08-16"
 description = "Como instalar y renovar el antivirus ESET INTERNET SECURITY de forma gratuita."
 featured = "2019/antivirus.jpg"
