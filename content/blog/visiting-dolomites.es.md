@@ -39,24 +39,6 @@ Una vez con el coche nos dirigimos hacia **Trento** por la autopista. Si tienes 
 
 Cuando llegamos a Trento nos dirigimos al hotel el cual estaba a unos 10 minutos en coche del centro, en la ladera de una montaña. 
 
-## Our Route
-
-### First 
-OUR ROUTE
-FIRST DAY: TRENTO
-We leave Alicante about 11:00 in the morning and arrive in Milan (Malpensa Airport) about 13:00. Upon arrival we picked up the car that we had previously rented to move during the trip. Although most of the towns and cities are well connected by train and bus, we decided to rent a car for having the option to visit places where the buses did not arrive and for the freedom that it entails.
-
-We rented the car at Autoeurope, a website that I had previously used and that had given me good results. Basically it is a price comparison and car rental companies in which after selecting the days and the point of collection and return shows you a table with the different car models, prices and valuations of each company. In our case we rent a Golf for 5 days for about 120 euros.
-
-Once with the car we headed towards Trento on the highway. If you plan to drive in Italy you should know that the speed limits are:
-
-130 km / h on the highways.
-110 km / h on the main roads.
-90 km / h on secondary roads
-50 km / h in urban areas.
-When we arrived in Trento we headed to the hotel which was about 10 minutes by car from the center, on the side of a mountain.
-
-
 {{< fancybox path="https://lh3.googleusercontent.com/" file="GfCStMFqiSzUrJJkpOyH-QXdAmhJ3LepM53RBuIjwUJv_sHTUOu2QPz80d9Cnk4vqzeHkpLBaUfqwhRYCvp54eE9-0asQtZHc2vIJNyrOhIUGojSrZ-SujZkIJwObwGRL7E9ZKNE2ix0xSpRuQ9QpzPga66oEmOKkMPqJmEO2gI3oPZF1cmK-120RELmL2V3oM98-uMT0IGo-kMIgSzZSjHJAqc8YSeOOKX83Lat62rHNLNTA2ogEDg4iaoqIWmOBgVJjv9uLxh8zpm0nutV-oBg2I7LRljSz6vx_JOaK4MJuK3rBcGufqWdsxojLctaozY8SCOZ9H8IZ13THoLhrarfEXz29dZF8_4CTH6ndstvpkuR1SGUxza87Lr70EA6K0z1_w3nFX7ggbOoVvmO3BS-dgY0L2-vUSCtNRYupP-qUAv-HsCPpC9c8my6rFz7wCcz4iw74spti5lRyZMo-XimxusbQK0uoekC5ralTDCmMrfYePtURzUMAcA4yf07FVKWF-qmEMyR3qWMF4KSnxpnqc9iXXhzEO_vpdchtaTQuwl-cqGHEWT6HUTPQvRh46ZsIj8KPvIoD5GeB9dZL-kP5V4nP8VX2vmKsQHfVt5b0-IDVp_A7UaH6f440qdwegeuGfaeDMhJhfd_vSrkHEGfbcvp1khohYxgEhyV2o0penedNWIWEJU=w1921-h695-no" caption="Vistas desde la habitación" gallery="Galería Dolomitas" >}}
 
 Después de dejar las maletas bajamos al centro de Trento y aparcamos en uno de los **muchos parkings públicos** (gratuitos a partir de las 8) y nos dimos una vuelta. 
@@ -75,12 +57,13 @@ EL segundo día dimos una última vuelta por Trento por la mañana y compramos a
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="zob4HGm61zEyHUyPrXcuBdy7nDfpKz9bcH5SQfxcAOiglPVsVvWOhyyXpL8X_zcfsuHBTOpxHk_yyzExEU9uKWeLM7KZXYORNy1qaj-RTVu3IRSiJyCHRVJ7kckY6eBiFNHvcC4eDQZAb--KgAtuY8Fdafz_IMpxXJzxNJjA3JM0myMk9aIEWlUblxteFcl8vUYCEKTnXitmUHHgv_SyulLqMbTtIRTK7z5nezQPfAAakhuJAyrVAqZp7gm0JruADFsBvBwjUIZIJLcBN9oC3kjn-GEuRZF6Kn57vf6FfLFCBBbeyCErW0seDI5dGb4cHL23yKqSvR_J933gr5m9ZPz0nBUxw69-6mqiafNEovCL7PwX2joxzpKD0yu_sqccOSl_NxWgZ7PR0ypYXkVECEzx749ZQogCqPpVsPhWal5qo3-3zkMwEgplWN4yDdg4t-bSXhQ_cqyTuNLPUiKyYJwHsSy9NpFqZnChp1Rcmq45nA7q4qGgpsJSJyzmHk1WJlPshdLbT4BTLagVnX7A54DhM-_o0tdGWKqyYrYdFQub2U2TcZfWl9-NTRvZyt42n8S0d-bUeYHIXJvOyLOzuerVnCis3r66xEDq8xppyIYDkO2AmFfuu5dxNhnWoXnrPMl4qeh92InziOa2A1jKQe3r1v4mUnCtk2CCpBqPv9BmW5QEgnVWc14eTshpTvBsv-BoMYz57OWuNC5S_LhnUPdzOStHA-9M1fSNPtA6fXrwlsVV=w1123-h842-no" caption="Mercato Giornaliero" gallery="Galería Dolomitas" >}}
 
-Nuestro siguiente objetivo era el *[Lago di Carezza](https://goo.gl/maps/ZiktEE5wbXXhT9Cf8)*. Aunque el camino más rapido era llegar hasta **Bolzano** y luego desviarnos, decidimos ir por otra ruta un poco más larga, pasando por Pozza di Fassa, ya que el camino de Bolzano lo tomariamos el último día.
+Nuestro siguiente objetivo era el *[Lago di Carezza](https://goo.gl/maps/ZiktEE5wbXXhT9Cf8)*. Aunque el camino más rapido era llegar hasta **Bolzano** y luego desviarnos, decidimos ir por otra ruta un poco más larga, pasando por *Pozza di Fassa*, ya que el camino de Bolzano lo tomariamos el último día.
+
 <div style="text-align:center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d353153.69068352063!2d11.103147546985761!3d46.24996521522647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x478276cac9ce9ddb%3A0x27c6a299139ff547!2sTrento%2C%20Province%20of%20Trento%2C%20Italy!3m2!1d46.074779299999996!2d11.1217486!4m5!1s0x477869237b61dcd9%3A0x99d972828b60eebd!2sPozza%20di%20Fassa%2C%2038036%20Province%20of%20Trento%2C%20Italy!3m2!1d46.4306894!2d11.6857172!4m5!1s0x47786fbe51650425%3A0x26e4d13e4445202f!2sLago%20di%20Carezza!3m2!1d46.4104889!2d11.5758269!5e0!3m2!1sen!2ses!4v1567698533267!5m2!1sen!2ses" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </div>
 
-El lago era precioso, las **tonalidades azul-verdosas del agua** es lo que más llama la atención. Si tienes idea de acercarte a la orilla debes saber que el lago está **vallado en un perímetro alrededor**. Lo cual, aunque no te permite acercarte mucho o bañarte si que previene de que la gente arroje basura o destruya la zona alrededor del mismo.
+El lago era precioso, las **tonalidades azul-verdosas del agua** es lo que más llamaba la atención. Si tienes idea de acercarte a la orilla debes saber que el lago está **vallado en un perímetro alrededor**. Lo cual, aunque no te permite acercarte mucho o bañarte, previene de que la gente arroje basura o destruya la zona alrededor del mismo.
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="9V2MCEn7aKGYhEHqr3vHFYmy1lXWkZNK2SDJ4EuMO9QC1U4gkTM4eby2ij2kLGAmd2_IW7uPYRfziVcAPNWGjIOVP3FjJeo3sVHsmi3HlFmrfwF21cRd8UMDWDM7DDNhLAVdAXPX-lDtNubOYEje3VZYwtAI7K1VgNVPmh0V1XzVsTfHq4Dos13DcQXGxUS1fJB4JEULdqSbbdIs902Rtthe5CbbAvu5XuOFHJuzMR8GslGXc28HHLtUIwP5xG84t-J6ySFTPGiEY1aGmrhqPcDDJ7sXdM_eUuznfjM2KTIFb1yFr-USVj_KYpUSb3f0NnKHB2DzQIavVbpIGozKQwUMfOoSJ5dNOPO5O1vfjmtR-jin1CuE12ClR3JFrqHRpGYCA4-rhTFnDX6ON1EpHapC2tJnKZ6Ew6XkO_RF4BtU3IWPZcFFq7iPtJvZiAnP4AcHSXcg3xA4teOtah9sajj-pgGbsTEaikLfIe0qdRgEVG0RAblqxuc-ogW6dugchrBi46R5TCN_N0nP2K6-v6dqnFo6UDzBkA1On3R2URlgVdG371baKjUIe2DgNvlaJAFeJKaPNPpdUL4YtWXrbxoP8GDc-0YCqnJsz7jjcL7CBxB-1oLvqJI9hE2l1UQ6AZCdYbfQiiwVXTnjj14rOQNtnsC8-W2ETVAh4WN18Jx0Bd67UlT7Z_oi-76-i8ZKYTWwnpfmtZfCb-pvMAfqX63qCCuO8GyfRecOb2zfZnbWO-k4=w959-h565-no" caption="Lago di Carezza" gallery="Galería Dolomitas" >}}
 
@@ -88,13 +71,13 @@ Acabamos yendo por un **sendero que lo rodea** a lo largo del cual puedes ver el
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="3Sp7M2fVnrN5cKjy2sMuv3GzHpH86xo4TdFSMN_HRCww2Z0iArn0oDYJBLVZuo04D8dP6pNH5OCiyJcHURVrw4o9puaewQwzlosXPd_dKQFZ3roEGoMaBiOXarT6YVMFlGcGCVj1gTRYUxXRZvvLVgryV4LGj25TH36lHnJyfsUGsOQrCtn7xoDfJByOGpXZKFiVI4wxTp2Wdx7IJpOjcd0XMmLp-aZH5--CZzytDWuB7OzApdj33kotCC7n_-RurAIzWZuonPAw93LzrTIlkVM6ulb4VlpcNWuuv0cEAxXijE8t4I2aWiOUucuOoNqw0KpAVBeKJSGezseyZuTitmHgG7ao5cxPHTNE1xVTXd62U8dBbJQ1vX1h65qfTF_T3_TubeT_FwXOnEKPzyBx9sBQNIG9LQngRKXVcMlgzNOUtw29aemhLFcj6wiQsqzOy4k1jL361BtbN7yur0RFuIr-UozI8z9PQDeDFzZwVkHOVZAnhQjV_ksqCqqMZ_nH2bSbYn2gMcOSW_-7ZiAn4dXTV880KXPBsMchqkDpQCorzoxcvW1PMiWSRU7mYqr7Z2CxTz3ZI6tSSBlN3gPZfNOYAnnykuTqe_jUSVZgF6M7WkJuS3NMYEAU9S1xtIfOo5dhA3jh0ap8oFPN0KuTWyySnNn6hREaolvAwG-YiDAzuxMJB7Sv3XQFjuXqG12Wvshn8AY7Iq4ckAD9T3DAnk0cBdfVst04guxr6SC_SCMbXf2o=s830-no" caption="Sendero alrededor del Lago di Carezza" gallery="Galería Dolomitas" >}}
 
-Más tarde llegamos a **Canazei** donde nos hospedamos en un apartamento el resto de noches. Canazei es un municipio grande situado en la parte norte de la ***Val di Fassa***. Es también un lugar para el turismo de nieve y estación base para excursiones y escaladas al Sella, Marmolada y Sassolungo.
+Más tarde llegamos a **Canazei** donde nos hospedamos en un apartamento el resto de noches. Canazei es un municipio grande situado en la parte norte de la ***Val di Fassa***. Es también un lugar para el turismo de nieve y estación base para excursiones y escaladas al *Sella*, *Marmolada* y *Sassolungo*.
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="WkkfDZxVHfaTQzebIIMmJHhbRoldee-nEVD6CvbII5WwBgCz2ghQob00zwgKP-sN8X8_f7rT98G7iI5vnHozjsYS-KBTbv-RCKH-wlx8IeyyUa-sbAzr-0oCs7nQgSKdpchKiiz6Ky_hyc-ovH7PbdTRpXCpi38bVf7CgU56Qw2zbw82x_nUfGeOj3_ANgD_0mS_5Y5GjG5t6CzLkVNA-z-XLhO25qff-vacwFXVLPWJZ9RzKWMh5Wxqqvgq_aIWfipFgqM9M42ql2H-6_6jDIginFTdP5-pGxGxAqhWojNV47_2iK_QYq0ujfAz3bKopz0flKFnSopxlzYZxCoCg2AlsJ1emv_IaxyQ4gZB0DoyfyFdlCGXenXNmR3LV1J95W1-eXGUBmW921cD17vT9mlHpey49KFhlgqOvrXC0E2S-tzL7-T4nSRveiXSo6YPr3walq7ExOVs1ngOop78lm8jCRkzIzAS4a6F3UD0MYZ_at1tJvKCBVcCdvyKE4uPauCFaTNjKIzPzF8nz0pU3tqYMBofnCxdftpMAsalbelBgxxaM2HnK7Z0R62X2bUX4CrqUBNS3nUxZiBlGh6KwSe8JR6VmKnezHDibOe2Q2w2TLVPyOXg8YE5yxK_secGlruREVPAzExlQHoTUTuduRl-2XT-FdERKR5OklnlnqdKRObGa7O71hExmOuKLer3Us4LyGgWGx5Xuu5hj8GOWzdcgz0ZtSRY5vuyrupnPmUOJPlT=w1123-h842-no" caption="La Marmolada (derecha) y otros picos vistos desde Canazei" gallery="Galería Dolomitas" >}}
 
 ### Tercer día: Cortina d'Ampezzo
 
-El tercer día decidimos ir a **Cortina d'Ampezzo** aparte de por ver la ciudad en sí, por la **ruta atravesando los dolomitas** con unas **vistas espectaculares**. Con tal de ver el máximo fuimos y volvimos por distintos caminos. 
+El tercer día decidimos ir a **Cortina d'Ampezzo** no solo por ver la ciudad en sí, sino por la **ruta atravesando los dolomitas** con unas **vistas espectaculares**. Con tal de ver el máximo fuimos y volvimos por distintos caminos. 
 
 <div style="text-align:center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m44!1m12!1m3!1d87912.80256197359!2d11.885745942173774!3d46.48286366915306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m29!3e0!4m5!1s0x47786a694ab62bc3%3A0xcb8e3fb552a4e7e4!2sCanazei%2C%20Province%20of%20Trento%2C%20Italy!3m2!1d46.4767783!2d11.770364899999999!4m5!1s0x47784034607e7663%3A0x81157a992b3a2fc!2sPasso%20Pordoi!3m2!1d46.487834!2d11.8140476!4m5!1s0x47783435d247033f%3A0xdd3c30437b92e42b!2s32043%20Cortina%20d&#39;Ampezzo%2C%20Province%20of%20Belluno%2C%20Italy!3m2!1d46.5404711!2d12.1356524!4m3!3m2!1d46.4830945!2d12.05416!4m5!1s0x47786a694ab62bc3%3A0xcb8e3fb552a4e7e4!2sCanazei%2C%20Province%20of%20Trento%2C%20Italy!3m2!1d46.4767783!2d11.770364899999999!5e0!3m2!1sen!2ses!4v1567547513219!5m2!1sen!2ses" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
@@ -111,8 +94,7 @@ Si decides alquilar un coche para disfrutar de las vistas te tranquilizará sabe
 
 Cortina d'Ampezzo es más grande que Canazei, es un complejo de deportes de invierno conocido por sus pistas de esquí, paisajes, alojamientos, tiendas. Es muy frecuentada por el jet-set internacional.
 
-
-{{< fancybox path="https://lh3.googleusercontent.com/" file="imFt7xh2L4G5N9orhBPELfITGWfnMT6E6-b40RhKsnPxWafV7ZnB7Ql3ynVlEdcbhRVLTqhdMFpMGlMcDjzVqfJnogbi3MtLQQ8hI8aeleqhueKvUim7rK8WKe_kLs7k_3ZUm_jrxSJhCuUqv5yeOnme9A6-cJE6XVZ806jyLD29n2W5d9UGwtCOSf3azaWWuJ6pQH8TqP4xwiQsd165yH8ZrcxxYKQUIOJEgXXdNfuY-4ntIXOBud57OJVsKIZxv3fk4uN-TJZldNhJ7L69RsBu0_ieTyYbfD_b52OSdmvIpIc2OuUum2J-epwxtU9UbjI7w187KOZpUUFQdsgouJ9WjZyI72AxD_cXKJLPW4h5RdofhBeOHfhkgAwqYM8_6sWvBe4MO00pHtTnV-FICNbkEOdxX1jGq3GPWN_WsHbE_HUpoeI30l_8pri7UkZ5qCfXGyiGVthFIuc9DQaZTOvwcNhOsf40Kky7EMUlj5s2atf-qx2WQVImhK-KaFm4jWFXiPkJyiodndpFQlPyLNUNcd8ScUN6j1biMRBfa5DhEcd14ZhGZAcle1q8v-79W6l7FH6u0Vvrq20rszLFPz6C9XtQpXRePGiRiH4LTpRqh4wsvqv1h19RNYXmq2gzUpAWU0sBbZa0fLu__9iqaBg5vf1LuaOpRf1Uq4AeTpBx51xg0UJfXa7KPgi0-LgGvkYW2ivaukFleGl5ZKcY4_mzrBPHtFyN8d4tBj-FxUkghfIG=s830-no" caption="Cortina d'Ampezzo" gallery="Galería Dolomitas" >}}
+{{< fancybox path="https://lh3.googleusercontent.com/" file="imFt7xh2L4G5N9orhBPELfITGWfnMT6E6-b40RhKsnPxWafV7ZnB7Ql3ynVlEdcbhRVLTqhdMFpMGlMcDjzVqfJnogbi3MtLQQ8hI8aeleqhueKvUim7rK8WKe_kLs7k_3ZUm_jrxSJhCuUqv5yeOnme9A6-cJE6XVZ806jyLD29n2W5d9UGwtCOSf3azaWWuJ6pQH8TqP4xwiQsd165yH8ZrcxxYKQUIOJEgXXdNfuY-4ntIXOBud57OJVsKIZxv3fk4uN-TJZldNhJ7L69RsBu0_ieTyYbfD_b52OSdmvIpIc2OuUum2J-epwxtU9UbjI7w187KOZpUUFQdsgouJ9WjZyI72AxD_cXKJLPW4h5RdofhBeOHfhkgAwqYM8_6sWvBe4MO00pHtTnV-FICNbkEOdxX1jGq3GPWN_WsHbE_HUpoeI30l_8pri7UkZ5qCfXGyiGVthFIuc9DQaZTOvwcNhOsf40Kky7EMUlj5s2atf-qx2WQVImhK-KaFm4jWFXiPkJyiodndpFQlPyLNUNcd8ScUN6j1biMRBfa5DhEcd14ZhGZAcle1q8v-79W6l7FH6u0Vvrq20rszLFPz6C9XtQpXRePGiRiH4LTpRqh4wsvqv1h19RNYXmq2gzUpAWU0sBbZa0fLu__9iqaBg5vf1LuaOpRf1Uq4AeTpBx51xg0UJfXa7KPgi0-LgGvkYW2ivaukFleGl5ZKcY4_mzrBPHtFyN8d4tBj-FxUkghfIG=s830-no" caption="Calle principal de Cortina d'Ampezzo" gallery="Galería Dolomitas" >}}
 
 En el camino de vuelta pasamos bordeando el *Lago Fedaia* desde donde se podía observar el **Glaciar de la Marmolada**.
 
@@ -136,5 +118,5 @@ Ambas, *Riva del Garda* y *Peschiera del Garda* son ciudades cuya **principal ac
 
 ## Conclusión
 
-Después de haber estado en otras ciudades y zonas más populares del país años atrás este viaje me ha descubierto **una Italia muy diferente** a lo que estaba acostumbrado que no me esperaba para nada. Los Dolomitas es una zona increíble que si tienes oportunidad de ir no deberías desaprovecharla, eso si, **si puedes permitirte alquilar un coche para recorrerla no lo dudes** puesto que de no hacerlo seguramente te pierdas parte de los paisajes arriba descritos. Si tienes alguna pregunta no dudes en escribir un comentario o [contactarme](/es/contact).
+Después de haber estado en otras ciudades y zonas más populares del país años atrás este viaje me ha descubierto **una Italia muy diferente a lo que estaba acostumbrado** que no me esperaba para nada. Los Dolomitas es una zona increíble que si tienes oportunidad de ir no deberías desaprovecharla, eso si, **si puedes permitirte alquilar un coche para recorrerla no lo dudes** puesto que de no hacerlo seguramente te pierdas parte de los paisajes arriba descritos.
 
