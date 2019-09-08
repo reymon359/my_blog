@@ -15,7 +15,7 @@ draft = "false"
 
 ## What are the Dolomites?
 
-When I told people that I was leaving or had been in the Dolomites they had no idea what they were, the truth is that **I didn't even know it** until, a couple of years ago, my mother mentioned that she would like to visit them.
+When I told people that I was going to or had been in the Dolomites they had no idea what they were, the truth is that **I didn't even know it** until, a couple of years ago, my mother mentioned that she would like to visit them.
 
 In short, the Dolomites is a mountain range that is **part of the Alps**. It is located in **northern Italy** in the provinces of Belluno, Bolzano, Trento, Udine and Pordenone. Although it has many mountains that exceed 3000 m. the highest is the **Marmolada** with **3,342 m**. Finally add that they were declared a **World Heritage Site by UNESCO in 2009**.
 
@@ -24,7 +24,6 @@ In short, the Dolomites is a mountain range that is **part of the Alps**. It is 
 [See the map in depth](https://photos.google.com/share/AF1QipPZH-j8AA-QANuV4jkiqw1rbJvqPrbgM76eXKn9EKb_Meu2mdHtyyuDtBff2BlWgg/photo/AF1QipPL_NpIKBGqeN5YGL9shc74JEhRzpzYgyrX2f_d?key=d0VLY2NYRHIwVl9LQV90Wlo0Nm9kNEwwRGNzSk53)
 
 ## Table of Contents
-- [What are the Dolomites?](#what-are-the-dolomites)
 - [Our Route](#our-route)
   - [First day: Trento](#first-day-trento)
   - [Second day: Lago di Carezza](#second-day-lago-di-carezza)
