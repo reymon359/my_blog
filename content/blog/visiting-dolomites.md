@@ -23,6 +23,15 @@ In short, the Dolomites is a mountain range that is **part of the Alps**. It is 
 
 [See the map in depth](https://photos.google.com/share/AF1QipPZH-j8AA-QANuV4jkiqw1rbJvqPrbgM76eXKn9EKb_Meu2mdHtyyuDtBff2BlWgg/photo/AF1QipPL_NpIKBGqeN5YGL9shc74JEhRzpzYgyrX2f_d?key=d0VLY2NYRHIwVl9LQV90Wlo0Nm9kNEwwRGNzSk53)
 
+## Table of Contents
+- [What are the Dolomites?](#what-are-the-dolomites)
+- [Our Route](#our-route)
+  - [First day: Trento](#first-day-trento)
+  - [Second day: Lago di Carezza](#second-day-lago-di-carezza)
+  - [Third day: Cortina d'Ampezzo](#third-day-cortina-dampezzo)
+  - [Fourth day: Bolzano and Lago di Garda](#fourth-day-bolzano-and-lago-di-garda)
+- [Conclusion](#conclusion)
+
 ## Our Route
 
 ### First day: Trento

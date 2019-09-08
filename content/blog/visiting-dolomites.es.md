@@ -23,6 +23,16 @@ En resumen los Dolomitas es una cadena montañosa que **forma parte de los Alpes
 
 [Ver el mapa a fondo](https://photos.google.com/share/AF1QipPZH-j8AA-QANuV4jkiqw1rbJvqPrbgM76eXKn9EKb_Meu2mdHtyyuDtBff2BlWgg/photo/AF1QipPL_NpIKBGqeN5YGL9shc74JEhRzpzYgyrX2f_d?key=d0VLY2NYRHIwVl9LQV90Wlo0Nm9kNEwwRGNzSk53)
 
+## Índice
+- [¿Qué son los Dolomitas?](#%c2%bfqu%c3%a9-son-los-dolomitas)
+- [Nuestra Ruta](#nuestra-ruta)
+  - [Primer día: Trento](#primer-d%c3%ada-trento)
+  - [Segundo día: Lago di Carezza](#segundo-d%c3%ada-lago-di-carezza)
+  - [Tercer día: Cortina d'Ampezzo](#tercer-d%c3%ada-cortina-dampezzo)
+  - [Cuarto día: Bolzano y Lago di Garda](#cuarto-d%c3%ada-bolzano-y-lago-di-garda)
+- [Conclusión](#conclusi%c3%b3n)
+
+
 ## Nuestra Ruta
 
 ### Primer día: Trento
