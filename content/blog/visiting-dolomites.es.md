@@ -18,7 +18,7 @@ draft = "false"
 Cuando le decía a la gente que me iba o había estado en los Dolomitas no tenían ni idea de lo que eran, lo cierto es que **ni yo mismo lo sabía** hasta que, hace un par de años, mi madre mencionó que le gustaría visitarlos. 
 
 En resumen los Dolomitas es una cadena montañosa que **forma parte de los Alpes**. Está situada en el **norte de Italia** en las provincias de Belluno, Bolzano, Trento, Udine y Pordenone. Aunque tiene muchas montañas que superan los 3000 m. la más alta es la **Marmolada** con **3.342 m**. Por último añadir que fueron declaradas **Patrimonio de la Humanidad por la UNESCO** en el año **2009**.
- 
+
 {{< fancybox path="https://lh3.googleusercontent.com/" file="FrtS9KPeZX30OEmnliUkxSyjzXiDpAIAY9JrEaeXwdvEQiKUry7xrf2qWy17dlKdRa1GpvQ4GBW1GEdOZO99pDehohJs5gPXJpzCiCopRAx3-HQws_k7azrXk-KbJzWjDsy-QwsM2NyJxaJnCeFfoE4nqz15qpKwDU9M0Sd9CjRf5V8-t2xaAuu1ChLIHK_18T9EdamM3UygxoPdlV-9nnw6CDl-NPDEyrOB157N1kJsdYwxeHPRT62bO9JQxIyWhuEdxYDnlDw0vtx683oBGZMu4ImdNE6-kCKrfeXDAVN1worm4EdoPPMnwoWlAV1EFTnfPT6wW8WLwH4dwUPaSZVU1dc6HmThve7J-7YoKDu6WKKyS3N3TDgPI_Wjqbk9pfDXoQGRfAbJdzubxASetpTcnh86VNHfcRMiFw152mmg2pcdVRzmyBs2o-7bFEx_XJd2fPSBTrX7yhlzknW5vgVaBY7SOR6SLnans6GwEpdmIDQ3V39-ef48wh_Tut_WGABJf3CiuZj7JT2P7QC7-MIM_cRAIF6edh9TPxMcfOE5bnV-LR22tzcsqcgkEKyibzCUMkZQcC7fwAdzfaWdSc3NiCp8PGKfOZbWDrcWUTMl6MyedJLB2YDr2PyJenHTEyArrgiZAgxV38NcGFX1Mpo1NHTb9xIczS0Qfu2zxoUludsYzgpIuDU=w959-h720-no" caption="Dibujo de los dolomitas" gallery="Galería Dolomitas" >}}
 
 [Ver el dibujo a fondo](https://photos.google.com/share/AF1QipPZH-j8AA-QANuV4jkiqw1rbJvqPrbgM76eXKn9EKb_Meu2mdHtyyuDtBff2BlWgg/photo/AF1QipPL_NpIKBGqeN5YGL9shc74JEhRzpzYgyrX2f_d?key=d0VLY2NYRHIwVl9LQV90Wlo0Nm9kNEwwRGNzSk53)
@@ -38,6 +38,24 @@ Una vez con el coche nos dirigimos hacia **Trento** por la autopista. Si tienes 
 * **50 km/h** en áreas urbanas.
 
 Cuando llegamos a Trento nos dirigimos al hotel el cual estaba a unos 10 minutos en coche del centro, en la ladera de una montaña. 
+
+## Our Route
+
+### First 
+OUR ROUTE
+FIRST DAY: TRENTO
+We leave Alicante about 11:00 in the morning and arrive in Milan (Malpensa Airport) about 13:00. Upon arrival we picked up the car that we had previously rented to move during the trip. Although most of the towns and cities are well connected by train and bus, we decided to rent a car for having the option to visit places where the buses did not arrive and for the freedom that it entails.
+
+We rented the car at Autoeurope, a website that I had previously used and that had given me good results. Basically it is a price comparison and car rental companies in which after selecting the days and the point of collection and return shows you a table with the different car models, prices and valuations of each company. In our case we rent a Golf for 5 days for about 120 euros.
+
+Once with the car we headed towards Trento on the highway. If you plan to drive in Italy you should know that the speed limits are:
+
+130 km / h on the highways.
+110 km / h on the main roads.
+90 km / h on secondary roads
+50 km / h in urban areas.
+When we arrived in Trento we headed to the hotel which was about 10 minutes by car from the center, on the side of a mountain.
+
 
 {{< fancybox path="https://lh3.googleusercontent.com/" file="GfCStMFqiSzUrJJkpOyH-QXdAmhJ3LepM53RBuIjwUJv_sHTUOu2QPz80d9Cnk4vqzeHkpLBaUfqwhRYCvp54eE9-0asQtZHc2vIJNyrOhIUGojSrZ-SujZkIJwObwGRL7E9ZKNE2ix0xSpRuQ9QpzPga66oEmOKkMPqJmEO2gI3oPZF1cmK-120RELmL2V3oM98-uMT0IGo-kMIgSzZSjHJAqc8YSeOOKX83Lat62rHNLNTA2ogEDg4iaoqIWmOBgVJjv9uLxh8zpm0nutV-oBg2I7LRljSz6vx_JOaK4MJuK3rBcGufqWdsxojLctaozY8SCOZ9H8IZ13THoLhrarfEXz29dZF8_4CTH6ndstvpkuR1SGUxza87Lr70EA6K0z1_w3nFX7ggbOoVvmO3BS-dgY0L2-vUSCtNRYupP-qUAv-HsCPpC9c8my6rFz7wCcz4iw74spti5lRyZMo-XimxusbQK0uoekC5ralTDCmMrfYePtURzUMAcA4yf07FVKWF-qmEMyR3qWMF4KSnxpnqc9iXXhzEO_vpdchtaTQuwl-cqGHEWT6HUTPQvRh46ZsIj8KPvIoD5GeB9dZL-kP5V4nP8VX2vmKsQHfVt5b0-IDVp_A7UaH6f440qdwegeuGfaeDMhJhfd_vSrkHEGfbcvp1khohYxgEhyV2o0penedNWIWEJU=w1921-h695-no" caption="Vistas desde la habitación" gallery="Galería Dolomitas" >}}
 
