@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Ramon Morcillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.ramonmorcillo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Code</title>
+      <link>https://blog.ramonmorcillo.com/tags/code/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphQL</title>
+      <link>https://blog.ramonmorcillo.com/tags/graphql/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/tags/graphql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.ramonmorcillo.com/tags/hello-world/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ramonmorcillo.com/tags/hello-world/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Italy</title>

@@ -1,0 +1,1145 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+<title>GraphQL Hello World Server - Ramon Morcillo</title>
+<meta name="description" content="Hello World project to explain how GraphQL Works">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  <meta name="generator" content="Hugo 0.57.1" />
+  <meta itemprop="name" content="GraphQL Hello World Server">
+<meta itemprop="description" content="Hello World project to explain how GraphQL Works">
+
+
+<meta itemprop="datePublished" content="2020-05-06T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2020-05-06T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="2376">
+
+
+
+<meta itemprop="keywords" content="Code,Hello World,GraphQL," />
+
+  <meta property="og:title" content="GraphQL Hello World Server" />
+<meta property="og:description" content="Hello World project to explain how GraphQL Works" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://blog.ramonmorcillo.com/blog/graphql-hello-world-server/" />
+<meta property="article:published_time" content="2020-05-06T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-05-06T00:00:00+00:00" />
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="GraphQL Hello World Server"/>
+<meta name="twitter:description" content="Hello World project to explain how GraphQL Works"/>
+<meta name="twitter:site" content="@reymon359"/>
+
+  
+
+  <link rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css">
+  
+    
+      <link rel="stylesheet" href="/css/normalize.css">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,800,900|Source+Sans+Pro:400,700">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/css/flag-icon.min.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css">
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css" integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb4E" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+      
+      
+      <link rel="stylesheet" href="/css/main.min.0f2b1e197e371bc11b5c862101733dc861867b0f97ba04a5a38c6dc9b92024f9.css" integrity="sha256-DyseGX43G8EbXIYhAXM9yGGGew&#43;XugSlo4xtybkgJPk=">
+      <link rel="stylesheet" href="/css/add-on.css">
+    
+  
+  
+  
+  
+  
+</head>
+
+  <body>
+    
+<header id="site-header">
+  <nav id="site-nav">
+    <h1 class="nav-title">
+      <a href="/">
+        
+          
+            Blog
+          
+        
+      </a>
+    </h1>
+    <menu id="site-nav-menu" class="flyout-menu">
+      
+        <a href="/" class="link"><i class="fas fa-home">&nbsp;</i>Home</a>
+      
+        <a href="/about/" class="link"><i class="far fa-id-card">&nbsp;</i>About</a>
+      
+        <a href="/blog/" class="link"><i class="far fa-newspaper">&nbsp;</i>Blog</a>
+      
+        <a href="/categories/" class="link"><i class="fas fa-sitemap">&nbsp;</i>Categories</a>
+      
+        <a href="/contact/" class="link"><i class="far fa-envelope">&nbsp;</i>Contact</a>
+      
+        <a href="https://ramonmorcillo.com" class="link"><i class="fas fa-atom">&nbsp;</i>Main Site</a>
+      
+      <a href="#share-menu" class="share-toggle"><i class="fas fa-share-alt">&nbsp;</i>Share</a>
+      
+
+    </menu>
+    
+
+    <a href="#share-menu" class="share-toggle"><i class="fas fa-share-alt fa-2x">&nbsp;</i></a>
+    <a href="#lang-menu" class="lang-toggle" lang="en"><span class="flag-icon flag-icon-en" alt="en"></span></a>
+    <a href="#site-nav" class="nav-toggle"><i class="fas fa-bars fa-2x"></i></a>
+  </nav>
+  <menu id="lang-menu" class="flyout-menu">
+  <a href="#" lang="en" class="active"><span class="flag-icon flag-icon-en" alt="en"></span></a>
+  
+    
+      
+    
+      
+        <a href="/es" lang="es" class="no-lang"><span class="flag-icon flag-icon-es" alt="es"></span></a>
+      
+    
+  
+</menu>
+
+  
+    <menu id="share-menu" class="flyout-menu">
+      <h1>Share Post</h1>
+      
+
+
+
+
+  
+    
+    <a href="//twitter.com/share?text=GraphQL%20Hello%20World%20Server&amp;url=https%3a%2f%2fblog.ramonmorcillo.com%2fblog%2fgraphql-hello-world-server%2f" target="_blank" rel="noopener" class="share-btn twitter">
+        <i class="fab fa-twitter"></i><p>&nbsp;Twitter</p>
+      </a>
+  
+
+  
+      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fblog.ramonmorcillo.com%2fblog%2fgraphql-hello-world-server%2f" target="_blank" rel="noopener" class="share-btn facebook">
+        <i class="fab fa-facebook"></i><p>&nbsp;Facebook</p>
+        </a>
+  
+
+  
+    <a href="//www.reddit.com/submit?url=https%3a%2f%2fblog.ramonmorcillo.com%2fblog%2fgraphql-hello-world-server%2f&amp;title=GraphQL%20Hello%20World%20Server" target="_blank" rel="noopener" class="share-btn reddit">
+          <i class="fab fa-reddit-alien"></i><p>&nbsp;Reddit</p>
+        </a>
+  
+
+  
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fblog.ramonmorcillo.com%2fblog%2fgraphql-hello-world-server%2f&amp;title=GraphQL%20Hello%20World%20Server" target="_blank" rel="noopener" class="share-btn linkedin">
+            <i class="fab fa-linkedin"></i><p>&nbsp;LinkedIn</p>
+          </a>
+  
+
+  
+        <a href="mailto:?subject=Check out this post by %7b%20%20%20%20%20%20%20%20map%5b%5d%7d&amp;body=https%3a%2f%2fblog.ramonmorcillo.com%2fblog%2fgraphql-hello-world-server%2f" target="_blank" class="share-btn email" data-proofer-ignore>
+          <i class="fas fa-envelope"></i><p>&nbsp;Email</p>
+        </a>
+  
+
+
+    </menu>
+  
+</header>
+
+    <div id="wrapper">
+      <section id="site-intro">
+  <a href="/"><img src="/img/main/logo.png" class="circle" width="100" alt="Ramón Morcillo" /></a>
+  <header>
+    <h1>Ramon Morcillo</h1>
+  </header>
+  <main>
+    <p>Software Engineer | 🖤web <br> Always doing <a href='https://ramonmorcillo.com/projects.html' target='_blank'>new things</a>.</p>
+  </main>
+  
+    <footer>
+      <ul class="socnet-icons">
+        
+        <li><a href="//github.com/reymon359" target="_blank" rel="noopener" title="GitHub" class="fab fa-github"></a></li>
+
+
+
+
+<li><a href="//codepen.io/reymon359" target="_blank" rel="noopener" title="CodePen" class="fab fa-codepen"></a></li>
+
+
+
+
+
+
+<li><a href="//linkedin.com/in/ramon-morcillo" target="_blank" rel="noopener" title="LinkedIn" class="fab fa-linkedin"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="//twitter.com/reymon359" target="_blank" rel="noopener" title="Twitter" class="fab fa-twitter"></a></li>
+
+
+
+<li><a href="//telegram.me/reymon359" target="_blank" rel="noopener" title="telegram" class="fab fa-telegram"></a></li>
+
+
+
+
+
+
+<li><a href="mailto:ramonmorcillodev@gmail.com" target="_blank" title="Email" class="far fa-envelope"></a></li>
+
+      </ul>
+    </footer>
+  
+</section>
+
+      <main id="site-main">
+        <article class="post">
+    <header>
+  <div class="title">
+    
+        <h2><a href="/blog/graphql-hello-world-server/">GraphQL Hello World Server</a></h2>
+    
+    
+        <p>Hello World project to explain how GraphQL Works</p>
+    
+</div>
+  <div class="meta">
+    <time class="published" datetime="2020-05-06 00:00:00 &#43;0000 UTC">
+      May 6, 2020
+    </time>
+    <span class="author">Ramón Morcillo</span>
+    
+        <p>12 minute read</p>
+    
+  </div>
+</header>
+
+    <section id="socnet-share">
+        
+
+
+
+
+  
+    
+    <a href="//twitter.com/share?text=GraphQL%20Hello%20World%20Server&amp;url=https%3a%2f%2fblog.ramonmorcillo.com%2fblog%2fgraphql-hello-world-server%2f" target="_blank" rel="noopener" class="share-btn twitter">
+        <i class="fab fa-twitter"></i><p>&nbsp;Twitter</p>
+      </a>
+  
+
+  
+      <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fblog.ramonmorcillo.com%2fblog%2fgraphql-hello-world-server%2f" target="_blank" rel="noopener" class="share-btn facebook">
+        <i class="fab fa-facebook"></i><p>&nbsp;Facebook</p>
+        </a>
+  
+
+  
+    <a href="//www.reddit.com/submit?url=https%3a%2f%2fblog.ramonmorcillo.com%2fblog%2fgraphql-hello-world-server%2f&amp;title=GraphQL%20Hello%20World%20Server" target="_blank" rel="noopener" class="share-btn reddit">
+          <i class="fab fa-reddit-alien"></i><p>&nbsp;Reddit</p>
+        </a>
+  
+
+  
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fblog.ramonmorcillo.com%2fblog%2fgraphql-hello-world-server%2f&amp;title=GraphQL%20Hello%20World%20Server" target="_blank" rel="noopener" class="share-btn linkedin">
+            <i class="fab fa-linkedin"></i><p>&nbsp;LinkedIn</p>
+          </a>
+  
+
+  
+        <a href="mailto:?subject=Check out this post by %7b%20%20%20%20%20%20%20%20map%5b%5d%7d&amp;body=https%3a%2f%2fblog.ramonmorcillo.com%2fblog%2fgraphql-hello-world-server%2f" target="_blank" class="share-btn email" data-proofer-ignore>
+          <i class="fas fa-envelope"></i><p>&nbsp;Email</p>
+        </a>
+  
+
+
+    </section>
+    
+<a href="/blog/graphql-hello-world-server/" class="image featured">
+  <img src="/img/2020/graphql-hello-world-server/gia-oris-_uM5_nG2ssc-unsplash.jpg" alt="GraphQL Hello World Server">
+</a>
+
+
+    <div class="content">
+        
+
+<h1 id="graphql-hello-world-server">GraphQL Hello World Server</h1>
+
+<p>The main purpose of this server-client <a href="https://nodejs.org/en/">Node.js</a> project is to help other people to <strong>understand how GraphQL exposes the data from the Server and the Client fetches it</strong>, therefore I have tried to make it as simple as possible. And by the way, in case you want to dive into the code of the project you can find it <a href="https://github.com/reymon359/graphql-hello-world-server">here</a>.</p>
+
+<p>Now, going straight to the point: <a href="https://graphql.org/">GraphQL</a> is a <strong>query language for <a href="https://en.wikipedia.org/wiki/Application_programming_interface">APIs</a></strong> developed and <a href="https://engineering.fb.com/core-data/graphql-a-data-query-language/">open-sourced by Facebook</a> to speed up the request process.</p>
+
+<p>While <a href="https://en.wikipedia.org/wiki/Representational_state_transfer">REST</a> has been a popular way to expose data from a server, instead of having <strong>multiple endpoints</strong> that return fixed data structures, GraphQL just has <strong>a single endpoint</strong> and it is the client&rsquo;s job to specify what data needs from it.</p>
+
+<h2 id="table-of-contents">Table of Contents</h2>
+
+<ul>
+<li><a href="#getting-started">Getting started</a></li>
+<li><a href="#define-the-schema">Define the Schema</a></li>
+<li><a href="#add-resolver-function">Add Resolver function</a></li>
+<li><a href="#set-up-the-server">Set up the Server</a></li>
+<li><a href="#set-up-the-client">Set up the Client</a></li>
+<li><a href="#fetching-data-from-server">Fetching data from server</a></li>
+<li><a href="#displaying-the-data">Displaying the data</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
+<li><a href="#useful-resources">Useful resources</a>
+
+<ul>
+<li><a href="#docs-%f0%9f%93%9a">Docs 📚</a></li>
+<li><a href="#learn-%f0%9f%93%9d">Learn 📝</a></li>
+<li><a href="#tools-%f0%9f%94%a7">Tools 🔧</a></li>
+<li><a href="#ides-%f0%9f%92%bb">IDEs 💻</a></li>
+<li><a href="#extras-%f0%9f%8d%8d">Extras 🍍</a></li>
+</ul></li>
+</ul>
+
+<h2 id="getting-started">Getting started</h2>
+
+<p>Well, the first step is to <a href="https://nodejs.org/en/download/">download and install Node.js</a> in case you haven&rsquo;t already. Once you have it installed let&rsquo;s begin with the directory structure. The project will be composed of <strong>two directories</strong>, one for the Client and another for the Server. I have chosen to keep both inside of the project root directory but you can split then in two separate projects or in any way you want.</p>
+
+<pre><code class="language-text">📁project
+├── 📁client
+└── 📁server
+</code></pre>
+
+<p>Now we will initialize the project in the server directory. Change the location to the server folder in your terminal and run <code>npm init</code> to fill the project info and generate the <strong>package.json</strong> file. Or <code>npm init -y</code> which tells the generator to use the defaults instead of asking questions and simply generates an empty npm project without going through an interactive process.</p>
+
+<p>The next step will be to install <a href="https://github.com/graphql/graphql-js">GraphQL.js</a> and <a href="https://github.com/apollographql/apollo-server">Apollo Server</a> to our server. GraphQL.js will provide two important capabilities:</p>
+
+<ul>
+<li>Building a type schema, which we will do in the <a href="#define-the-schema">next step</a>.</li>
+<li>Serving queries against that type schema.</li>
+</ul>
+
+<p>To install it just run <code>npm install graphql</code>. I am assuming you are using a version of NPM equal or higher than <strong>5.0.0</strong> so you <a href="https://blog.npmjs.org/post/161081169345/v500">do not need</a> to add <code>--save</code> when installing a dependency to be saved in the package.json</p>
+
+<p>Apollo Server, on the other hand, will help us to implement the GraphQL functionalities. It is part of the <a href="https://www.apollographql.com/">Apollo Data Graph Platform</a>.</p>
+
+<blockquote>
+<p>Apollo is a platform for building a data graph, a communication layer that seamlessly connects your application clients (such as React and iOS apps) to your back-end services. Is an implementation of GraphQL designed for the needs of product engineering teams building modern, data-driven applications. - <a href="https://www.apollographql.com/docs/">Apollo Documentation</a></p>
+</blockquote>
+
+<p>What you need to know about Apollo, at least for now, is that it is a community that builds on top of GraphQL, and provides different <strong>tools to help you build your projects</strong>. The tools provided by Apollo are mainly 2: Client and Server.</p>
+
+<ul>
+<li><p><strong>Apollo Client</strong> helps your Frontend communicate with a GraphQL API. It has support for the most popular frameworks such as React, Vue, or Angular and native development on iOS and Android.</p></li>
+
+<li><p><strong>Apollo Server</strong> is the GraphQL server layer in your backend that delivers the responses back to the client requests.</p></li>
+</ul>
+
+<p>Now that you understand better what is Apollo and why we will use it let&rsquo;s continue setting up GraphQL.</p>
+
+<h2 id="define-the-schema">Define the Schema</h2>
+
+<p>A GraphQL Schema is at the core of any GraphQL server implementation. It <strong>describes the shape of your data</strong> defining it with a hierarchy of <strong>types</strong> with fields that are populated from your data source and also specifies which <strong>queries</strong> and <strong>mutations</strong> are available so the client knows about the information that can be requested or sent.</p>
+
+<p>For example, if we wanted to build a music application, our simplest schema, usually defined in a <code>schema.graphql</code> file, would contain two <strong>Object types</strong>: <code>Song</code> and <code>Author</code> like this</p>
+
+<pre><code class="language-js">type Song {
+  title: String
+  author: Author
+}
+
+type Author {
+  name: String
+  song: [Song]
+}
+</code></pre>
+
+<p>Then we would have a <strong>Query type</strong> to define the available queries: <code>getSongs</code> and <code>getAuthors</code>, each returning a list of the corresponding type.</p>
+
+<pre><code class="language-js">type Query {
+  getSongs: [Song]
+  getAuthors: [Author]
+}
+</code></pre>
+
+<p>To keep it as simple as possible our schema will have just <strong>a single Query</strong> type which will return a String</p>
+
+<pre><code class="language-js">type Query {
+  greeting: String
+}
+</code></pre>
+
+<p>We can use <strong>any programming language</strong> to create a GraphQL schema and <strong>build an interface around it</strong> but as I explained before we will use Apollo server to execute GraphQL queries. So we create a new <code>server.js</code> file in the server directory to define the Schema on it.</p>
+
+<pre><code class="language-text">📁project
+├── 📁client
+└── 📁server
+    └── 📄server.js
+</code></pre>
+
+<p>We have to import the <strong>tag function</strong> <code>gql</code> from <strong>apollo-server</strong> to parse the schema this way: <code>const {gql} = require('apollo-server');</code> and then declare a <code>typeDefs</code> constant which is an <a href="https://en.wikipedia.org/wiki/Abstract_syntax_tree">abstract syntax tree</a> of the Graphql code.</p>
+
+<blockquote>
+<p>When a GraphQL server receives a query to process it generally comes in as a String. This string must be tokenized and parsed into a representation that the machine understands. This representation is called an abstract syntax tree.</p>
+</blockquote>
+
+<p>By the way, if you want to learn more about abstract syntax trees <a href="https://astexplorer.net/">AST Explorer</a> is an online tool which lets you explore the syntax tree created by a chosen language as a parser.</p>
+
+<p>The <code>server.js</code> file would look like this.</p>
+
+<pre><code class="language-js">const { gql } = require('apollo-server');
+
+const typeDefs = gql`
+  type Query {
+    greeting: String
+  }
+`;
+</code></pre>
+
+<h2 id="add-resolver-function">Add Resolver function</h2>
+
+<p>Now that we have defined our Schema we need a way to answer the client requests for that data; the <strong>resolvers</strong>.
+<strong>A resolver is a function that handles the data for each one of the fields of your schema</strong>. You can send that data to the client by <strong>fetching a back-end database</strong> or a third-party <strong>API</strong> among others.</p>
+
+<p>They have to <strong>match the type definitions of the Schema</strong>, in our case, we just have one type definition Query which returns a greeting of type String so we will define a resolver for the <code>greeting</code> field, like so:</p>
+
+<pre><code class="language-js">const resolvers = {
+  Query: {
+    greeting: () =&gt; 'Hello GraphQL world!👋',
+  },
+};
+</code></pre>
+
+<p>As I explained at the beginning we will keep this example as simple as possible but keep in mind that in a real case <strong>here is where you have to make the queries</strong> to the database, external API, or wherever from which you intend to extract the query data.</p>
+
+<h2 id="set-up-the-server">Set up the Server</h2>
+
+<p>In the same <code>server.js</code>, we define and create a new <code>ApolloServer</code> object passing the <code>Schema</code> (typeDefs) and <code>resolvers</code> as parameters.</p>
+
+<pre><code class="language-js">const { ApolloServer, gql } = require('apollo-server');
+
+const server = new ApolloServer({ typeDefs, resolvers });
+</code></pre>
+
+<p>Then calling the <code>listen</code> method we start the server on the <code>port</code> we specify in the params.</p>
+
+<pre><code class="language-js">server
+  .listen({ port: 9000 })
+  .then(serverInfo =&gt; console.log(`Server running at ${serverInfo.url}`));
+</code></pre>
+
+<p>We can also <strong>destructure</strong> the ServerInfo <code>url</code> when logging it.</p>
+
+<pre><code class="language-js">server
+  .listen({ port: 9000 })
+  .then(({ url }) =&gt; console.log(`Server running at ${url}`));
+</code></pre>
+
+<p>The <code>server.js</code> file should look like this right now.</p>
+
+<pre><code class="language-js">const { ApolloServer, gql } = require('apollo-server');
+
+const typeDefs = gql`
+  type Query {
+    greeting: String
+  }
+`;
+
+const resolvers = {
+  Query: {
+    greeting: () =&gt; 'Hello GraphQL world!👋',
+  },
+};
+
+const server = new ApolloServer({ typeDefs, resolvers });
+server
+  .listen({ port: 9000 })
+  .then(({ url }) =&gt; console.log(`Server running at ${url}`));
+</code></pre>
+
+<p>Now if we run <code>node server/server.js</code> we will finally have our GrapqhQL server up and running🎉!</p>
+
+<p>You can go and check it on <a href="http://localhost:9000/">http://localhost:9000/</a></p>
+
+<pre><code class="language-cmd">~/graphql-hello-world-server
+&gt; node server/server.js
+Server running at http://localhost:9000/
+</code></pre>
+
+<p>As the first time getting around graphql, you may be thinking <strong>what is this application I am seeing in front of me if we have not written a single line of client code?</strong>.</p>
+
+<p>The answer to that question is the <strong>GraphQL Playground</strong>.</p>
+
+<p><img src="./graphql-playground.png" alt="GraphQL Playground" /></p>
+
+<blockquote>
+<p><a href="https://github.com/prisma-labs/graphql-playground">GraphQL Playground</a> is a graphical, interactive, in-browser GraphQL IDE, created by <a href="https://www.prisma.io/">Prisma</a> and based on <a href="https://github.com/graphql/graphiql">GraphiQL</a>. - <a href="https://www.apollographql.com/docs/apollo-server/testing/graphql-playground/">Apollo docs</a></p>
+</blockquote>
+
+<p>But what does that mean? It means that this is an environment where we can perform Queries, Mutations or Subscriptions to our schema and interact with its data.</p>
+
+<p>If you have worked with <strong>RESTful</strong> requests before this would be some kind of equivalent to <a href="https://www.postman.com/">Postman</a>, just that here you <strong>do not have to download and configure anything</strong>, it just <strong>comes by default</strong> with Apollo!</p>
+
+<p>So let&rsquo;s try it!</p>
+
+<ol>
+<li>On the left panel write the <code>greeting</code> query we defined in our schema.</li>
+<li>Then press the ▶ button that is in the middle.</li>
+<li>And <em>Voila!</em> On the right panel appears the data we defined in our resolver to return.</li>
+</ol>
+
+<p><img src="./greeting-query-on-playground.gif" alt="Greeting query on playground" /></p>
+
+<h2 id="set-up-the-client">Set up the Client</h2>
+
+<p>Now that we have our server up and running let&rsquo;s focus on the client part. We will start creating a <code>client.html</code> file inside our client folder.</p>
+
+<pre><code class="language-text">📁project
+├── 📁client
+|   └── 📄client.html
+└── 📁server
+    └── 📄server.js
+</code></pre>
+
+<p>The <code>index.html</code> file will have the basics of any <code>HTML</code> file and a loading header <code>&lt;h1&gt;Loading...&lt;/h1&gt;</code> to show the user something while we request the data from the server.</p>
+
+<pre><code class="language-html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;Hello World GraphQL Client&lt;/title&gt;
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;h1&gt;Loading...&lt;/h1&gt;
+
+    &lt;script src=&quot;app.js&quot;&gt;&lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+<h2 id="fetching-data-from-server">Fetching data from server</h2>
+
+<p>First off, in the same client folder, we create an <code>app.js</code> file where we will write the client logic to fetch the data from the server.</p>
+
+<pre><code class="language-text">📁project
+├── 📁client
+|   └── 📄client.html
+|   └── 📄app.js
+└── 📁server
+    └── 📄server.js
+</code></pre>
+
+<p>Inside it, we set the server url to which we will make the requests.</p>
+
+<pre><code class="language-js">const GRAPHQL_URL = 'http://localhost:9000/';
+</code></pre>
+
+<p>Next, we define our async function <code>fetchGreeting()</code> to, fetch the greeting from the server. We will use the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch">fetch API</a> to perform the HTTP request which by default returns a promise to which we can subscribe and get the answer in an asynchronous way.</p>
+
+<pre><code class="language-js">async function fetchGreeting() {
+  const response = await fetch(GRAPHQL_URL, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+    },
+    body: JSON.stringify({
+      query: `
+        query {
+          greeting
+        }
+      `,
+    }),
+  });
+
+  const responseBody = await response.json();
+  console.log(responseBody);
+}
+</code></pre>
+
+<p>A detail to take into account is that the method of the request is <code>POST</code>, which can confuse us if we are used to working with <code>RESTful</code> because this same request made in <code>RESTful</code>, where we just want to read information from the server, would be usually done using the method <code>GET</code>.</p>
+
+<p>The thing is that with GraphQL we always make <code>POST</code> requests where we pass <strong>the query in the payload</strong> (body).</p>
+
+<p>Finally, we just call our method <code>fetchGreeting();</code></p>
+
+<pre><code class="language-js">const GRAPHQL_URL = 'http://localhost:9000/';
+
+async function fetchGreeting() {
+  const response = await fetch(GRAPHQL_URL, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+    },
+    body: JSON.stringify({
+      query: `
+        query {
+          greeting
+        }
+      `,
+    }),
+  });
+
+  const responseBody = await response.json();
+  console.log(responseBody);
+}
+
+fetchGreeting();
+</code></pre>
+
+<p>If you open the file in your browser and see the <strong>console on the developer tools</strong> you can see that we actually got the greeting data from the query🙌!</p>
+
+<p><img src="./fetching-data-from-server.png" alt="Fetching data from server" /></p>
+
+<h2 id="displaying-the-data">Displaying the data</h2>
+
+<p>Now that we successfully get the data from the server let&rsquo;s <strong>update the loading title</strong>. The first thing we will do is destructure the response and return just the <code>data</code> from it.</p>
+
+<p>Just replace this part of the code</p>
+
+<pre><code class="language-js">const responseBody = await response.json();
+console.log(responseBody);
+</code></pre>
+
+<p>With this one</p>
+
+<pre><code class="language-js">const { data } = await response.json();
+return data;
+</code></pre>
+
+<p>And then we will update the title with the <code>greeting</code> returned <strong>inside the data from the response</strong></p>
+
+<pre><code class="language-js">fetchGreeting().then(({ greeting }) =&gt; {
+  const title = document.querySelector('h1');
+  title.textContent = greeting;
+});
+</code></pre>
+
+<p>So our <code>app.js</code> file will end up having this look</p>
+
+<pre><code class="language-js">const GRAPHQL_URL = 'http://localhost:9000/';
+
+async function fetchGreeting() {
+  const response = await fetch(GRAPHQL_URL, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+    },
+    body: JSON.stringify({
+      query: `
+        query {
+          greeting
+        }
+      `,
+    }),
+  });
+
+  const { data } = await response.json();
+  return data;
+}
+
+fetchGreeting().then(({ greeting }) =&gt; {
+  const title = document.querySelector('h1');
+  title.textContent = greeting;
+});
+</code></pre>
+
+<p>And our <code>index.html</code> will have the loading title updated with the data fetched from our server!🎉</p>
+
+<p><img src="./displaying-the-data.png" alt="Displaying the data" /></p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I hope you enjoyed the post and that this project has fulfilled the objective of showing <strong>how graphql works under the hood</strong>, at least in a very simple way. I know there are a lot of things that I have not explained or that I could have gone deeper but like any <code>hello world</code> project, it is intended for people who are beginners with it and so I wanted to keep it as simple as possible.</p>
+
+<p>I&rsquo;m looking forward to learning more about GrapqhQL and use it in future projects. If you&rsquo;ve got any questions, suggestions, or feedback in general, don&rsquo;t hesitate to reach out on any of the social networks from <a href="https://ramonmorcillo.com">my site</a> or <a ref="mailto:hey@ramonmorcillo.com">by mail</a>.</p>
+
+<h2 id="useful-resources">Useful resources</h2>
+
+<p>Here is a collection of links and resources which have been useful for me to improve and learn more about GraphQL</p>
+
+<h3 id="docs">Docs 📚</h3>
+
+<ul>
+<li><a href="https://github.com/reymon359/graphql-hello-world-server">Project source code</a> - The Github repository with all the code from the project.</li>
+<li><a href="https://graphql.org/">GraphQL main site</a> - GraphQL main site.</li>
+<li><a href="https://graphql.org/">Apollo documentation</a> - The Apollo platform docs.</li>
+</ul>
+
+<h3 id="learn">Learn 📝</h3>
+
+<ul>
+<li><a href="https://www.howtographql.com/">How to GraphQL</a> - Free and open-source tutorials to learn all around GraphQL to go from zero to production.</li>
+<li><a href="https://www.udemy.com/course/graphql-by-example/">GraphQL by Example</a> - Great course where you learn GraphQL by writing full-stack JavaScript applications with Node.js, Express, Apollo Server, React, Apollo Client.</li>
+<li><a href="https://graphql.org/learn/">Introduction to GraphQL</a> - A series of articles to learn about GraphQL, how it works, and how to use it.</li>
+</ul>
+
+<h3 id="tools">Tools 🔧</h3>
+
+<ul>
+<li><a href="https://www.apollographql.com/">Apollo GraphQL</a> - Main site of the Apollo GraphQL implementation.</li>
+<li><a href="https://github.com/prisma-labs/graphql-playground">GraphQL Playground</a> - Repository of the GraphQL Playground IDE we used on the project.</li>
+</ul>
+
+<h3 id="ides">IDEs 💻</h3>
+
+<ul>
+<li><a href="https://plugins.jetbrains.com/plugin/8097-js-graphql">JS GraphQL</a> - WebStorm and other IntelliJ-based IDEs plugin to support GraphQL language including tagged template literals in JavaScript and TypeScript.</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql">GraphQL</a> - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information, and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode">GraphQL for VSCode</a> - VSCode GraphQL syntax highlighting, linting, auto-complete, and more!</li>
+</ul>
+
+<h3 id="extras">Extras 🍍</h3>
+
+<ul>
+<li><a href="https://github.com/APIs-guru/graphql-apis">GraphQL APIs</a> - A list of public GraphQL APIs to test your skills or to build something with them.</li>
+<li><a href="https://www.youtube.com/watch?v=783ccP__No8">GraphQL: The Documentary</a> - A 30 min video that explores the story of why and how GraphQL came to be and the impact it&rsquo;s having on big #tech companies worldwide, including Facebook, Twitter, Airbnb, and Github.</li>
+</ul>
+
+    </div>
+    <footer>
+        <ul class="stats">
+  
+    
+    
+      <li class="categories">
+        <ul>
+          
+            
+            <li><a class="article-category-link" href="https://blog.ramonmorcillo.com/categories/technology">Technology</a></li>
+          
+        </ul>
+      </li>
+    
+  
+  
+    
+    
+      <li class="tags">
+        <ul>
+          
+            
+            <li><a class="article-category-link" href="https://blog.ramonmorcillo.com/tags/code">Code</a></li>
+          
+            
+            <li><a class="article-category-link" href="https://blog.ramonmorcillo.com/tags/hello-world">Hello World</a></li>
+          
+            
+            <li><a class="article-category-link" href="https://blog.ramonmorcillo.com/tags/graphql">GraphQL</a></li>
+          
+        </ul>
+      </li>
+    
+  
+</ul>
+
+    </footer>
+</article>
+
+    <article class="post">
+      
+      <script>
+
+function changeValue(elementName, newValue){
+  console.log('changevalue');
+  document.getElementsByName(elementName)[0].value=newValue;
+  window.location.hash = "#comment-form";
+};
+
+</script>
+
+
+    <section id="comments">
+        
+        <h3 class="title"><a href="#comments">&#9997; Comments</a></h3>
+        <section class="staticman-comments post-comments">
+            
+            
+            
+    
+            
+            
+    
+
+        <form id="comment-form" class="post-new-comment" method="post" action="https://staticman359.herokuapp.com/v2/entry/reymon359/my_blog/master/comments">
+            
+                <p>Be the first to leave a comment! 🎉</p>
+            
+            <h3 class="prompt">Say something</h3>
+            <input type="hidden" name="options[redirect]" value="https://blog.ramonmorcillo.com/blog/graphql-hello-world-server/#comment-submitted">
+            <input type="hidden" name="options[slug]" value="index">
+            <input type="text" name="fields[name]" class="post-comment-field" placeholder="Name *" required/>
+            <input type="email" name="fields[email]" class="post-comment-field" placeholder="Email address (will not be public) *" required/>
+            <input type="hidden" id="comment-parent" name="fields[reply_to]" value="">
+            <textarea name="fields[comment]" class="post-comment-field" placeholder="Comment (markdown is accepted) *" required rows="10"></textarea>
+            <input type="submit" class="post-comment-field btn btn-primary comment-buttons" value="Submit">
+        </form>
+    </section>
+
+    <div id="comment-submitted" class="dialog">
+        <h3>Thank you!</h3>
+        <p>Your comment has been submitted and will be published once it has been approved. &#128522;</p>
+
+        <p><a href="#" class="button btn btn-primary comment-buttons ok">OK</a></p>
+    </div>
+
+    
+</section>
+
+<style>
+ 
+
+.post-comments {
+   margin-top: 60px;
+}
+
+.post-comment {
+   background-color: rgb(247, 247, 247);
+   padding: 20px;
+   margin-top: 20px;
+}
+
+.post-comment-header {
+   margin-bottom: 20px;
+}
+
+.post-comment-avatar {
+   display: inline-block;
+   vertical-align: middle;
+   border-radius: 50%;
+}
+
+.post-comment-info {
+   display: inline-block;
+   margin-left: 20px;
+   margin-bottom: 0;
+   vertical-align: middle;
+}
+
+ 
+.post-comment-field, .post-blogsubscriber-btn {
+   display: block;
+   font: inherit;
+   padding: 10px;
+   margin-top: 20px;
+   outline-color: #9b6bcc;
+   width: 100%;
+}
+
+ 
+
+.post-comment-info .post-comment-name {
+   font-size: 1.4rem;
+   font-weight: 500;
+
+}
+
+.post-comment-info .post-time {
+   font-size: 14px;
+   font-weight: normal;
+   letter-spacing: 0.03em;
+   color: #888;
+
+}
+
+.post-comment-info .post-time:hover {
+   color: #9b6bcc;
+}
+
+.comment-message{
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+ 
+
+ 
+
+.dialog {
+   display: none;
+   position: fixed;
+   background-color: #f4f4f4;
+   padding: 25px;
+   padding-top: 20%;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   z-index: 1;
+   text-align: center;
+}
+
+.dialog:target {
+   display: block;
+}
+
+.dialog .btn-primary.comment-buttons.ok {
+   width: 7rem;
+}
+
+ 
+
+ 
+
+input[type=checkbox].checkbox {
+   display: none;
+}
+
+.checkbox-label {
+   position: relative;
+   padding-left: 0px;
+   padding-bottom: 0px;
+   margin-top: 10px;
+   margin-bottom: 15px;
+   float: left;
+}
+
+.checkbox-label:before {
+   content: ' ';
+   display: inline-block;
+   width: 25px;
+   height: 25px;
+   border-width: 1px;
+   border-style: solid;
+   vertical-align: middle;
+   position: relative;
+   bottom: 2px;color: rgb(169, 169, 169);    
+}
+
+.checkbox:checked+.checkbox-label:after {
+   content: 'x';
+   display: inline-block;
+   position: absolute;
+   width: 25px;
+   height: 25px;
+   border-width: 2px;
+   line-height: 25px;
+   top: 11px;
+   left: 1px;
+   font-family: sans-serif;
+   text-align: center;
+}
+
+ 
+
+ 
+
+.post-blogsubscriber-field.left {
+   clear: left;
+   float: left;
+   font: inherit;
+   padding: 10px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   outline-color: #9b6bcc;
+   width: 48%;  
+}
+
+.post-blogsubscriber-field.right {
+   clear: none;
+   float: right;
+   font: inherit;
+   padding: 10px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   outline-color: #9b6bcc;
+   width: 48%;  
+}
+
+ 
+</style>
+    </article>
+
+
+<div class="pagination">
+  
+    <a href="/blog/visiting-dolomites/" class="button big previous"><i class="fas fa-angle-left"></i> Visiting the Dolomites</a>
+  
+  
+</div>
+
+       
+      </main>
+      <section id="site-sidebar">
+  
+    <section id="recent-posts">
+      <header>
+        <h1>Recent posts</h1>
+      </header>
+      
+      <article class="mini-post">
+        <section>
+          
+<a href="/blog/graphql-hello-world-server/" class="image featured">
+  <img src="/img/2020/graphql-hello-world-server/gia-oris-_uM5_nG2ssc-unsplash.jpg" alt="GraphQL Hello World Server">
+</a>
+
+
+        </section>
+        <header>
+          <h1><a href="/blog/graphql-hello-world-server/">GraphQL Hello World Server</a></h1>
+          <time class="published" datetime="">May 6, 2020</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
+        <section>
+          
+<a href="/blog/visiting-dolomites/" class="image featured">
+  <img src="/img/2019/dolomites.jpg" alt="Dolomites">
+</a>
+
+
+        </section>
+        <header>
+          <h1><a href="/blog/visiting-dolomites/">Visiting the Dolomites</a></h1>
+          <time class="published" datetime="">August 29, 2019</time>
+        </header>
+      </article>
+      
+      <article class="mini-post">
+        <section>
+          
+<a href="/blog/antivirus-free/" class="image featured">
+  <img src="/img/2019/antivirus.jpg" alt="ESET INTERNET SECURITY">
+</a>
+
+
+        </section>
+        <header>
+          <h1><a href="/blog/antivirus-free/">How to protect your computer</a></h1>
+          <time class="published" datetime="">August 16, 2019</time>
+        </header>
+      </article>
+      
+      
+    </section>
+  
+
+  
+    
+      <section id="categories">
+        <header>
+          <h1><a href="/categories">Categories</a></h1>
+        </header>
+        <ul>
+          
+            
+          
+          
+          <li>
+            
+              <a href="/categories/technology/">technology<span class="count">2</span></a>
+            
+          
+          <li>
+            
+              <a href="/categories/travel/">travel<span class="count">1</span></a>
+            
+          
+          </li>
+        </ul>
+      </section>
+    
+  
+
+  <section id="mini-bio">
+    <header>
+      <h1>About</h1>
+    </header>
+    <p>Ramon Morcillo is a Software Engineer who likes to develop web stuff.</p>
+    <footer>
+      <a href="/about" class="button">Learn More</a>
+    </footer>
+  </section>
+</section>
+
+      <footer id="site-footer">
+  
+      <ul class="socnet-icons">
+        
+        <li><a href="//github.com/reymon359" target="_blank" rel="noopener" title="GitHub" class="fab fa-github"></a></li>
+
+
+
+
+<li><a href="//codepen.io/reymon359" target="_blank" rel="noopener" title="CodePen" class="fab fa-codepen"></a></li>
+
+
+
+
+
+
+<li><a href="//linkedin.com/in/ramon-morcillo" target="_blank" rel="noopener" title="LinkedIn" class="fab fa-linkedin"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="//twitter.com/reymon359" target="_blank" rel="noopener" title="Twitter" class="fab fa-twitter"></a></li>
+
+
+
+<li><a href="//telegram.me/reymon359" target="_blank" rel="noopener" title="telegram" class="fab fa-telegram"></a></li>
+
+
+
+
+
+
+<li><a href="mailto:ramonmorcillodev@gmail.com" target="_blank" title="Email" class="far fa-envelope"></a></li>
+
+      </ul>
+  
+  <p class="copyright">
+    
+      &copy; 2020
+      
+        Ramon Morcillo
+      
+    . <br>
+    Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.57.1' target='_blank' rel='noopener'>Hugo</a>
+  </p>
+</footer>
+<a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
+
+      
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/html.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/css.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/js.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/toml.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+
+  
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
+  <script src=/js/util.js></script>
+  <script src=/js/main.js></script>
+  <script src=/js/add-on.js></script>
+  
+
+
+
+    </div>
+  </body>
+</html>

@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://blog.ramonmorcillo.com/blog/</loc>
-    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://blog.ramonmorcillo.com/categories/</loc>
-    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -33,18 +33,28 @@
   </url>
   
   <url>
-    <loc>https://blog.ramonmorcillo.com/tags/italy/</loc>
-    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+    <loc>https://blog.ramonmorcillo.com/tags/code/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.ramonmorcillo.com/tags/mountain/</loc>
-    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+    <loc>https://blog.ramonmorcillo.com/tags/graphql/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ramonmorcillo.com/blog/graphql-hello-world-server/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ramonmorcillo.com/tags/hello-world/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.ramonmorcillo.com/</loc>
-    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -59,7 +69,7 @@
   
   <url>
     <loc>https://blog.ramonmorcillo.com/tags/</loc>
-    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -70,6 +80,21 @@
                 hreflang="en"
                 href="https://blog.ramonmorcillo.com/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://blog.ramonmorcillo.com/categories/technology/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ramonmorcillo.com/tags/italy/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ramonmorcillo.com/tags/mountain/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -135,11 +160,6 @@
                 hreflang="en"
                 href="https://blog.ramonmorcillo.com/blog/antivirus-free/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://blog.ramonmorcillo.com/categories/technology/</loc>
-    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
