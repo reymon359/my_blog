@@ -1,6 +1,6 @@
 +++
 author = "Ramón Morcillo"
-categories = ["Technology"]
+categories = ["Developer"]
 tags = ["Code", "Hello World", "GraphQL"]
 date = "2020-05-06"
 description = "Hello World project to explain how GraphQL Works"
@@ -15,11 +15,11 @@ draft = "false"
 
 # GraphQL Hello World Server
 
-The main purpose of this server-client [Node.js](https://nodejs.org/en/) project is to help other people to **understand how GraphQL exposes the data from the Server and the Client fetches it**, therefore I have tried to make it as simple as possible. And by the way, in case you want to dive into the code of the project you can find it [here](https://github.com/reymon359/graphql-hello-world-server).
+The main purpose of this server-client [Node.js](https://nodejs.org/en/) project is to help other people **understand how GraphQL exposes the data from the Server and the Client fetches it**. I have tried to make it as simple as possible- if you want to dive into the code of the project you can find it [here](https://github.com/reymon359/graphql-hello-world-server).
 
-Now, going straight to the point: [GraphQL](https://graphql.org/) is a **query language for [APIs](https://en.wikipedia.org/wiki/Application_programming_interface)** developed and [open-sourced by Facebook](https://engineering.fb.com/core-data/graphql-a-data-query-language/) to speed up the request process.
+Now, straight to the point: [GraphQL](https://graphql.org/) is a **query language for [APIs](https://en.wikipedia.org/wiki/Application_programming_interface)** developed and [open-sourced by Facebook](https://engineering.fb.com/core-data/graphql-a-data-query-language/) to speed up the request process.
 
-While [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) has been a popular way to expose data from a server, instead of having **multiple endpoints** that return fixed data structures, GraphQL just has **a single endpoint** and it is the client's job to specify what data needs from it.
+While [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) has been a popular way to expose data from a server, instead of having **multiple endpoints** that return fixed data structures, GraphQL just has **a single endpoint** and it is the client's job to specify what data it needs from it.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ While [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) has 
 - [Add Resolver function](#add-resolver-function)
 - [Set up the Server](#set-up-the-server)
 - [Set up the Client](#set-up-the-client)
-- [Fetching data from server](#fetching-data-from-server)
+- [Fetching data from the server](#fetching-data-from-the-server)
 - [Displaying the data](#displaying-the-data)
 - [Conclusion](#conclusion)
 - [Useful resources](#useful-resources)
@@ -40,7 +40,7 @@ While [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) has 
 
 ## Getting started
 
-Well, the first step is to [download and install Node.js](https://nodejs.org/en/download/) in case you haven't already. Once you have it installed let's begin with the directory structure. The project will be composed of **two directories**, one for the Client and another for the Server. I have chosen to keep both inside of the project root directory but you can split then in two separate projects or in any way you want.
+The first step is to [download and install Node.js](https://nodejs.org/en/download/) in case you haven't already. Once you have it installed let's begin with the directory structure. The project will be composed of **two directories**, one for the Client and another for the Server. I have chosen to keep both inside the project root directory but then you can split it into two separate projects or any way you want.
 
 ```text
 📁project
@@ -48,7 +48,7 @@ Well, the first step is to [download and install Node.js](https://nodejs.org/en/
 └── 📁server
 ```
 
-Now we will initialize the project in the server directory. Change the location to the server folder in your terminal and run `npm init` to fill the project info and generate the **package.json** file. Or `npm init -y` which tells the generator to use the defaults instead of asking questions and simply generates an empty npm project without going through an interactive process.
+Now we will initialize the project in the server directory. Change the location to the server folder in your terminal and run `npm init` to fill the project info and generate the **package.json** file. Or `npm init -y` which tells the generator to use the defaults (instead of asking questions and simply generate an empty npm project without going through an interactive process).
 
 The next step will be to install [GraphQL.js](https://github.com/graphql/graphql-js) and [Apollo Server](https://github.com/apollographql/apollo-server) to our server. GraphQL.js will provide two important capabilities:
 
@@ -61,17 +61,17 @@ Apollo Server, on the other hand, will help us to implement the GraphQL function
 
 > Apollo is a platform for building a data graph, a communication layer that seamlessly connects your application clients (such as React and iOS apps) to your back-end services. Is an implementation of GraphQL designed for the needs of product engineering teams building modern, data-driven applications. - [Apollo Documentation](https://www.apollographql.com/docs/)
 
-What you need to know about Apollo, at least for now, is that it is a community that builds on top of GraphQL, and provides different **tools to help you build your projects**. The tools provided by Apollo are mainly 2: Client and Server.
+What you need to know about Apollo, at least for now, is it’s a community that builds on top of GraphQL, and provides different **tools to help you build your projects**. The tools provided by Apollo are mainly 2: Client and Server.
 
 - **Apollo Client** helps your Frontend communicate with a GraphQL API. It has support for the most popular frameworks such as React, Vue, or Angular and native development on iOS and Android.
 
 - **Apollo Server** is the GraphQL server layer in your backend that delivers the responses back to the client requests.
 
-Now that you understand better what is Apollo and why we will use it let's continue setting up GraphQL.
+Now that you understand Apollo better and why we will use it, let's continue setting up GraphQL.
 
 ## Define the Schema
 
-A GraphQL Schema is at the core of any GraphQL server implementation. It **describes the shape of your data** defining it with a hierarchy of **types** with fields that are populated from your data source and also specifies which **queries** and **mutations** are available so the client knows about the information that can be requested or sent.
+A GraphQL Schema is at the core of any GraphQL server implementation. It **describes the shape of your data**, defining it with a hierarchy of **types** with fields that are populated from your data source and also specifies which **queries** and **mutations** are available so the client knows about the information that can be requested or sent.
 
 For example, if we wanted to build a music application, our simplest schema, usually defined in a `schema.graphql` file, would contain two **Object types**: `Song` and `Author` like this
 
@@ -117,7 +117,7 @@ We have to import the **tag function** `gql` from **apollo-server** to parse the
 
 > When a GraphQL server receives a query to process it generally comes in as a String. This string must be tokenized and parsed into a representation that the machine understands. This representation is called an abstract syntax tree.
 
-By the way, if you want to learn more about abstract syntax trees [AST Explorer](https://astexplorer.net/) is an online tool which lets you explore the syntax tree created by a chosen language as a parser.
+If you want to learn more about abstract syntax trees [AST Explorer](https://astexplorer.net/) is an online tool that lets you explore the syntax tree created by a chosen language as a parser.
 
 The `server.js` file would look like this.
 
@@ -133,7 +133,7 @@ const typeDefs = gql`
 
 ## Add Resolver function
 
-Now that we have defined our Schema we need a way to answer the client requests for that data; the **resolvers**.
+Now we have defined our Schema we need a way to answer the client requests for that data; the **resolvers**.
 **A resolver is a function that handles the data for each one of the fields of your schema**. You can send that data to the client by **fetching a back-end database** or a third-party **API** among others.
 
 They have to **match the type definitions of the Schema**, in our case, we just have one type definition Query which returns a greeting of type String so we will define a resolver for the `greeting` field, like so:
@@ -146,7 +146,7 @@ const resolvers = {
 };
 ```
 
-As I explained at the beginning we will keep this example as simple as possible but keep in mind that in a real case **here is where you have to make the queries** to the database, external API, or wherever from which you intend to extract the query data.
+As I explained at the beginning we will keep this example as simple as possible but keep in mind that in a real case **here is where you have to make the queries** to the database, external API, or from wherever which you intend to extract the query data.
 
 ## Set up the Server
 
@@ -158,7 +158,7 @@ const { ApolloServer, gql } = require('apollo-server');
 const server = new ApolloServer({ typeDefs, resolvers });
 ```
 
-Then calling the `listen` method we start the server on the `port` we specify in the params.
+Then calling the `listen` method we start the server on the `port` that we specify in the params.
 
 ```js
 server
@@ -207,17 +207,19 @@ You can go and check it on [http://localhost:9000/](http://localhost:9000/)
 Server running at http://localhost:9000/
 ```
 
-As the first time getting around graphql, you may be thinking **what is this application I am seeing in front of me if we have not written a single line of client code?**.
+For the first time using GraphQL, you may be thinking **what is this application I am seeing in front of me if we have not written a single line of client code?**.
 
 The answer to that question is the **GraphQL Playground**.
 
-![GraphQL Playground](./graphql-playground.png)
+![GraphQL Playground. Source: https://github.com/prisma-labs/graphql-playground](./graphql-playground.png)
 
 > [GraphQL Playground](https://github.com/prisma-labs/graphql-playground) is a graphical, interactive, in-browser GraphQL IDE, created by [Prisma](https://www.prisma.io/) and based on [GraphiQL](https://github.com/graphql/graphiql). - [Apollo docs](https://www.apollographql.com/docs/apollo-server/testing/graphql-playground/)
 
-But what does that mean? It means that this is an environment where we can perform Queries, Mutations or Subscriptions to our schema and interact with its data.
+But what does that mean? It means that this is an environment where we can perform Queries, Mutations, or Subscriptions to our schema and interact with its data.
 
 If you have worked with **RESTful** requests before this would be some kind of equivalent to [Postman](https://www.postman.com/), just that here you **do not have to download and configure anything**, it just **comes by default** with Apollo!
+
+![Awesome](./awesome-chris-pratt.gif)
 
 So let's try it!
 
@@ -225,7 +227,7 @@ So let's try it!
 2. Then press the ▶ button that is in the middle.
 3. And _Voila!_ On the right panel appears the data we defined in our resolver to return.
 
-![Greeting query on playground](./greeting-query-on-playground.gif)
+![Writting query on GraphQl Playground](./greeting-query-on-playground.gif)
 
 ## Set up the Client
 
@@ -258,7 +260,7 @@ The `index.html` file will have the basics of any `HTML` file and a loading head
 </html>
 ```
 
-## Fetching data from server
+## Fetching data from the server
 
 First off, in the same client folder, we create an `app.js` file where we will write the client logic to fetch the data from the server.
 
@@ -271,7 +273,7 @@ First off, in the same client folder, we create an `app.js` file where we will w
     └── 📄server.js
 ```
 
-Inside it, we set the server url to which we will make the requests.
+Inside it, we set the server url to which we will make the request.
 
 ```js
 const GRAPHQL_URL = 'http://localhost:9000/';
@@ -333,11 +335,11 @@ fetchGreeting();
 
 If you open the file in your browser and see the **console on the developer tools** you can see that we actually got the greeting data from the query🙌!
 
-![Fetching data from server](./fetching-data-from-server.png)
+![Fetching data from the server](./fetching-data-from-server.png)
 
 ## Displaying the data
 
-Now that we successfully get the data from the server let's **update the loading title**. The first thing we will do is destructure the response and return just the `data` from it.
+Now that we have successfully got the data from the server let's **update the loading title**. The first thing we will do is destructure the response and return just the `data` from it.
 
 Just replace this part of the code
 
@@ -398,9 +400,9 @@ And our `index.html` will have the loading title updated with the data fetched f
 
 ## Conclusion
 
-I hope you enjoyed the post and that this project has fulfilled the objective of showing **how graphql works under the hood**, at least in a very simple way. I know there are a lot of things that I have not explained or that I could have gone deeper but like any `hello world` project, it is intended for people who are beginners with it and so I wanted to keep it as simple as possible.
+I hope you enjoyed the post and that this project has fulfilled the objective of showing **how graphql works under the hood**, at least in a very simple way. I know there are a lot of things that I have not explained or that I could have gone deeper but like any `hello world` project, it is intended for people who are beginners with it, so I wanted to keep it as simple as possible.
 
-I'm looking forward to learning more about GrapqhQL and use it in future projects. If you've got any questions, suggestions, or feedback in general, don't hesitate to reach out on any of the social networks from [my site](https://ramonmorcillo.com) or <a ref="mailto:hey@ramonmorcillo.com">by mail</a>.
+I'm looking forward to learning more about GrapqhQL and using it in future projects. If you've got any questions, suggestions, or feedback in general, don't hesitate to reach out on any of the social networks from [my site](https://ramonmorcillo.com) or <a ref="mailto:hey@ramonmorcillo.com">by mail</a>.
 
 ## Useful resources
 
@@ -426,7 +428,7 @@ Here is a collection of links and resources which have been useful for me to imp
 ### IDEs 💻
 
 - [JS GraphQL](https://plugins.jetbrains.com/plugin/8097-js-graphql) - WebStorm and other IntelliJ-based IDEs plugin to support GraphQL language including tagged template literals in JavaScript and TypeScript.
-- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information, and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
+- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information, and autocompletion for GraphQL projects. This extension also works with queries annotated with gql tag.
 - [GraphQL for VSCode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode) - VSCode GraphQL syntax highlighting, linting, auto-complete, and more!
 
 ### Extras 🍍
