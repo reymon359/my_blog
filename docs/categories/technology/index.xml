@@ -6,20 +6,10 @@
     <description>Recent content in technology on Ramon Morcillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.ramonmorcillo.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>GraphQL Hello World Server</title>
-      <link>https://blog.ramonmorcillo.com/blog/graphql-hello-world-server/</link>
-      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.ramonmorcillo.com/blog/graphql-hello-world-server/</guid>
-      <description>GraphQL Hello World Server The main purpose of this server-client Node.js project is to help other people to understand how GraphQL exposes the data from the Server and the Client fetches it, therefore I have tried to make it as simple as possible. And by the way, in case you want to dive into the code of the project you can find it here.
-Now, going straight to the point: GraphQL is a query language for APIs developed and open-sourced by Facebook to speed up the request process.</description>
-    </item>
     
     <item>
       <title>How to protect your computer</title>

@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://blog.ramonmorcillo.com/categories/developer/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.ramonmorcillo.com/tags/graphql/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
@@ -80,11 +85,6 @@
                 hreflang="en"
                 href="https://blog.ramonmorcillo.com/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://blog.ramonmorcillo.com/categories/technology/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -160,6 +160,11 @@
                 hreflang="en"
                 href="https://blog.ramonmorcillo.com/blog/antivirus-free/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://blog.ramonmorcillo.com/categories/technology/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>

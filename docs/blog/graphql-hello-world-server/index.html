@@ -15,7 +15,7 @@
 
 <meta itemprop="datePublished" content="2020-05-06T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2020-05-06T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="2376">
+<meta itemprop="wordCount" content="2361">
 
 
 
@@ -282,11 +282,11 @@
 
 <h1 id="graphql-hello-world-server">GraphQL Hello World Server</h1>
 
-<p>The main purpose of this server-client <a href="https://nodejs.org/en/">Node.js</a> project is to help other people to <strong>understand how GraphQL exposes the data from the Server and the Client fetches it</strong>, therefore I have tried to make it as simple as possible. And by the way, in case you want to dive into the code of the project you can find it <a href="https://github.com/reymon359/graphql-hello-world-server">here</a>.</p>
+<p>The main purpose of this server-client <a href="https://nodejs.org/en/">Node.js</a> project is to help other people <strong>understand how GraphQL exposes the data from the Server and the Client fetches it</strong>. I have tried to make it as simple as possible- if you want to dive into the code of the project you can find it <a href="https://github.com/reymon359/graphql-hello-world-server">here</a>.</p>
 
-<p>Now, going straight to the point: <a href="https://graphql.org/">GraphQL</a> is a <strong>query language for <a href="https://en.wikipedia.org/wiki/Application_programming_interface">APIs</a></strong> developed and <a href="https://engineering.fb.com/core-data/graphql-a-data-query-language/">open-sourced by Facebook</a> to speed up the request process.</p>
+<p>Now, straight to the point: <a href="https://graphql.org/">GraphQL</a> is a <strong>query language for <a href="https://en.wikipedia.org/wiki/Application_programming_interface">APIs</a></strong> developed and <a href="https://engineering.fb.com/core-data/graphql-a-data-query-language/">open-sourced by Facebook</a> to speed up the request process.</p>
 
-<p>While <a href="https://en.wikipedia.org/wiki/Representational_state_transfer">REST</a> has been a popular way to expose data from a server, instead of having <strong>multiple endpoints</strong> that return fixed data structures, GraphQL just has <strong>a single endpoint</strong> and it is the client&rsquo;s job to specify what data needs from it.</p>
+<p>While <a href="https://en.wikipedia.org/wiki/Representational_state_transfer">REST</a> has been a popular way to expose data from a server, instead of having <strong>multiple endpoints</strong> that return fixed data structures, GraphQL just has <strong>a single endpoint</strong> and it is the client&rsquo;s job to specify what data it needs from it.</p>
 
 <h2 id="table-of-contents">Table of Contents</h2>
 
@@ -296,7 +296,7 @@
 <li><a href="#add-resolver-function">Add Resolver function</a></li>
 <li><a href="#set-up-the-server">Set up the Server</a></li>
 <li><a href="#set-up-the-client">Set up the Client</a></li>
-<li><a href="#fetching-data-from-server">Fetching data from server</a></li>
+<li><a href="#fetching-data-from-the-server">Fetching data from the server</a></li>
 <li><a href="#displaying-the-data">Displaying the data</a></li>
 <li><a href="#conclusion">Conclusion</a></li>
 <li><a href="#useful-resources">Useful resources</a>
@@ -312,14 +312,14 @@
 
 <h2 id="getting-started">Getting started</h2>
 
-<p>Well, the first step is to <a href="https://nodejs.org/en/download/">download and install Node.js</a> in case you haven&rsquo;t already. Once you have it installed let&rsquo;s begin with the directory structure. The project will be composed of <strong>two directories</strong>, one for the Client and another for the Server. I have chosen to keep both inside of the project root directory but you can split then in two separate projects or in any way you want.</p>
+<p>The first step is to <a href="https://nodejs.org/en/download/">download and install Node.js</a> in case you haven&rsquo;t already. Once you have it installed let&rsquo;s begin with the directory structure. The project will be composed of <strong>two directories</strong>, one for the Client and another for the Server. I have chosen to keep both inside the project root directory but then you can split it into two separate projects or any way you want.</p>
 
 <pre><code class="language-text">📁project
 ├── 📁client
 └── 📁server
 </code></pre>
 
-<p>Now we will initialize the project in the server directory. Change the location to the server folder in your terminal and run <code>npm init</code> to fill the project info and generate the <strong>package.json</strong> file. Or <code>npm init -y</code> which tells the generator to use the defaults instead of asking questions and simply generates an empty npm project without going through an interactive process.</p>
+<p>Now we will initialize the project in the server directory. Change the location to the server folder in your terminal and run <code>npm init</code> to fill the project info and generate the <strong>package.json</strong> file. Or <code>npm init -y</code> which tells the generator to use the defaults (instead of asking questions and simply generate an empty npm project without going through an interactive process).</p>
 
 <p>The next step will be to install <a href="https://github.com/graphql/graphql-js">GraphQL.js</a> and <a href="https://github.com/apollographql/apollo-server">Apollo Server</a> to our server. GraphQL.js will provide two important capabilities:</p>
 
@@ -336,7 +336,7 @@
 <p>Apollo is a platform for building a data graph, a communication layer that seamlessly connects your application clients (such as React and iOS apps) to your back-end services. Is an implementation of GraphQL designed for the needs of product engineering teams building modern, data-driven applications. - <a href="https://www.apollographql.com/docs/">Apollo Documentation</a></p>
 </blockquote>
 
-<p>What you need to know about Apollo, at least for now, is that it is a community that builds on top of GraphQL, and provides different <strong>tools to help you build your projects</strong>. The tools provided by Apollo are mainly 2: Client and Server.</p>
+<p>What you need to know about Apollo, at least for now, is it’s a community that builds on top of GraphQL, and provides different <strong>tools to help you build your projects</strong>. The tools provided by Apollo are mainly 2: Client and Server.</p>
 
 <ul>
 <li><p><strong>Apollo Client</strong> helps your Frontend communicate with a GraphQL API. It has support for the most popular frameworks such as React, Vue, or Angular and native development on iOS and Android.</p></li>
@@ -344,11 +344,11 @@
 <li><p><strong>Apollo Server</strong> is the GraphQL server layer in your backend that delivers the responses back to the client requests.</p></li>
 </ul>
 
-<p>Now that you understand better what is Apollo and why we will use it let&rsquo;s continue setting up GraphQL.</p>
+<p>Now that you understand Apollo better and why we will use it, let&rsquo;s continue setting up GraphQL.</p>
 
 <h2 id="define-the-schema">Define the Schema</h2>
 
-<p>A GraphQL Schema is at the core of any GraphQL server implementation. It <strong>describes the shape of your data</strong> defining it with a hierarchy of <strong>types</strong> with fields that are populated from your data source and also specifies which <strong>queries</strong> and <strong>mutations</strong> are available so the client knows about the information that can be requested or sent.</p>
+<p>A GraphQL Schema is at the core of any GraphQL server implementation. It <strong>describes the shape of your data</strong>, defining it with a hierarchy of <strong>types</strong> with fields that are populated from your data source and also specifies which <strong>queries</strong> and <strong>mutations</strong> are available so the client knows about the information that can be requested or sent.</p>
 
 <p>For example, if we wanted to build a music application, our simplest schema, usually defined in a <code>schema.graphql</code> file, would contain two <strong>Object types</strong>: <code>Song</code> and <code>Author</code> like this</p>
 
@@ -392,7 +392,7 @@ type Author {
 <p>When a GraphQL server receives a query to process it generally comes in as a String. This string must be tokenized and parsed into a representation that the machine understands. This representation is called an abstract syntax tree.</p>
 </blockquote>
 
-<p>By the way, if you want to learn more about abstract syntax trees <a href="https://astexplorer.net/">AST Explorer</a> is an online tool which lets you explore the syntax tree created by a chosen language as a parser.</p>
+<p>If you want to learn more about abstract syntax trees <a href="https://astexplorer.net/">AST Explorer</a> is an online tool that lets you explore the syntax tree created by a chosen language as a parser.</p>
 
 <p>The <code>server.js</code> file would look like this.</p>
 
@@ -407,7 +407,7 @@ const typeDefs = gql`
 
 <h2 id="add-resolver-function">Add Resolver function</h2>
 
-<p>Now that we have defined our Schema we need a way to answer the client requests for that data; the <strong>resolvers</strong>.
+<p>Now we have defined our Schema we need a way to answer the client requests for that data; the <strong>resolvers</strong>.
 <strong>A resolver is a function that handles the data for each one of the fields of your schema</strong>. You can send that data to the client by <strong>fetching a back-end database</strong> or a third-party <strong>API</strong> among others.</p>
 
 <p>They have to <strong>match the type definitions of the Schema</strong>, in our case, we just have one type definition Query which returns a greeting of type String so we will define a resolver for the <code>greeting</code> field, like so:</p>
@@ -419,7 +419,7 @@ const typeDefs = gql`
 };
 </code></pre>
 
-<p>As I explained at the beginning we will keep this example as simple as possible but keep in mind that in a real case <strong>here is where you have to make the queries</strong> to the database, external API, or wherever from which you intend to extract the query data.</p>
+<p>As I explained at the beginning we will keep this example as simple as possible but keep in mind that in a real case <strong>here is where you have to make the queries</strong> to the database, external API, or from wherever which you intend to extract the query data.</p>
 
 <h2 id="set-up-the-server">Set up the Server</h2>
 
@@ -430,7 +430,7 @@ const typeDefs = gql`
 const server = new ApolloServer({ typeDefs, resolvers });
 </code></pre>
 
-<p>Then calling the <code>listen</code> method we start the server on the <code>port</code> we specify in the params.</p>
+<p>Then calling the <code>listen</code> method we start the server on the <code>port</code> that we specify in the params.</p>
 
 <pre><code class="language-js">server
   .listen({ port: 9000 })
@@ -475,19 +475,21 @@ server
 Server running at http://localhost:9000/
 </code></pre>
 
-<p>As the first time getting around graphql, you may be thinking <strong>what is this application I am seeing in front of me if we have not written a single line of client code?</strong>.</p>
+<p>For the first time using GraphQL, you may be thinking <strong>what is this application I am seeing in front of me if we have not written a single line of client code?</strong>.</p>
 
 <p>The answer to that question is the <strong>GraphQL Playground</strong>.</p>
 
-<p><img src="./graphql-playground.png" alt="GraphQL Playground" /></p>
+<p><img src="./graphql-playground.png" alt="GraphQL Playground. Source: https://github.com/prisma-labs/graphql-playground" /></p>
 
 <blockquote>
 <p><a href="https://github.com/prisma-labs/graphql-playground">GraphQL Playground</a> is a graphical, interactive, in-browser GraphQL IDE, created by <a href="https://www.prisma.io/">Prisma</a> and based on <a href="https://github.com/graphql/graphiql">GraphiQL</a>. - <a href="https://www.apollographql.com/docs/apollo-server/testing/graphql-playground/">Apollo docs</a></p>
 </blockquote>
 
-<p>But what does that mean? It means that this is an environment where we can perform Queries, Mutations or Subscriptions to our schema and interact with its data.</p>
+<p>But what does that mean? It means that this is an environment where we can perform Queries, Mutations, or Subscriptions to our schema and interact with its data.</p>
 
 <p>If you have worked with <strong>RESTful</strong> requests before this would be some kind of equivalent to <a href="https://www.postman.com/">Postman</a>, just that here you <strong>do not have to download and configure anything</strong>, it just <strong>comes by default</strong> with Apollo!</p>
+
+<p><img src="./awesome-chris-pratt.gif" alt="Awesome" /></p>
 
 <p>So let&rsquo;s try it!</p>
 
@@ -497,7 +499,7 @@ Server running at http://localhost:9000/
 <li>And <em>Voila!</em> On the right panel appears the data we defined in our resolver to return.</li>
 </ol>
 
-<p><img src="./greeting-query-on-playground.gif" alt="Greeting query on playground" /></p>
+<p><img src="./greeting-query-on-playground.gif" alt="Writting query on GraphQl Playground" /></p>
 
 <h2 id="set-up-the-client">Set up the Client</h2>
 
@@ -528,7 +530,7 @@ Server running at http://localhost:9000/
 &lt;/html&gt;
 </code></pre>
 
-<h2 id="fetching-data-from-server">Fetching data from server</h2>
+<h2 id="fetching-data-from-the-server">Fetching data from the server</h2>
 
 <p>First off, in the same client folder, we create an <code>app.js</code> file where we will write the client logic to fetch the data from the server.</p>
 
@@ -540,7 +542,7 @@ Server running at http://localhost:9000/
     └── 📄server.js
 </code></pre>
 
-<p>Inside it, we set the server url to which we will make the requests.</p>
+<p>Inside it, we set the server url to which we will make the request.</p>
 
 <pre><code class="language-js">const GRAPHQL_URL = 'http://localhost:9000/';
 </code></pre>
@@ -599,11 +601,11 @@ fetchGreeting();
 
 <p>If you open the file in your browser and see the <strong>console on the developer tools</strong> you can see that we actually got the greeting data from the query🙌!</p>
 
-<p><img src="./fetching-data-from-server.png" alt="Fetching data from server" /></p>
+<p><img src="./fetching-data-from-server.png" alt="Fetching data from the server" /></p>
 
 <h2 id="displaying-the-data">Displaying the data</h2>
 
-<p>Now that we successfully get the data from the server let&rsquo;s <strong>update the loading title</strong>. The first thing we will do is destructure the response and return just the <code>data</code> from it.</p>
+<p>Now that we have successfully got the data from the server let&rsquo;s <strong>update the loading title</strong>. The first thing we will do is destructure the response and return just the <code>data</code> from it.</p>
 
 <p>Just replace this part of the code</p>
 
@@ -660,9 +662,9 @@ fetchGreeting().then(({ greeting }) =&gt; {
 
 <h2 id="conclusion">Conclusion</h2>
 
-<p>I hope you enjoyed the post and that this project has fulfilled the objective of showing <strong>how graphql works under the hood</strong>, at least in a very simple way. I know there are a lot of things that I have not explained or that I could have gone deeper but like any <code>hello world</code> project, it is intended for people who are beginners with it and so I wanted to keep it as simple as possible.</p>
+<p>I hope you enjoyed the post and that this project has fulfilled the objective of showing <strong>how graphql works under the hood</strong>, at least in a very simple way. I know there are a lot of things that I have not explained or that I could have gone deeper but like any <code>hello world</code> project, it is intended for people who are beginners with it, so I wanted to keep it as simple as possible.</p>
 
-<p>I&rsquo;m looking forward to learning more about GrapqhQL and use it in future projects. If you&rsquo;ve got any questions, suggestions, or feedback in general, don&rsquo;t hesitate to reach out on any of the social networks from <a href="https://ramonmorcillo.com">my site</a> or <a ref="mailto:hey@ramonmorcillo.com">by mail</a>.</p>
+<p>I&rsquo;m looking forward to learning more about GrapqhQL and using it in future projects. If you&rsquo;ve got any questions, suggestions, or feedback in general, don&rsquo;t hesitate to reach out on any of the social networks from <a href="https://ramonmorcillo.com">my site</a> or <a ref="mailto:hey@ramonmorcillo.com">by mail</a>.</p>
 
 <h2 id="useful-resources">Useful resources</h2>
 
@@ -695,7 +697,7 @@ fetchGreeting().then(({ greeting }) =&gt; {
 
 <ul>
 <li><a href="https://plugins.jetbrains.com/plugin/8097-js-graphql">JS GraphQL</a> - WebStorm and other IntelliJ-based IDEs plugin to support GraphQL language including tagged template literals in JavaScript and TypeScript.</li>
-<li><a href="https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql">GraphQL</a> - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information, and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql">GraphQL</a> - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information, and autocompletion for GraphQL projects. This extension also works with queries annotated with gql tag.</li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode">GraphQL for VSCode</a> - VSCode GraphQL syntax highlighting, linting, auto-complete, and more!</li>
 </ul>
 
@@ -716,7 +718,7 @@ fetchGreeting().then(({ greeting }) =&gt; {
         <ul>
           
             
-            <li><a class="article-category-link" href="https://blog.ramonmorcillo.com/categories/technology">Technology</a></li>
+            <li><a class="article-category-link" href="https://blog.ramonmorcillo.com/categories/developer">Developer</a></li>
           
         </ul>
       </li>
@@ -1039,7 +1041,12 @@ input[type=checkbox].checkbox {
           
           <li>
             
-              <a href="/categories/technology/">technology<span class="count">2</span></a>
+              <a href="/categories/developer/">developer<span class="count">1</span></a>
+            
+          
+          <li>
+            
+              <a href="/categories/technology/">technology<span class="count">1</span></a>
             
           
           <li>
